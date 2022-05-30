@@ -33,23 +33,3 @@
 
 
 
-16	第十五套题更新——2022.2.20 17：00场
-16.1	阅读
-16.2	看图：
-1. 会议室里，4个人，左边2个女士一个坐着一个站着在讨论，都在笑。右边一个男的一个女的在讨论。
-2. 有5个人在街上，左侧一个男的牵着宠物跟另一个女的在交谈，中间一个男人靠着商店门口站着。右边一男一女两个人在红绿灯旁边等着过马路
-16.3	问答：
-关于去另一个国家旅游。
-1.喜欢哪个国家，是否去过哪里。
-2.你喜欢一个人去旅行还是和朋友。
-3.去到另一个国家，你更注重哪些因素。语言，食物还有一个好像是文化（没仔细看忘了）。
-16.4	日程安排：
-1.问会议什么时候开始，第一个议题是什么
-2.问11点要走，会不会错过什么东西。（不会）
-3.问scott先生具体要讲啥。在倒数第二项
-16.5	表达观点
-你认为学生在长假期应该去公司里实习吗，为什么。
-According to my personal experience, I think that the students should go to company for internship during the long holiday as the following reasons:
-Firtly, students can enhance their knowledge about the new techonology. For example, in my corporation. We can learn many knowledge in 5G telecom field.
-Secondly. According to this method, students can improver their abilitys about communication. That is very important for us. At present. no project can be completed only by oneself. And communication can make the problem be solved very quickly.
-To be reasons above, my preference is definatedly for joining the work in a company before gradated.
