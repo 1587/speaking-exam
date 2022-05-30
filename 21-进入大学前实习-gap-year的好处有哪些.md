@@ -9,7 +9,13 @@
 另外一个兄弟反馈：教室，3个人。中间的男人带着红色的beats耳机；右边的女的在翻包；
 
 图片二，
-一个小礼堂很多人正在庆祝或者颁奖，右边台子上 一个女士 正在给 另一个女士颁奖，左边台下坐着很多人，他们在鼓掌。。
+一个小礼堂很多人正在庆祝或者颁奖，右边台子上 一个女士 正在给 另一个女士颁奖，左边台下坐着很多人，他们在鼓掌。
+``` 
+The picture is taken in a hall, there are many people in this picture.
+On the right side, a woman on the stage is giving an award to another woman.
+On the left side, many people are sitting under the stage and applauding for them.
+I think they are very happy.
+```
 ### 21.3	part3（5~7）(15+15+30)
 1.	你最近一次观光旅游是什么时候，所在城市是哪儿
 2.	选择自由行还是跟团游
