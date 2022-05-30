@@ -22,11 +22,15 @@
 有兄弟认为：你认为高中生毕业后，在进入大学前 参加实习 有哪些好处
 也有认为是：如果高中毕业搞一年gap year，好处是什么
  
-某个人的观点是：
-1.可以提前了解工作和技能要求，在后续学习中有更明确的目标 
-2.体验不同的工作和生活方式，帮助未来做出正确的选择 
-3.体验生活的不易，投入更多时间和精力在学校的学习中
+My answer:
 
+``` 
+Actually, I think there are some advantages about gap year or internship.
+Firstly: You can get job experience in advance. then You will know clearly what you need to study in college, that is very important.
+Secondly: You can learn things that you can't study in school. You'll be better than your classmates.
+At last, With the gap year, we can learn a new language and experience a new culture.
+So, I think an internship/a gap year is a better way to improve ourselves.
+```
 
 
 
