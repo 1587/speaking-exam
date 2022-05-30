@@ -26,9 +26,9 @@ My answer:
 
 ``` 
 Actually, I think there are some advantages about gap year or internship.
-Firstly: You can get job experience in advance. then You will know clearly what you need to study in college, that is very important.
+Firstly: You can get job experience in advance. then You will know clearly what you need to study in college.
 Secondly: You can learn things that you can't study in school. You'll be better than your classmates.
-At last, With the gap year, we can learn a new language and experience a new culture.
+At last, With the gap year, we can learn a new language or experience a new culture.
 So, I think an internship/a gap year is a better way to improve ourselves.
 ```
 
