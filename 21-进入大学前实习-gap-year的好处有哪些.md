@@ -14,9 +14,6 @@
 1.	你最近一次观光旅游是什么时候，所在城市是哪儿
 2.	选择自由行还是跟团游
 3.	如果去观光旅游，你认为哪个更重要。① 地点 ② 美食 ③ 专业导游
-
-My answer:
-
 ``` 
 Let me think. My last tour was in Nanjing, China last year. It is a very beautiful city.
 I choose group tour, because it is cheaper and I can talk about the tour with the group.
@@ -24,7 +21,6 @@ If I go on a tour, tour guide is the most important.
 I can get professional knowledge about the tour, and study many skills from the tour guide.
 Tour guide can save our time, we will have more time to enjoy the tour.
 ```
-
 ### 21.4	part4（8~10）(15+15+30) 题目是听的
 是一个 讲课，第一个问题 问起止时间，
 第二个问题 是问一个 session是不是 周三，
