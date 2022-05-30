@@ -8,6 +8,12 @@
 一个饮品店，有两个人：左边一个男人，坐在小桌前，戴着耳机，小桌上放着电脑；右边一个女人，面前小桌上放着一些纸，她在她的黑色包里找东西。
 另外一个兄弟反馈：教室，3个人。中间的男人带着红色的beats耳机；右边的女的在翻包；
 
+```
+The picture is taken in a shop, there are two people in this picture.
+On the left side, a man with red earphone is sitting at the table, and a laptop is on the table.
+On the right side, a woman in black is sitting at another table, she is searching something from her bag.
+```
+
 图片二，
 一个小礼堂很多人正在庆祝或者颁奖，右边台子上 一个女士 正在给 另一个女士颁奖，左边台下坐着很多人，他们在鼓掌。
 ``` 
