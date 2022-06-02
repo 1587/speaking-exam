@@ -2,9 +2,9 @@
 ## 23.	其他真题中遇到的题
 ### 23.1	Part3 问题答（15+15+30）
 第1个问题：经常骑自行车吗；
-Yes, I ride the bicycle to arrive the office every day. It can exercise my body. It make my body healthier
+Yes, I ride the bicycle to arrive the office every day. It can exercise my body. It makes my body healthier
 第2个问题：去买东西是骑自行车还是别的？（简单所以没记全）
-There is a distance between metro station and my office. So I ride shared bicycle every day. It’s convenient and saves time.
+There is a distance between metro station and my office. So, I ride shared bicycle every day. It’s convenient and saves time.
 I ride my bicycle when I buy a small amount of stuff. But If I go to the supermarket to buy a lot of things, I will drive my car.
 你那里有没有自行车俱乐部，你有没有参加啥的（待确认）
 There is a bicycle club in our company. They have a ride almost every weekend. But I didn't join this club, because I need to take care of my kids on the weekend.
@@ -32,5 +32,3 @@ Firstly, working independently will make them learn work skills quickly and have
 Secondly, working independently is also a necessary ability, actually we can't expect to rely on others’ help for everything. 
 And finally, working independently will help them to build a resilient ability against work pressure. 
 Therefore, it’s important to teach new employees how to work independently.
-
-
