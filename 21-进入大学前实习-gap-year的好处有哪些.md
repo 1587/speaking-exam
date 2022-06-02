@@ -50,9 +50,3 @@ Secondly: You can learn things that you can't study in school. You'll be better 
 At last, With the gap year, we can learn a new language or experience a new culture.
 So, I think an internship/a gap year is a better way to improve ourselves.
 ```
-
-
-
-
-
-
