@@ -1,3 +1,19 @@
+问答题类解题参考：
+1、	问题都是熟悉的话题，娱乐、购买、吃饭、家人、朋友、健康、住房、新闻、商店购物和旅行
+答：都是以5W1H的格式问你，那就针对句子所问的问题展开你的思路，
+what      I usually
+Where    I think
+Why      I think
+When     I really
+How      Let me see,
+通过改述问题，挑选问句中的关键词进行回答，如果你的回答较短，可以添加一些相关的细节
+Eg: The most expensive thing I’ve ever bought is a car ,it was $25000.
+I generally prefer eating at home because it is cheaper . I love cooking and always help prepare dinner .I eat dinner with my family and I usually eat around 8 P.M. ,sometimes we go out to eat for a celebrate : such as ,when someone in my family has a birthday .
+第一题和第二题的问题说2句话，第一句从原文中找信息，第二句是对在第一句的基础上进行补充，
+第三题的问题一般是问2个问题（what ,why），先根据问句的问题 肯定你的观点，然后展开复述你的理由。
+
+
+
 托业口语11次的战绩，比较丢人，终究还是过了。11次考试8次原题，中间几次感觉,考的不错，但总是卡在120，题库都被我考没了，心灰意冷没原题我更考不过了啊。最近两次都是新题，本已不报希望，没想到早上一查居然过了，欣喜万分。经验总结：
 1和2题大家要好好准备，之前群里的同事也说过，我之前都没有准备过，最近几次在刻意去准备，最后一次考试感觉是读的最好的一次，我感觉这次能过主要靠1和2题了；
 之前都是把真题背好，过于追求快，可能发音不清楚，分数不理想，最后一次考试反正是新题没报希望，就想着说，也不是特别顺，可能说的比较慢，能让考官听清楚，都不知道自己说了啥，不怎么抱希望的一次过了。在遇到原题的情况下，说的慢一下，说的清楚一些，可能过得几率更大。
