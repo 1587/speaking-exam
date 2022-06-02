@@ -22,7 +22,9 @@ My answer:
 ```
 The picture shows there are 2 girls and 1 boy in a farm. 
 The boy with short hair and a gray shirt is on the right side of the picture. He is feeding chickens. 
-On the left side, there is a girl with long hair standing and looking at the boy. Another girl is taking photos for them by a smartphone. In the background of the picture, I can see more chickens and some buildings.
+On the left side, there is a girl with long hair standing and looking at the boy. 
+Another girl is taking photos for them by a smartphone. In the background of the picture,
+I can see more chickens and some buildings.
 I think they feel happy.
 ```
 
@@ -34,7 +36,8 @@ I think they feel happy.
 My answer:
 
 ```
-I think computers are more sold online, because the price is cheaper online and I can easily get more information about the computer.
+I think computers are more sold online, because the price is cheaper online
+and I can easily get more information about the computer.
 
 I bought my computer over internet on may this year, because the old one is broken, so I must buy a new one.
 
@@ -69,9 +72,12 @@ My answer(需要重新梳理):
 ```
 According my personal experience, If I have a new offer, I will discuss with my family, There are some advantages as follows:
 
-Firstly, my family especially my parents have worked many years, they have rich experience to give me some advice and help me make the right choice.
-Secondly, My family knows me best, they are very clear what I'm good at and where my weakness lies in, so I can make sure whether the offer is suitable for me.
-Finally, I think it is a respect to discuss the offer with them, they can feel valued, which is benefical to build the harmonious atmosphere in the family.
+Firstly, my family especially my parents have worked many years, 
+they have rich experience to give me some advice and help me make the right choice.
+Secondly, My family knows me best, they are very clear what I'm good at and where my weakness lies in, 
+so I can make sure whether the offer is suitable for me.
+Finally, I think it is a respect to discuss the offer with them, they can feel valued,
+which is benefical to build the harmonious atmosphere in the family.
 All the above are my opinions.
  
 ```
