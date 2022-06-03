@@ -28,7 +28,9 @@ I think they are very happy.
 3.	如果去观光旅游，你认为哪个更重要。① 地点 ② 美食 ③ 专业导游
 ``` 
 Let me think. My last tour was in Nanjing, China last year. It is a very beautiful city.
+
 I choose group tour, because it is cheaper and I can talk about the tour with the group.
+
 If I go on a tour, tour guide is the most important. 
 I can get professional knowledge about the tour, and study many skills from the tour guide.
 Tour guide can save our time, we will have more time to enjoy the tour.
@@ -44,9 +46,17 @@ Tour guide can save our time, we will have more time to enjoy the tour.
 My answer:
 
 ``` 
-Actually, I think there are some advantages about gap year or internship.
-Firstly: You can get job experience in advance. then You will know clearly what you need to study in college.
-Secondly: You can learn things that you can't study in school. You'll be better than your classmates.
-At last, With the gap year, we can learn a new language or experience a new culture.
-So, I think an internship/a gap year is a better way to improve ourselves.
+Yes, of cause.  student should have a gap year. There are some advantages as follows.
+
+Firstly: You can get job experience in advance. then You will know clearly what you need to learn in college. 
+(You will focus on learning that knowledge)
+
+Secondly: You can learn things that you can't study in school. (You know more than your classmates. )
+You'll be better than your classmates.
+
+Thirdly:  With the gap year, we can learn a new language or experience a new culture.
+
+At last, you can earn money through gap year, then you can buy more equipment or online classes to improve your learning.
+
+So, I think a gap year is a better way to improve themselves.
 ```
