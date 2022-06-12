@@ -72,9 +72,12 @@ Please keep that in mind.
 My answer(需要重新梳理):
 
 ```
-According my personal experience, If I have a new offer, I will discuss with my family members, There are some advantages as follows:
-Firstly: My parents have 20 years of working experience, they can help me recognize the weaknesses and the advantages of my new job.
-Secondly: Changing jobs is a big deal for a family. I must make good communications with them, they will feel better, we must respect each other.
+According my personal experience, If I have a new offer, I will discuss with my family members, 
+There are some advantages as follows:
+Firstly: My parents have 20 years of working experience, t
+hey can help me recognize the weaknesses and the advantages of my new job.
+Secondly: Changing jobs is a big deal for a family. 
+I must make good communications with them, they will feel better, we must respect each other.
 Thirdly: With family member's support we will work efficiently.
 So I think we must discuss with my family members when I have a new offer.
 ```
