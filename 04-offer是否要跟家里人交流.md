@@ -36,14 +36,16 @@ I think they feel happy.
 My answer:
 
 ```
+I bought my computer over internet on may this year, because the old one is broken, so I must buy a new one.
+
 I think computers are more sold online, because the price is cheaper online
 and I can easily get more information about the computer.
 
-I bought my computer over internet on may this year, because the old one is broken, so I must buy a new one.
+
 
 I think the most important thing is the quality.
-firstly, a lot of people can’t work efficiently without computer, if the computer often broken, we will waste much time.
-secondly, out important information is store in the computer, if the computer often broken, we will waste many information.
+firstly, if the computer often broken，a lot of people can’t work efficiently, that will waste much time.
+secondly, our important information is store in the computer, if the computer often broken, we will waste many information.
 (you know, time and information are so expensive, so I think quality is the most important thing of computer.)
 ```
 
@@ -74,10 +76,14 @@ My answer(需要重新梳理):
 ```
 According my personal experience, If I have a new offer, I will discuss with my family members, 
 There are some advantages as follows:
-Firstly: My parents have 20 years of working experience, t
-hey can help me recognize the weaknesses and the advantages of my new job.
-Secondly: Changing jobs is a big deal for a family. 
+
+Firstly: My parents have 20 years of working experience, 
+they can help me recognize the weaknesses and the advantages of my new job.
+
+Secondly: Change a jobs is a big deal for a family. 
 I must make good communications with them, they will feel better, we must respect each other.
+
 Thirdly: With family member's support we will work efficiently.
+
 So I think we must discuss with my family members when I have a new offer.
 ```
