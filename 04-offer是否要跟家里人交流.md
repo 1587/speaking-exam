@@ -44,7 +44,7 @@ I bought my computer over internet on may this year, because the old one is brok
 I think the most important thing is the quality.
 firstly, a lot of people can’t work efficiently without computer, if the computer often broken, we will waste much time.
 secondly, out important information is store in the computer, if the computer often broken, we will waste many information.
-you know, time and information are so expensive, so I think quality is the most important thing of computer.
+(you know, time and information are so expensive, so I think quality is the most important thing of computer.)
 ```
 
 ### 4.4	part4（8~10）(15+15+30) 题目是听的
@@ -56,28 +56,25 @@ My answer:
 
 ```
 The meeting is held in XXX Hall on Monday January the 17th.  Please remember that.
+
 The XXX meeting opens from 5:30 am to 6:30 am on Monday. Please remember that.
+
 There are two sessions related to Geogre Bryant. 
-First, there is a session about XX security from 6:15 am to 11pm. the session is given by xxx
+First, there is a session about XX security from 6:15 am to 11 pm. the session is given by xxx
 Next, There is a session about YY security from 3 pm to 4 pm, the session is given by xxx
 Please keep that in mind.
 ```
 
 
 ### 4.5	part5（11）(60)
-大题：如果你接到一个工作offer，你会和家里人family members商量吗？ 和家人讨论的优点是什么？
+大题：如果你接到一个工作offer，你会和家里人family members 商量吗？ 和家人讨论的优点是什么？
 
 My answer(需要重新梳理):
 
 ```
-According my personal experience, If I have a new offer, I will discuss with my family, There are some advantages as follows:
-
-Firstly, my family especially my parents have worked many years, 
-they have rich experience to give me some advice and help me make the right choice.
-Secondly, My family knows me best, they are very clear what I'm good at and where my weakness lies in, 
-so I can make sure whether the offer is suitable for me.
-Finally, I think it is a respect to discuss the offer with them, they can feel valued,
-which is benefical to build the harmonious atmosphere in the family.
-All the above are my opinions.
- 
+According my personal experience, If I have a new offer, I will discuss with my family members, There are some advantages as follows:
+Firstly: My parents have 20 years of working experience, they can help me recognize the weaknesses and the advantages of my new job.
+Secondly: Changing jobs is a big deal for a family. I must make good communications with them, they will feel better, we must respect each other.
+Thirdly: With family member's support we will work efficiently.
+So I think we must discuss with my family members when I have a new offer.
 ```
