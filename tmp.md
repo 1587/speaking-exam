@@ -1,3 +1,78 @@
+## 9.	真题9（学术/专业成功最重要因素）
+2022.10.31
+### 9.1	part1（1~2）(45s+45s)
+陌生词：Kenneth  美[ˈkenɪθ]  sculptor  英[ˈskʌlptə(r)] 
+### 9.2	part2（3 ~ 4）(30+30) 6~8个句子
+![image](https://user-images.githubusercontent.com/2299635/170910942-3eefc551-8528-4734-bc51-7dc55b2ce0ef.png)
+
+比较难判断是哪里 – 可以说是outside view外景或者不说。左边一个女的用pad或者手机给很多人拍照。这些人在开心地笑，后面有几间大房子，后面有很多书。阳光满眼，晴天。
+
+My Answer:
+
+``` 
+The picture is taken outside. There are many people in this picture. 
+On the left side, a young woman with a mini pad is taking pictures of others on the left.
+On the right side, they are all smiling and look like they are very happy.
+In the background, there are many big houses, and behind the houses, there are many trees. 
+Today is a sunny day. Sunlight is very bright. 
+```
+
+![image](https://user-images.githubusercontent.com/2299635/170911323-6b030b43-fde6-40e8-a42e-c2c225fa0e38.png)
+
+在一个会议室中，四人，6小桌子（看着是六张桌子拼凑起来的），很多凳子，一个笔记本、一台电视、一个演示板、一扇门。右后方一个女的正在给大家讲，其他人在用心听。
+
+My Answer:
+
+```
+The picture is taken in a meeting room. There are 4 people in this picture.
+On the right side, a woman with a document is speaking to other people. 
+The other guys are sitting at the desk and listening, a man in front of her is looking at a laptop. 
+On the left side, there is a TV on the wall. Beside the TV, there are two white boards, and the door of the room is opened. 
+I think they are busy.
+```
+
+### 9.3	part3（5~7）(15+15+30)
+
+你房子里面最旧的家具是什么？什么时候买的？ 
+你有什么家具购买purchase需要吗？准备买什么
+选择家具，什么因素factor最重要？.三个选项style/comfort/Materials
+
+My answer:
+
+```
+The oldest furniture in my house is my desk. I bought it ten year ago. 
+Yes, I need to buy a new chair, my current chair is broken last week.
+
+Comfort Of course. I think comfort is the most important.
+I use furniture a lot if it's not comfortable, I would be unhappy.
+I need to change another one, that would be a waste of time and money.
+So, comfort is the most important factor in choosing furniture.
+
+```
+
+### 9.4	part4（8~10）(15+15+30) 题目是听的
+
+关于traning的会议议题都有那些，说一下细节 有3场。
+
+```
+There are three topics about training. The first one is in October the third(Oct 3) named xxxxx. 
+The second one will be held in xxxxx
+```
+
+### 9.5	part5（11）(60)
+Professional success 最重要的的是什么 trustxxxness /  Open-mindedness/ Honess
+
+My answer:
+
+```
+According to my experience，I think the open-mindedness is the most important for professional success. 
+Reasons are as below. 
+Firstly, you can learn more up-to-date knowledge from others by opening your mind.
+Secondly, you can find you mistakes from other people's view that could be a risk of project failure.
+Thirdly, Open-mindedness makes the team feel better, which helps the team work together efficiently.
+Above reasons are why I think open-mindedness is the most important for the professional success.
+```
+
 
 ## 6.	真题6(未来一代为什么比现在一代更健康)
 ### 6.1	part1（1~2）(45+45)
