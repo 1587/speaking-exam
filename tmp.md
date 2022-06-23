@@ -74,6 +74,66 @@ Above reasons are why I think open-mindedness is the most important for the prof
 ```
 
 
+## 8.	真题8(作为老板高效沟通是不是最重要)
+2021.10.17, 2022.2.19, 8th May 2022, 29th May 2002
+### 8.1	part1（1~2）(45+45)
+Alito/Vehicle/(美[ˈviːəkl]  
+Pattern
+### 8.2	part2（3 ~ 4）(30+30) 6~8个句子
+ 
+露天音乐演唱会，很多人  很多乐器。台下很多观众坐在凳子上听演唱会，（晴天太阳-有阳光），表演台上XX个音乐家正在表演。（有不少细节-比如后面有个老人的身影 远处有绿色可以判断有很多树，可以遇到了自己加。）
+
+![image](https://user-images.githubusercontent.com/2299635/171656077-c77dd060-ade0-4334-80e5-2276ab1031f2.png)
+
+This is a close-up photo of a music show. 
+Many people，many chairs and many equipments are in this photo. 
+In the front, many listeners are sitting on the chairs and listening to the music. 
+At the back，many musicians are playing on the platform. 
+It is a sunny day. You can see the sunshine. It is great.
+ 
+在一个仓库里面，两个人，很多货物，很多架子，两台车。左边一个带着蓝色安全帽的黑人女人正在推一个小车（小车上有一个纸盒和两个塑料箱），右边一个带着蓝色安全帽的男人正在操作叉车（哈哈）后面是货架，有很多货物在上面，天花板上有灯。
+
+![image](https://user-images.githubusercontent.com/2299635/171656097-704a6998-3590-4ac2-bc40-b7b4741001ab.png)
+
+This is a close-up photo of a ware house. Two people, many goods and many shelves are in this photo. 
+On the left , the woman with blue hat is pushing a small cart. Three boxes are on the car. 
+On the right, a man is checking status of the forklift truck（叉车）)
+At the back, many goods are on the shelves. 
+And you can see two lights on the cell.
+
+### 8.3	part3（5~7）(15+15+30)
+多久去一次健身房？和谁一起去？
+I go the fitness center once a week. I usually go to the fitness center with my friends – Tom. He love exercise too.
+你比较喜欢什么时候去健身房？为什么 ）
+I usually go to the fitness center after dinner. During this time, few people are there. I can use all equipments and exercise every part of my body.)
+什么最影响你选择健身房？离家/公司近 器材质量  很多健身课的.
+Short distance from my home and my company is my first choice. If the fitness center is near my home, I can go there at any time. I can have much time to exercise my body, building muscles and so on.
+### 8.4	part4（8~10）(15+15+30) 题目是听的
+一个museum 博物馆会员日Wenesday October 14
+
+会员在什么时间什么地方举行？
+（简单，就看标题念吧）
+我朋友也想去，免费吗？
+No. Non-member guests should pay 25 dollar for the vist.
+关于Tour的event有哪些？具体呢？
+Two events about tour. 
+One is at xx:xx named xxxx  given by xxxx . 
+Another is. at xx:xx named xxxx  given by xxxx. 
+Please remember.
+
+Not free for non-member,Non-members should pay $25 for the tiket
+### 8.5	part5（11）(60)
+作为一个团队的leader 高效沟通是不是最重要的？为什么/为什么不？举证或者举例
+```
+I think colleague communicate well is the most important. there are some reasons as follows:
+Firstly, good communication enable us to express our views clearly, and share out views with our colleagues. 
+Secondly, good communication enable us to think about other one's views, it very important for our work. 
+Finally, good communication can make team members feel better, which can makes our work efficiently.
+The above reasons are why I think colleague communicate well is the most important.
+```
+
+
+
 ## 6.	真题6(未来一代为什么比现在一代更健康)
 ### 6.1	part1（1~2）(45+45)
 
