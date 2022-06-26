@@ -36,7 +36,7 @@ I think they feel happy.
 My answer:
 
 ```
-I bought my computer over internet on may this year, because the old one is broken, so I must buy a new one.
+I bought my computer over internet on the August last year, because the old one is broken, so I must buy a new one.my son need a computer to do some online learning.
 
 I think computers are more sold online, because the price is cheaper online
 and I can easily get more information about the computer.
@@ -86,4 +86,14 @@ I must make good communications with them, they will feel better, we must respec
 Thirdly: With family member's support we will work efficiently.
 
 So I think we must discuss with my family members when I have a new offer.
+```
+
+My answer2:
+
+```
+The advantages are as follows:
+Firstly, my family especially my parents have worked many years, they have rich experience to give me some advice and help me make the right choice.
+Secondly, My family knows me best, they are very clear what I'm good at and where my weakness lies in, so I can make sure whether the offer is suitable for me.
+Finally, I think it is a respect to discuss the offer with them, they can feel valued, which is benefical to build the harmonious atmosphere in the family.
+All the above are my opinions.
 ```
