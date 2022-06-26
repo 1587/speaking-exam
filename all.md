@@ -1,0 +1,1038 @@
+
+第1套：2021.1.9  2021.8.8  2021.12.12  2022.4.17  自己2022.6.5
+
+沟通-组织-解决问题哪个重要.md
+
+第2套：2021.8.15
+
+第一份工作中-努力工作的意识和跟人相处-协作能力哪个更重要.md
+
+第3套：2021.8.8  2021.12.5  自己2022.6.12
+
+如果你可以改变你们国家的图书馆-你想改变哪一件事-为什么.md
+
+第4套：2021.1.23  2021.8.15  2022.05.29 
+
+offer是否要跟家里人交流.md
+
+第5套：2021.8.29   自己2022.6.5
+
+网上读新闻的坏处有哪些.md
+
+第6套：
+
+未来一代为什么比现在一代更健康.md
+
+第7套：2021.10.16 自己2022.06.12
+
+老师能否让学生带电子设备.md
+
+第8套：2021.10.17  2022.2.19  2022.5.8  2022.5.29 
+
+作为老板高效沟通是不是最重要.md
+
+第9套： 2021.10.31
+
+学术-专业成功最重要因素.md
+
+第10套：2022.1.23  2022.5.29
+
+买房比租房的缺点.md
+
+第11套：2022.5.8  2022.5.26
+
+政府提供免费大学课程的好处有哪些.md
+
+第12套：2022
+
+毕业后第一份工作重要吗.md
+
+第13套：2022 
+
+offer是否需要考虑公司的名誉.md
+
+第14套：2022.2.12 
+
+大学生去当实习生吗.md
+
+第15套：2022.5.15 
+
+为了专业成功是否需要冒险.md
+
+第16套：2022.3.13
+
+有钱就快乐吗.md
+
+第17套：2022.5.15
+
+你新欢跟幽默humour的人还是严肃serious的人一起工作.md
+
+第18套：2022.3.6
+
+项目中分歧需要解决还是忽略.md
+
+第19套：2022.2.20  2022.5.15
+
+请说明一下在一个公司的多处不同城市工作的好处.md
+
+第20套：2022.3.13   已复习
+
+你运动时喜欢一个人运动还是喜欢群体运动
+
+第21套：2022.3.28  2022.5.8    已复习
+
+进入大学前实习-gap-year的好处有哪些.md
+
+第22套：2022.4.8  2022.5.14  2022.5.29
+
+工作经验还是教育背景重要.md
+
+
+## 10.	真题10（买房/公寓比租房的缺点）
+2022. 1.23 19:00 / 29th May, 2022
+
+### 10.1	part1（1 ~ 2）(45+45)
+### 10.2	part2（3 ~ 4）(30+30) 6~8个句子
+ ![image](https://user-images.githubusercontent.com/2299635/170911691-94f06647-b4b2-4674-b81d-7c8d5bb833ed.png)
+
+This picture maybe taken in a corner of some building.
+On the stairs, two men are ascending stairs and chatting, 
+and a lady is picking up the scattered files on the stairs and another man is helping her.
+On the left of Stairs, there is a man walking and making a call.
+On the right of Stairs, there are a man and a woman standing and having a conversation.
+
+ 
+![image](https://user-images.githubusercontent.com/2299635/170911697-ff0cc890-86b8-42b8-9bf9-cdac0d58dad8.png)
+
+The picture may be taken in a laboratory with lots people inside. 
+On the left, there are a man and a woman are sitting at the table and reading some books;
+In the middle, there is a lady opening the refrigerator door(the door of fridge).
+On the right, there is lady is observing something through the microscope on the platform.
+
+
+### 10.3	part3（5~7）(15+15+30)
+背景：一个公共汽车公司想要扩张，对你进行一个电话采访。
+1.上次啥时候乘坐公共汽车？独自乘坐的吗？
+2.一般什么情况下你会想乘坐公共汽车，为什么？
+3.你会选择公共汽车出行吗？为什么会or不会？
+### 10.4	part4（8~10）(15+15+30) 题目是听的
+背景：要举行一个招聘会
+ 
+1.时间、地点（这里卡了一下，应该是这两个），会议开始时间
+2.想参加一个会议，具体信息？
+图中有两场这个会议，但是有一场用红线划掉了，并标注了取消，只介绍剩下一场就好
+3.想参加线上（应该是说的线上的，这个关键词他重读了，在表中也很好找）的，具体信息？
+一共两场，一场9：30AM，一场11；30AM
+### 10.5	part5（11）(60)
+问自己有一套房子或者公寓与租房的相比缺点是什么
+买房子对比租房子的缺点，并描述认为是缺点的理由。
+
+My answer:
+``` 
+I think buy a house will lowers the quality of life
+Firstly, the price of real estate is too high, it will cost much money. 
+Then we have enough money for learning skills, traveling.
+
+Secondly, I often change my office location, it's not convenient to buy a house to work. 
+It will waste much time to go to work, so It's better to rent.
+
+You need to maintain the house every year, it's a waste of time and money.
+
+That's my point. That’s all.
+```
+
+My answer2:
+```
+I think having a house or a department has the following disadvantages compared to renting:
+First of all, housing is fixed in one place, cannot be changed at any time, 
+But rental location can be changed with our work place, making our work life more convenient.
+
+Secondly, the economic pressure of housing is high, the quality of life is low. 
+You know, in China, a house needs several million RMB, and you have to pay off the loan every month, 
+but the monthly rent is far less than the monthly mortgage [ˈmɔːɡɪdʒ].
+
+Therefore, I like to rent a house, which can let my life without stress, and the mood happy.
+```
+
+
+## 11.	真题11(政府提供免费大学课程的好处有哪些)
+### 11.1	part1（1~2）(45+45)   
+8th May 2022/26th May 2022
+### 11.2	part2（3 ~ 4）(30+30) 6~8个句子
+图一
+一条街道，中间一位上年纪的老人（an ager man）正在路上走；
+画面左侧，一位短发女士正在和一位穿黑衣的男士谈论叙；
+画面右侧，一男一女两个年轻人从在一张小圆桌旁边聊天；
+背景建筑物前面，有一座白色雕塑（是否博物馆，可以看时间，用suppose或者guess比较好）
+
+My answer:
+
+```
+This picture is taken on the street, there are 6 people in this picture. 
+On the left side, a woman with short hair and a man in black are standing and talking. 
+In the middle of picture, an old man in white is walking. 
+On the right, a gentleman and a lady are sitting around a table and talking. 
+In the background, there is a building, maybe it is a museum. 
+And I can see a sculpture[ˈskʌlptʃə] before it.
+```
+
+图二
+近景：一条路，两边有椅子，中间有女士走过来（忘了几个，穿白衣）；
+左侧椅子上坐着一位老人和一个孩子（可以不体现，画面较小）；
+沙滩上有一面绿色旗子在飘，有一些人（不多，不挤，用some，不要用a lot）；
+远处有一些树（是否椰子自己选择），和一栋建筑（不高，类似平房，提到建筑就可以）；
+海上有一些海鸟，蓝天，白云
+这是一个好天气
+
+My answer:
+
+```
+The picture is taken on a beach, there are some people in this picture.
+In the middle of this picture, there is a path with some chairs. a woman in white is walking, two people are sitting on a chair.
+On the left side, some people are walking on the beach, and a green flag is flying in the air on the beach.
+In the background I can see blue skies, white clouds, sea birds , and some coconut[ˈkəʊkəˌnʌt](椰子) trees. 
+```
+
+### 11.3	part3（5~7）(15+15+30)
+问题一： 你喜欢的音乐家（musician）是谁，他的音乐风格是什么（答歌手似乎不合适。大家准备答案可以考虑朗朗的古典钢琴，有大佬说老子不喜欢听音乐……）
+问题二：你喜欢从哪里选择音乐，是自己的收藏，还是其他，比如radio station等
+问题三：你喜欢怎样听音乐，为什么
+
+My answer:
+
+```
+I like the Chinese musician LangLang, his music are mild, sound very comfortable.	
+
+Usually, I choose music from the music charts over internet. That's very convenient. (That will save my time.)
+
+I like to listen to music on my phone. 
+Because I am very busy (with working) and I don't have much time to go to music center.
+It is very convenient by phone.
+```
+
+### 11.4	part4（8~10）(15+15+30) 题目是听的
+往返机票+住宿酒店+taxi往返办公室
+背景：某人的旅游行程单，信息包括去程：某航空公司的XX航班，从新加坡地起飞及降落悉尼时间，日期是June 17th；住宿酒店及住宿时间；期间旅游地点及时间；回程：飞机从悉尼起飞时间及降落新加坡时间。
+1. 问出发的航班,答案要含有航班号和日期，和着陆地、时间
+2. 是问住宿时间，了解在belong branch office的行程
+3. 返程到达（了解回程航班信息，参考Q1）
+
+My answer:
+
+```
+Departure from Singapore[ˌsɪŋəˈpɔː] at X:XXPM on June 17th，the flight No. is Oceanic Air XX，
+you will landing on Sydney at XX:XXPM same day.
+
+```
+### 11.5	part5（11）(60)
+政府为所有学生承担大学课程费用的好处，举例支撑你的观点：
+The advantages of pay the cost of university course for all students, pls give some examples to support it.
+提供免费大学教育的优点包括：
+首先，免费大学可以降低学生的债务，将使每一个学生都有机会上大学，无论学生的父母有多少钱。 这将有助于为低收入背景的学生加油打气。
+此外，该国的整体教育水平可能会提高，从而使国家变得更好。
+建议先明确一个论点，比如，减轻学生的经济负担，或学生的资金将可以更灵活地应用在学习中：一，钱可以用来买更高效先进的学习设备提升效率，比如PAD等；二，可以改善有经济压力（economical stressful）的学生经济状况，将更多的精力用于学习……
+
+My answer:
+
+```
+There are follow advantages of pay the cost of university course for all students. 
+
+Firstly: It gives everyone a chance to go to college, whether he is poor or rich, education must be fair.
+Secondly: The more people get a college education, the stronger the country will be. and it will develop very fast.
+Thirdly: More people go to university and the quality of all citizens will be improved. we will have more safety public enviroment.
+
+All of the above are my opinions.
+```
+
+
+
+
+
+
+## 12.	真题12（毕业后第一份工作重要吗）
+### 12.1	part1（1~2）(45+45)
+### 12.2	part2（3 ~ 4）(30+30) 6~8个句子
+图1：
+海上有一船，夹板上面有四个人，两男的坐个椅子，白衬衣男整理领口，黑衣男在看手机，后面两个人站着好像在聊天，背景是海水和岸边的山、树。
+
+My answer:
+
+```
+The picture is taken on a yacht/ship, there are four people in this picture. 
+They are on the deck of the ship.
+Two men are sitting in the chairs, one of them is playing his smartphone, the other one in white shirt is sorting out his collar.
+Behind them, two people are standing and talking.
+In the background, I can see mountains and trees.
+```
+
+图2：
+三个人坐在办公室，男主管位置的有台电脑，对面靠右下方的男的拿个笔纸在记录啥，男的旁边女的在递东西给主管。
+
+My answer:
+
+```
+The picture is taken in the office, there are 3 people in this picture. 
+On the left side, a man in white suit is sitting at a table, there is a computer on his table.
+A woman in red suit with long hair is handing documents to him.
+On the right side, next to the woman, a man in black suit is taking notes.
+```
+
+### 12.3	part3（5~7）(15+15+30)
+1、	你用这个手机多长时间，用的频率
+2、
+3、如果有新的手机出来， 你打算买吗？
+
+My answer:
+
+```
+I've been using it for two years now, I use my phone many times a day.
+
+Yes, I will buy a new one.
+Because I've been using my current smartphone for a long time. It is too slow.
+The latest/ˈleɪtɪst/ phone will have a good performance, I can play the latest mobile games. 
+The latest phone will have more functions and bigger storage, I can store more photos, videos, and songs.
+```
+
+
+### 12.4	part4（8~10）(15+15+30) 题目是听的
+### 12.5	part5（11）(60) 
+有些人觉得人毕业后的第一份工作对他或她的后续职业有很大影响，你认可还是不认可，为什么？
+
+My answer:
+
+```
+I don't think so. There are some reasons as follows.
+
+Firstly: The most important thing for your career is the job that's right for you, 
+not the first job, maybe the second one, the third one.
+
+Secondly: When I was an interviewer, I did not care about the interviewee's first job,
+I just care about their last job and their Work experience.
+
+Thirdly: People often change their jobs nowadays. If you don't like you first job, 
+you should change it as soon as possible. (it is nothing.)
+
+(For example, When I graduated from college. My first job wasn't very good. I just switched jobs, and now I'm doing really well.)
+
+For the above reasons, I think the first job is not that important.
+```
+
+
+
+
+
+
+## 13.	真题13（offer是否需要考虑公司的名誉）
+### 13.1	part1（1~2）(45+45)
+### 13.2	part2（3 ~ 4）(30+30) 6~8个句子
+图1：
+一个穿黑色裙的女生躺在椅子上看书，挨着他的是一个穿红色T恤的男人躺在椅子上，手里端着一瓶水。背后可以看到一个人，站着门的中间。左侧可以看到一辆摩托车。
+在一个房间，右边一个男人和一个女人坐在躺椅上，女人在看书；他们的前面是一个桌子，桌子的右边是一辆摩托车，他们的右边，有个男人，正在进来。
+```
+A girl in a black dress is lying on a chair and reading a book. 
+Next to her, a man in a red T-shirt is lying on another chair with a bottle of water in his hand. 
+Behind them, another man is standing in the middle of the door. and there is a motorbike on the left.
+```
+
+图2：化学实验室里面有三个人，全部穿着白色工作服。在镜头前，是一个男生挨着桌子站着，好像在准备实验材料。背后可以看到一个女生正在打开冰箱，好像要存放化学物品。另外一个女生正在从外面开门进来
+在一个实验室，共三个人，两个女人，一个男人，他们都穿着白色的制服（实验室常穿的），男人正在擦桌子；背后一个女人正在开冰箱，另外一个女人正开门进来，背后可以看到显微镜。
+My answer:
+
+```
+The picture is taken in a chemistry Lab, there are three people in this picture. They are all wearing white overalls. 
+In front of the picture, a man is standing near a table, maybe he is preparing some chemicals for his research. 
+Behind him, A woman is opening the fridge, as if to store chemicals. 
+Another girl is opening the door from outside.
+```
+
+13.3	part3（5~7）(15+15+30)
+1、上次是什么时间跟谁联系，为什么？
+2、你使用邮件的频率是多少？
+3、什么情况下你会选择发邮件，还是选择打电话。
+
+My answer:
+
+``` 
+I gave a call to my coworkers yesterday, we were busy with work, we talked about the business contract.
+
+Many times a day, because I use email to contact with my coworkers and our customers.
+
+I always use email first, but when I need to discuss a lot of information with my coworkers, I will use phone instead.
+```
+
+13.4	part4（8~10）(15+15+30) 题目是听的
+1、问钓鱼需不需要带什么装备，其实不需要，表格右侧示意提供全部工具。
+No need, the tools have been provided.
+2、对Class有兴趣，想了解class相关信息，有两个相关的class。
+
+13.5	part5（11）(60)
+当你获得一个公司的offer时，你是否同意需要考虑这个公司的reputation
+
+``` 
+I think we need to think about the reputation of the company.
+
+Firstly: If a company has a good reputation, it will have more business opportunities. Opportunity means money. 
+(It will provide a very good slary for its staff.)
+
+Secondly: (If a company has a good reputation,) employees will grow in the long run. 
+then, company will develop very well. Become bigger and bigger.
+
+Thirdly: If a company has a bad reputation, its employees won't be loyal to it. 
+(staff will leave the company one by one.) Sooner or later it will go bankrupt.
+
+So, I think companies should do a lot to build a good reputation.
+
+```
+
+
+
+
+
+
+## 14.	真题14（大学生去当实习生吗）
+2022. 2/12 10点，
+### 14.1	part1（1~2）(45+45)
+### 14.2	part2（3 ~ 4）(30+30) 6~8个句子
+四个人在一个会议室里，左边两个女人看着一个笔记本在交谈，其中一个女的在笑。右边一男一女在看着一个本子，像是在讨论方案。会议室里面还有一台电视、电脑。
+
+My answer:
+
+``` 
+The picture is taken in a conference room, there are 4 people in this picture.
+On the left side, two women are sitting at a table, looking at a laptop and talking about something, 
+one of them is smiling.
+On the right side, a man and a woman are looking at their notebooks and discussing something.
+There are one TV and one computer in this room.
+they are too busy.
+```
+
+五个人在马路上。左边是一男一女在交谈，男的牵了一条狗，戴着绿帽子。中间是一个年轻的男孩靠在墙上。右边是一男一女在等红绿灯，过马路。
+or 有5个人在街上，左侧一个男的牵着宠物跟另一个女的在交谈，中间一个男人靠着商店门口站着。右边一男一女两个人在红绿灯旁边等着过马路
+
+My answer:
+
+``` 
+The picture is taken on the street, there are 5 people in this picture.
+On the left side, a woman and a man are talking, the man with green hat is holing a pet dog.
+In the middle of the picture, there is a young man, leaning against the wall beside a store.
+On the right side, two guys are waiting for the traffic lights.
+```
+
+### 14.3	part3（5~7）(15+15+30)
+1、	你想去哪个国家？是不是已经去过了？
+2、	如果你要去旅游，你会选择和朋友一起去还是独自去？
+2、	去一个国家旅游，你主要考虑哪一点？语种、食物、旅游景点
+
+My answer:
+
+```
+I want to travel to France. It's a beautiful country. I haven't been there yet.
+
+I like to travel with my friends, it will be funny with friends, we can discuss about the tour. 
+We can enjoy the landscape together.
+
+Food, of course.
+I'm a food lover, I like to eat delicious food.  
+I like to learn about food culture.
+and I love cooking and sharing all about food.
+```
+
+### 14.4	part4（8~10）(15+15+30) 题目是听的
+1.问会议什么时候开始，第一个议题是什么
+2.问11点要走，会不会错过什么东西。（不会）
+3.问scott先生具体要讲啥。在倒数第二项
+### 14.5	part5（11）(60)
+大学生是否要利用空闲时间/长假期 去公司当实习生，为什么？
+
+My answer:
+
+```
+Yes, of cause. college student should have a intership. There are some advantages as follows.
+
+Firstly: You can get job experience in advance. then You will know clearly what you need to learn in college. 
+(You will focus on learning that knowledge)
+
+Secondly: You can learn things that you can't study in school. (You know more than your classmates. )
+You'll be better than your classmates.
+
+At last, you can earn money through internships, then you can buy more equipment or online classes to improve your learning.
+
+So, I think an internship is a better way to improve themselves.
+```
+
+
+
+
+
+
+## 15.	真题15（获得professional success，是否需要take risk）
+15th May 2022
+### 15.1	part1（1~2）(45+45)
+1.	Renus family restaurant \celebrate\outstanding dinner
+2.	Professionals, appointment, specific
+### 15.2	part2（3 ~ 4）(30+30) 6~8个句子
+在街上，中间有三个人站在自行车旁，穿着自行车服装和安全帽，应当是骑行爱好者，左边有一个人再走，右边有一个人坐在椅子上
+
+My answer:
+
+```
+The picture is taken on the street, there are 5 people in this picture.
+In the middle of the picture, three people in riding suits are standing near their bicycle, they are all wearing safety helmets.
+On the left side, a man in black is walking. 
+On the right side, a man in red is sitting in the chair. 
+```
+
+两个人在办公室，2个人，旁边有复印件和打印机，女人正在问男人，男人穿着正装
+
+My answer:
+
+```
+The picture is taken in the office, there are 2 people in this picture.
+On the left side, a woman in red with long hair is standing near the copiers.
+a man in black suit is talking with her.
+On the background, we also can see many desks and plants.
+```
+
+### 15.3	part3（5~7）(15+15+30)
+工作的地方离家多远，是否需要开车
+你喜欢上班早一点，还是晚一点？
+上班哪个比较好，好的主管 supper visors、好的同事、还是其他？
+
+My answer:
+
+```
+About 1000 meters, so I don't need to drive. 
+I like to go to work early. I need more time to learn some new knowledge.
+Good colleagues of course,
+Firstly: I can learn knowledge from them, that would improve myself.
+Secondly: We can help each other and we will work more efficiently.
+Thirdly: if we have good colleagues, we will feel happier when we are working.
+```
+
+### 15.4	part4（8~10）(15+15+30) 题目是听的
+日程表
+是否是4月3号开？ -- 回答是的
+
+是否还有自行车/徒步旅行
+原本是要4、4的，但是被cancel了，所以要说不是的
+
+有几个跟food相关的
+有两个，cook、另外一个在11 am
+
+### 15.5	part5（11）(60)
+成功是否需要冒险
+
+My answer:
+
+```
+Yes, I think the success of a project requires risks.
+firstly: Opportunities always come with risks, and if we don't take any risks, we don't have any opportunity to success. 
+secondly: Risk means challenge, I like challenge, challenge makes the team stronger.
+thirdly:  I've led a lot of projects, every project has risks, you need to resolve them and you'll have great success.
+That's my views. 
+So don't be afraid of the risks.
+```
+
+
+
+
+
+
+## 16.	真题16（有钱就快乐吗）
+2022.3/13
+### 16.1	part1（1~2）(45+45)
+### 16.2	part2（3 ~ 4）(30+30) 6~8个句子
+餐厅：三个人（前台和帮厨）； 前台点菜的地方，有收银，有食物的餐盘、空餐盘；<3>左边站了一个长卷头发穿黑色裙子的女士，中间是一个穿着白色衣服的女士拿着餐盘，女士的左边是一排像食堂打菜的柜子（里面有菜）。
+or 一个餐馆中，左边站了一个长卷头发穿黑色裙子的女士，中间是一个穿着白色衣服的女士拿着餐盘，女士的左边是一排像食堂打菜的柜子（里面有菜），柜子的前面站着2个男士。 
+
+餐盘 plate 
+My answer:
+
+```
+The picture is taken in a restaurant/cafeteria. There are 4 people in this picture.
+On the left side, a woman in black dress with long hair is choosing food.
+she is standing near the front desk.
+In the middle of the picture, A woman in white is holding a plate. 
+beside her, there are many food display cabinets.
+On the right side, two men in black is standing in front of the cabinets.
+We can also see a lot of food and they look very delicious.
+```
+
+6个人，都是女的，5个穿白大褂(医生那种)，第六个人坐在后面，穿黑衣服； 右侧两个女的在交谈，中间两个女的也在交谈，中间靠后一个女的在看书； 左下角女的穿黑衣服，在做事，后面有个仪器台子，上面堆满仪器
+or 实验室里，右边是2个女生，一个站着，一个坐着，在看一本书；中间是一个女生坐在课桌前，与左边的女生在指着一本书交流。背景有一些化学实验器具，显微镜，试管，烧杯，放实验器具的黄色桌子等
+
+My answer:
+
+```
+The picture is taken in a chemistry lab. There are 6 people in this picture.
+On the right side, two women are looking at a book and talking. One is standing and one is sitting.
+In the middle of the picture, two women are talking about something, 
+and another woman is reading the book alone.
+On the left side, a woman in black is doing something
+we also can see many Lab tools in the background.
+They are all busy.
+```
+
+### 16.3	part3（5~7）(15+15+30)
+1. 怎么判断纪念品的质量？
+2. 你所住的地方最受欢迎的纪念品是什么，为什么？
+3. 你会在网上购买吗，为什么（你会在网上买纪念品吗？）
+
+My answer:
+
+```
+We judge its quality by sales data/volume and customer reviews
+It is silk. Because our silk is very beautiful that people like to buy it as a gift.
+
+Yes, I will buy them over the internet. 
+Firstly: buy things online is cheaper than offline.
+Secondly: I can search more information about it(the souvenir).
+Thirdly: I can check the reviews of other customers.
+```
+### 16.4	part4（8~10）(15+15+30) 题目是听的
+### 16.5	part5（11）(60)
+有钱就会快乐吗？请给出理由。
+
+My answer:
+
+```
+No, I don't think so.  Money doesn't mean happiness
+
+firstly: For example, friendship can make people happy, but money can't buy real friendship.
+
+secondly: Sometimes, too much money makes you unhappy, you will lose direction in life.
+
+thirdly: You will spend more time earning money and you will have less time to enjoy life.
+
+so, we are happy, not because of money.
+Think about the past. When I was young, I had no money but I was very happy, 
+I had many classmates, many friends, many time, no troubles.
+ (We don't live for money. Money is not everything.)
+```
+
+
+
+
+
+## 17.	真题17（幽默humourless还是严肃seriousness）
+15th May 2022
+### 17.1	part1（1~2）(45+45)
+### 17.2	part2（3 ~ 4）(30+30) 6~8个句子
+图1：室内等候厅，左边4个大妈并排坐在一张黑色长凳上，再看前面的黑色电视屏，他们前面有2个小男孩，一个坐在长凳上看那个电视屏，
+一个横躺在上面。电视右边有个动物雕像。后面有3个美女服务员站在前台，围成一圈在聊天
+
+图2: 右边有把大的遮阳伞，下面一张桌子，两个女人坐在下面吃零食。右边一个大妈在走，手里拿着个玻璃杯。后面是个房子
+ ![image](https://user-images.githubusercontent.com/2299635/170913680-81ccc33a-296e-43a3-93a8-f6b777ea963e.png)
+
+### 17.3	part3（5~7）(15+15+30)
+1、最近一次参加生日party是什么时候，是给谁过生日
+2、你一般在哪里买生日礼物
+3、你认为生日party需要准备不同种类的食物吗？为什么
+
+My answer:
+
+```
+Last month, the birthday party is held for my son. His fourth birthday.
+
+I usually buy birthday gifts online. I can see more information about the gifts.
+(and compare the price between different online stores.)
+
+Yes of course. We should prepare many kinds of food.
+Because we invated a lot of people to the party, different people like different food.
+We need to prepare sweet food, vegetable food, meat food, fish food, and so on.
+```
+
+### 17.4	part4（8~10）(15+15+30) 题目是听的
+一次食品公司的面试安排：从早上8点开始，有好几场面试
+
+1、问在哪天，几点钟开始
+
+2、没太听懂，跟8点30那场面试取消相关。
+
+3、问有几场跟营养均衡师岗位的面试，几点钟开始
+### 17.5	part5（11）(60)
+你更愿意跟哪种人工作：比较幽默 humourless 的人，还是比较严肃 seriousness 的人
+
+My answer:
+
+```
+I like to work with people who are serious. There are some advantage of seriousness.
+
+Firstly: They work carefully. They usually don't make mistakes. The project will be easy to succeed.
+
+Secondly: You can communicate effectively with them，This saves a lot of time. Time is money.
+
+Thirdly: They often complete tasks on time, It is very important for the projects. 
+
+You should be serious at work, you can have a little humor in your life.
+```
+
+
+
+
+
+## 18.	真题18（项目中分歧需要解决还是忽略）
+2022.3.6
+### 18.1	part1（1~2）(45+45)
+### 18.2	part2（3 ~ 4）(30+30) 6~8个句子
+1. 在一个广场，有很多人，有个老人骑着自行车，右边有个人拿帽子。远处有树和塔
+
+My answer:
+
+```
+The picture is taken in the public square, there are a lot of people in this picture.
+On the left side, an old man in black is riding a bicycle, he wearing a hat.
+On the right side, a man with a hat in his hand is walking.
+in the background, there are many trees and a tower.
+It is a sunny day.
+```
+
+3. 在一个湖边，有五个站在湖边看着湖里有两划船的人，在后面有几个狮子像和很多树。
+
+My answer:
+
+```
+The picture is taken in the public park near a lake, there are 5 people in this picture.
+On the right side, two men are riding a boat on the lake.
+On the left side, five men in black are standing on the ground, they are looking at the boat.
+in the background, there are many trees and some lion sculptures[ˈskʌlptʃə]/statues[ˈstætʃuː]
+It is a sunny day and the park is beautiful.
+```
+
+### 18.3	part3（5~7）(15+15+30)
+1. 你的房子多久了，是公寓或是House？
+2. 如果要改善，你最想改善哪些？
+3. 如要维修房子你是请人或是自已动手？Why？
+
+My answer:
+
+```
+It is about 10 years old. it is a house. I love the big house.
+
+I want to improve the garden of my house. It is too small, I like growing flowers and plants.
+
+I will do it myself. 
+Because I can learn more skills by doing so.
+besides, I have bought a lot of tools and I need to use them.
+and I must take good care of my flowers and plants. I don't trust other people.
+```
+### 18.4	part4（8~10）(15+15+30) 题目是听的
+### 18.5	part5（11）(60)
+如果两个人在项目中出现分歧是要解决或是忽略？
+
+My answer:
+
+```
+Yes, Of course, disagreements need to be resolved.
+
+Firstly: The disagreements mean that there is still some information unclear, which could be a project risk.
+
+Secondly: Not to resolve disagreements will slow down the progress of the project. 
+we can’t meet the deadline, which means the project will fail.
+
+Thirdly: Project members must have the same goals. cooperation is the key to success.
+
+These are the reasons why disagreements must be resolved.
+(We can resolve any disagreements through communication)
+```
+
+
+
+
+
+
+## 19.	真题19（请说明一下在一个公司的多处不同城市工作的好处）
+20th Feb 2022/ 15th May 2022
+### 19.1	part1（1~2）(45+45)
+### 19.2	part2（3 ~ 4）(30+30) 6~8个句子
+在街上，左边一个穿着黑色的男的坐在椅子上，打着电话；一个女的穿着绿色衣服，也坐在椅子上，看手机；一个大妈拿着包子在路上走过。路的右边是一排树，道路的尽头有一辆白色的汽车
+ 
+
+图二：
+在一个室内小店前，很多人地经过，店长坐在门口，旁边两个人在握手；店前面挂了很多商品。
+图片2：在建筑物的内部，左边是个杂货店(Grocery store)，门口一个男的做在椅子上，旁边两个男的正站在那里谈话，中间和右边有一些人在逛，背景是个服装店，里面有两个人在看服装
+（有点复杂，感觉是阿拉伯世国家的商店外面）
+
+
+### 19.3	part3（5~7）(15+15+30)
+1. 你的爱好hobby是什么，有多久了
+2. 你有足够时间去做自己的爱好吗？Why
+3. 请描述一下你的爱好，。。。。
+
+My answer:
+
+```
+My hobby is fitness, I've been working out for 3 years now.
+
+No, I don't have enough time to do it. I'm busy with work. 
+
+I can usually work out on weekends. 
+I think Fitness can build a good figure which make us look beautiful.
+Fitness can improve our health then We wouldn't get sick.
+Fitness makes us more energetic, Make our work more efficient.
+```
+
+### 19.4	part4（8~10）(15+15+30) 题目是听的
+### 19.5	part5（11）(60)
+请说明一下在一个公司的多处不同城市工作的好处
+
+My answer:
+
+```
+I think there are some advantages as follows.
+Firstly: I can travel and live in many different cities, I like travel to many places.
+
+Secondly: I can work with different colleagues in different cities, and study knowledge and skills from them.
+
+Thirdly: nowdays, project is too big, we need many people from many cities work together. 
+Above all is my views.
+```
+
+
+
+
+
+
+
+## 20.	真题20（你运动时喜欢一个人运动还是喜欢群体运动）
+2022.3.13
+### 20.1	part1（1~2）(45+45)
+### 20.2	part2（3 ~ 4）(30+30) 6~8个句子
+图片1：
+一个阴天，照片应该是在校园，右边2个男生背着黑色的包站着路标旁，应该是寻找地址，他们在交谈，其中一个用手指着某个地点，中间是一个女学生应该是望着教学楼。中间一个女生背着包和提着一把伞，背后有建筑和很多人，还有绿色的草
+
+My answer:
+
+```
+The picture is taken in a school, there are many people in this picture. 
+most of them are wearing school uniforms and black bags
+On the right side, two boys are standing near the road sign and talking. one of them is pointing somewhere.
+In the middle of the picture, a girl is looking at the teaching building. 
+In the background, there are many buildings、green grass and people.
+```
+
+图片2：
+是在海边的沙滩上，很多人在沙滩上站着，也有很多人坐着，海里还有很多人在游泳，我们可以看到很太阳伞。
+
+My answer:
+
+```
+The picture is taken on a beach by the sea, there are many people in this picture. 
+some of them are standing on the beach and looking into the distance/to the sea.
+some of them is sitting on the sands/chairs, and many people are swimming in the sea,
+we also can see many sun umbrellas.
+I think they're all enjoying their leisure time.
+```
+
+### 20.3	part3（5~7）(15+15+30)
+1. 你是经常在家做饭还是在外面吃，为什么
+2. 什么时间段在餐厅吃饭的人多，是否需要提前预定。
+3. 可以推荐附近一家餐厅能带着或者打包的，原因是什么
+
+My answer:
+
+```
+I often eat at home, Because I like cooking. and Eating at home is healthier.
+
+The evening of Weekends, of course. You must reserve the restaurant in advance.
+(because People often shopping and dining out on the weekends.)
+
+Yes, I recommend 海底捞 Hot Pot, They provide a take-out service for the hot pot and many kinds of food, 
+The food are very delicious. You really need to taste it.
+```
+
+### 20.4	part4（8~10）(15+15+30) 题目是听的
+关于儿童公园的
+1. 可以告诉我门票的多少钱
+在最后一行，6美元一张，小孩低于2岁免费
+2. 公园的活动是否在早上
+活动全部都是在下午3点
+3. 顾客有2岁和5岁的小孩，可以参加那些活动
+可以参加三个
+
+My answer:
+
+```
+Hello, the ticket price is 6 dollars. children under 2 years old are free admission. Please keep that in mind.
+
+No, I am sorry, I am afraid that all the events are taken in the afternoon. Please remember the time.
+
+Let me see. According to the information, there are three events.
+first,(不用带时间，只写event名字)
+second,
+third,
+Please keep that in mind
+```
+
+### 20.5	part5（11）(60)
+最后一题，是问你运动时喜欢一个人运动还是喜欢群体运动
+What are the advantages of exercising alone?
+
+My answer:
+
+``` 
+I like to exercise alone, there are some advantages.
+
+Firstly: I can listen to my favorite music when I exercise, music makes me feel good.
+
+Secondly: I can do sports when I am free, I just need to arrange my own time. 
+I don't need to consider other people's time. 
+
+Thirdly: It's cheaper to exercise alone than in a group, We don't need to rent a sports playground.
+
+So, alone is better than group.
+```
+
+
+
+
+
+
+## 21.	真题21（进入大学前实习/gap year有哪些好处）
+8th May 2022/ 28th March 2022/
+### 21.1	part1 (1 ~ 2) (45+45)
+朗读第一题：专属名词的 street名字，好长。（要胆子大一点啊）
+### 21.2	part2 (3 ~ 4) ( 30+30 ) 6 ~ 8个句子
+图片一，
+一个饮品店，有两个人：左边一个男人，坐在小桌前，戴着耳机，小桌上放着电脑；右边一个女人，面前小桌上放着一些纸，她在她的黑色包里找东西。
+另外一个兄弟反馈：教室，3个人。中间的男人带着红色的beats耳机；右边的女的在翻包；
+
+```
+The picture is taken in a shop, there are two people in this picture.
+On the left side, a man with red earphone is sitting at the table, and a laptop is on the table.
+On the right side, a woman in black is sitting at another table, she is searching something from her bag.
+```
+
+图片二，
+一个小礼堂很多人正在庆祝或者颁奖，右边台子上 一个女士 正在给 另一个女士颁奖，左边台下坐着很多人，他们在鼓掌。
+``` 
+The picture is taken in a hall, there are many people in this picture.
+On the right side, a woman on the stage is giving an award to another woman.
+On the left side, many people are sitting under the stage and applauding for them.
+I think they are very happy.
+```
+### 21.3	part3（5~7）(15+15+30)
+1.	你最近一次观光旅游是什么时候，所在城市是哪儿
+2.	选择自由行还是跟团游
+3.	如果去观光旅游，你认为哪个更重要。① 地点 ② 美食 ③ 专业导游
+``` 
+Let me think. My last tour was in Nanjing, China last year. It is a very beautiful city.
+
+I choose group tour, because it is cheaper and I can talk about the tour with the group.
+
+If I go on a tour, tour guide is the most important. 
+I can get professional knowledge about the tour, and study many skills from the tour guide.
+Tour guide can save our time, we will have more time to enjoy the tour.
+```
+### 21.4	part4（8~10）(15+15+30) 题目是听的
+是一个 讲课，第一个问题 问起止时间，
+第二个问题 是问一个 session是不是 周三，
+第三个问题是 问有哪些session 是叫 merg 的讲授（有两个）
+### 21.5	part5（11）(60)
+有兄弟认为：你认为高中生毕业后，在进入大学前 参加实习 有哪些好处
+也有认为是：如果高中毕业搞一年gap year，好处是什么
+ 
+My answer:
+
+``` 
+Yes, of cause.  student should have a gap year. There are some advantages as follows.
+
+Firstly: You can get job experience in advance. then You will know clearly what you need to learn in college. 
+(You will focus on learning that knowledge)
+
+Secondly: You can learn things that you can't study in school. (You know more than your classmates. )
+You'll be better than your classmates.
+
+Thirdly:  With the gap year, we can learn a new language or experience a new culture.
+
+At last, you can earn money through gap year, then you can buy more equipment or online classes to improve your learning.
+
+So, I think a gap year is a better way to improve themselves.
+```
+
+
+
+
+
+
+## 22.	真题22（工作经验还是教育背景重要）
+8th April 2022 / 14th May 2022/ 29th May 2022
+### 22.1	part1（1~2）(45+45)
+1、	市政修路的通知（construction）
+2、	商场抽奖的活动
+### 22.2	part2（3 ~ 4）(30+30) 6~8个句子
+图片1：山和湖，有人在划船，有人在岸上准备划船 湖边划船的，5个人的描述。1、	在湖边，左边三个坐船准备出去；中间一个划船过来，右边一个人穿着蓝色T恤准备上船，另外一个人已经划船走了；背景很多树
+
+
+图片2：实验室，3女1男，左边在接水，右后边在开冰箱门，右边2个在看显微镜。（感觉跟题库13的图片题一样）
+  实验室里面4个人，3女一男，右边2个（一男一女）在看显微镜，中间一个女的在从柜子里面拿东西，左边一个女的在接水。
+  实验室里四个人，都穿着白衣服；左边一个女生正在接水；中间一个人从冰箱拿出什么东西；右边两个人坐着在操作显微镜，旁边还一个空着的显微镜和凳子；
+  
+
+22.3	part3（5~7）(15+15+30)
+1、喜欢什么topic的新闻
+2、是否愿意订阅online alert，why 
+3、用TV看新闻好不好，why
+1、	你最感兴趣的话题是什么，为什么
+2、	你会订阅获得最新的消息嘛，为什么
+3、	你觉得从电视获取新闻好嘛，为什么
+### 22.4	part4（8~10）(15+15+30) 题目是听的
+
+比较简单，第二个问题我开始听错了，他问的是pipe什么时候修（下周），我听成什么时候讲了（上午第三个议题）。
+1、	第一个议题是谁说？什么时候（9点-9点15）
+2、	Water piper坏了，会修嘛（第二个人会讲maintenance的东西，并且water piper will be repair next week）
+3、	描述rual的会议安排；
+
+### 22.5	part5（11）(60)
+education background and related work experience ,which one more important and why
+你觉得对于一个新员工来说，是教育水平重要还是有相关经历重要（education or relevant work experience）
+描述一个你熟悉的工作，如果要招聘一个新人，是教育背景重要还是行业经验更重要，理由和例子。
+
+
+
+
+
+
+
+
+
+## 23.	其他真题中遇到的题
+### 23.1	Part3 问题答（15+15+30）
+第1个问题：经常骑自行车吗；
+Yes, I ride the bicycle to arrive the office every day. It can exercise my body. It makes my body healthier
+第2个问题：去买东西是骑自行车还是别的？（简单所以没记全）
+There is a distance between metro station and my office. 
+So, I ride shared bicycle every day. It’s convenient and saves time.
+I ride my bicycle when I buy a small amount of stuff. But If I go to the supermarket to buy a lot of things, I will drive my car.
+你那里有没有自行车俱乐部，你有没有参加啥的（待确认）
+There is a bicycle club in our company. They have a ride almost every weekend. 
+But I didn't join this club, because I need to take care of my kids on the weekend.
+
+### 23.2	Part3 问答题
+如果你自己可以规划上班时间，你希望的上班开始和结束时间是什么时候？
+If I can decide on my work time, I wish to begin my job from 8:30 am to 6 pm. 
+I'll have time to send my son to his school. Take on the responsibility of being a father
+
+### 23.3	Part5 （60）多出去交流，还是坐办公室
+好像是问喜欢坐办公室的工作，还是喜欢出去多和客户交流的工作
+
+喜欢和人进行沟通，可以感受不同的人，带给我不一样的感觉，和每个人在交流的过程中，真的会明白很多不同的事情的，同一件商品，不同的人会有不一样的感觉，怎么让顾客说出她真实的想法，我个人感觉很重要。了解客户的真实想法
+According my personal experience, I like the job of communicating with customer. 
+Because of the following reasons.
+Firstly, I will get the good idea by communicate with customer,
+then I can adjust my working methods as soon as possible.
+Secondly，we will become good friends after communication, It'll bring us closer together. It is benefit for my job.
+The last one, it will improve my social ability through communication.
+To the reason above, I like the job of communicating with customer.
+
+### 23.4	Part5 （60）新员工培养哪个重要
+新员工培养，自己独立上手，还是 老员工帮忙辅导
+
+I think the best way for training new employees is to teach them how to work independently.
+There are three reasons.
+Firstly, working independently will make them learn work skills quickly
+and have a good comprehension of their job responsibility. 
+Secondly, working independently is also a necessary ability,
+actually we can't expect to rely on others’ help for everything. 
+And finally, working independently will help them to build a resilient ability against work pressure. 
+Therefore, it’s important to teach new employees how to work independently.
