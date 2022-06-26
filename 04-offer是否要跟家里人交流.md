@@ -85,6 +85,8 @@ Secondly: Change a jobs is a big deal for a family.
 I must make good communications with them, they will feel better, we must respect each other.
 
 Thirdly: With family member's support we will work efficiently.
+New job may need to move to another city, or go abroad, or work overtime  we may spend less time with the family, and so on. 
+we need their support.
 
 So I think we must discuss with my family members when I have a new offer.
 ```
