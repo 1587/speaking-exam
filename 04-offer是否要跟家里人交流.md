@@ -36,7 +36,8 @@ I think they feel happy.
 My answer:
 
 ```
-I bought my computer over internet on the August last year, because the old one is broken, so I must buy a new one.my son need a computer to do some online learning.
+I bought my computer over internet on the August last year, because the old one is broken, 
+so I must buy a new one.my son need a computer to do some online learning.
 
 I think computers are more sold online, because the price is cheaper online
 and I can easily get more information about the computer.
