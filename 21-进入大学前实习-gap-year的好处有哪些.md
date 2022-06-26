@@ -31,13 +31,16 @@ I think they are very happy.
 Let me think. My last tour was in Nanjing, China last year. It is a very beautiful city.
 
 I choose group tour, because it is cheaper and convenient, the guide of the tour will arrange many activities and lead us to enjoy the tour. 
-I can talk about the tour with the member of group.  the travel agency help us booking the hotel , arrange the transport , theat would save my time and money.
+I can talk about the tour with the member of group. 
+The travel agency helps us book hotels and arrange transportation, which save my time and money.
+
 
 If I go on a tour, tour guide is the most important. 
 
 the guide will arrange many activities, lead us to enjoy the tour;
 I can get professional knowledge about the city and study some new skills from the tour guide.
 I will have more time to enjoy the landscape and have more time to take photos , eating tasty foods and so on.
+
 so, the tour guide help us very well.
 ```
 ### 21.4	part4（8~10）(15+15+30) 题目是听的
