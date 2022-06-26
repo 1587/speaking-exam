@@ -60,3 +60,20 @@ At last, you can earn money through gap year, then you can buy more equipment or
 
 So, I think a gap year is a better way to improve themselves.
 ```
+
+
+My answer:
+
+```
+Yes, of cause. college student should have a intership. There are some advantages as follows.
+
+Firstly: You can get job experience in advance. then You will know clearly what you need to learn in college. 
+(You will focus on learning that knowledge)
+
+Secondly: You can learn things that you can't study in school. (You know more than your classmates. )
+You'll be better than your classmates.
+
+At last, you can earn money through internships, then you can buy more equipment or online classes to improve your learning.
+
+So, I think an internship is a better way to improve themselves.
+```
