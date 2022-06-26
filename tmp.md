@@ -71,6 +71,33 @@ Firstly, you can learn more up-to-date knowledge from others by opening your min
 Secondly, you can find you mistakes from other people's view that could be a risk of project failure.
 Thirdly, Open-mindedness makes the team feel better, which helps the team work together efficiently.
 Above reasons are why I think open-mindedness is the most important for the professional success.
+
+
+
+Characteristics of Open-Minded People
+They are curious to hear what others think.
+They are able to have their ideas challenged.
+They don’t get angry when they are wrong.
+They have empathy for other people.
+They think about what other people are thinking.
+They are humble about their own knowledge and expertise.
+They want to hear what other people have to say.
+They believe others have a right to share their beliefs and thoughts.
+
+Being more open-minded means enjoying some useful and powerful benefits. 
+Open-mindedness helps you:
+
+Gain insight. Challenging your existing beliefs and considering new ideas can give you fresh insights into the world 
+and also teach you new things about yourself.
+Have new experiences. Being open to other ideas can also open you up to trying new things.
+Achieve personal growth. Keeping an open mind can help you grow as a person. 
+You learn new things about the world and the people around you.
+Become mentally strong. Staying open to new ideas and experiences can help you become a stronger, more vibrant person. 
+Your experiences and knowledge continue to build on one another.
+Feel more optimistic. One of the problems with staying closed-minded is that it often leads to a greater sense of negativity. 
+Being open can help inspire a more optimistic attitude toward life and the future.
+Learn new things. It’s hard to keep learning when you surround yourself with the same old ideas. 
+Pushing your boundaries and reaching out to people with different perspectives and experiences can help keep your mind fresh.
 ```
 
 
@@ -85,29 +112,48 @@ Pattern
 
 ![image](https://user-images.githubusercontent.com/2299635/171656077-c77dd060-ade0-4334-80e5-2276ab1031f2.png)
 
+My answer:
+
+```
 This is a close-up photo of a music show. 
 Many people，many chairs and many equipments are in this photo. 
 In the front, many listeners are sitting on the chairs and listening to the music. 
 At the back，many musicians are playing on the platform. 
 It is a sunny day. You can see the sunshine. It is great.
- 
+```
+
 在一个仓库里面，两个人，很多货物，很多架子，两台车。左边一个带着蓝色安全帽的黑人女人正在推一个小车（小车上有一个纸盒和两个塑料箱），右边一个带着蓝色安全帽的男人正在操作叉车（哈哈）后面是货架，有很多货物在上面，天花板上有灯。
 
 ![image](https://user-images.githubusercontent.com/2299635/171656097-704a6998-3590-4ac2-bc40-b7b4741001ab.png)
 
-This is a close-up photo of a ware house. Two people, many goods and many shelves are in this photo. 
+My answer:
+
+```
+This is a close-up photo of a warehouse. Two people, many goods and many shelves are in this photo. 
 On the left , the woman with blue hat is pushing a small cart. Three boxes are on the car. 
 On the right, a man is checking status of the forklift truck（叉车）)
 At the back, many goods are on the shelves. 
 And you can see two lights on the cell.
+```
 
 ### 8.3	part3（5~7）(15+15+30)
 多久去一次健身房？和谁一起去？
-I go the fitness center once a week. I usually go to the fitness center with my friends – Tom. He love exercise too.
 你比较喜欢什么时候去健身房？为什么 ）
-I usually go to the fitness center after dinner. During this time, few people are there. I can use all equipments and exercise every part of my body.)
 什么最影响你选择健身房？离家/公司近 器材质量  很多健身课的.
-Short distance from my home and my company is my first choice. If the fitness center is near my home, I can go there at any time. I can have much time to exercise my body, building muscles and so on.
+
+```
+I usually go to the gym twice a week. I usually go to the fitness center with my friends.  
+(The last time I went to the gym is yesterday.)
+
+I usually go to the gym in the evening after dinner. Because my work is busy, 
+I have no much time except that time. 
+
+I prefer with lots of fitness classes.
+because I am a new fish about fitness, so I need to study how to use the equipment, 
+I need to learn how to exercise in the right way, and fitness classes could save my time.
+(All above is my point of view.)
+```
+
 ### 8.4	part4（8~10）(15+15+30) 题目是听的
 一个museum 博物馆会员日Wenesday October 14
 
@@ -124,13 +170,27 @@ Please remember.
 Not free for non-member,Non-members should pay $25 for the tiket
 ### 8.5	part5（11）(60)
 作为一个团队的leader 高效沟通是不是最重要的？为什么/为什么不？举证或者举例
+
 ```
 I think colleague communicate well is the most important. there are some reasons as follows:
-Firstly, good communication enable us to express our views clearly, and share out views with our colleagues. 
-Secondly, good communication enable us to think about other one's views, it very important for our work. 
+
+Firstly, good communication enable us to express our views clearly, and share our true thoughts with our colleagues. 
+we can find out the root cause of the problem through communication.
+
+Secondly, good communication enable us to think about other people's points of view, 
+we can find our misstakes, which could be a risk of our project failture.  it is very important for our work. 
+
 Finally, good communication can make team members feel better, which can makes our work efficiently.
+We don't blame each other, we don't fight. Teams are more likely to succeed.
+
+(Last week, for example, two of my co-workers didn't communicate well, they communicated over and over, 
+and their attention was focused on who was causing the problem;
+A said that B did not follow the process, and B said that A did not have the execution capability.
+In the end, the problem was not resolved.)
+
 The above reasons are why I think colleague communicate well is the most important.
 ```
+
 
 
 
@@ -169,7 +229,8 @@ My answer:
 
 ```
 The picture is taken in a clothing store. 
-On the left side, one woman with a blue T-shirt is trying on white clothes. Another woman is looking at her. There is a man behind them. 
+On the left side, one woman with a blue T-shirt is trying on white clothes. Another woman is looking at her. 
+There is a man behind them. 
 On the right side, we can see a pair of metal [ˈmetəl] artworks and  there are many goods on the shelves
 ```
 
@@ -183,7 +244,8 @@ My answer:
 ```
 The picture is taken on the street. There are 2 people in this picture.
 On the right side, a man with a blue shirt is opening the door of the car. 
-On the left side, a woman is squatting/crouching on the side of a bicycle. Looks like she's locking her bike.
+On the left side, a woman is squatting/crouching on the side of a bicycle. 
+Looks like she's locking her bike.
 In the background of the picture, we can see another 2 cars and many trees.
 Behind the trees, there is a car parking on the road and a man is going toward to the car.
 ```
@@ -236,11 +298,17 @@ According to my personal experience, I think people will be healthier in the fut
 There are some reasons as follows:
 
 Firstly, Nowadays, People are paying more and more attention to their health.
-For example, my colleagues eat healthy foods, do more exercises, such as running and playing footballs.
+For example, my friends and  colleagues eat healthy foods, do more exercises, such as running and playing footballs.
+most of them go to fitness center twice a week.
 
 Secondly, medical technologies are improved. There are some new medical for more and more diseases /dɪˈziːzɪz/.
+There are more and more vaccines that keep us from getting sick.
+There are also more and more cancers can be treated with medicals and returned to health.
 
-Thirdly, People begin protecting the environment, and the environment of future will be better than now.
+Thirdly, People begin protecting the environment, the environment of future will be better than now, now days , 
+In some cities  They sky is high and blue, The air is also very good.The water in the river is clean too. 
+Their residents are also very long-lived.
+
 
 To the reason above, I think people will be healthier in the future.
 ```
@@ -286,14 +354,17 @@ I think they feel happy.
 My answer:
 
 ```
+I bought my computer over internet on the August last year, because the old one is broken, 
+so I must buy a new one.my son need a computer to do some online learning.
+
 I think computers are more sold online, because the price is cheaper online
 and I can easily get more information about the computer.
 
-I bought my computer over internet on may this year, because the old one is broken, so I must buy a new one.
+
 
 I think the most important thing is the quality.
-firstly, a lot of people can’t work efficiently without computer, if the computer often broken, we will waste much time.
-secondly, out important information is store in the computer, if the computer often broken, we will waste many information.
+firstly, if the computer often broken，a lot of people can’t work efficiently, that will waste much time.
+secondly, our important information is store in the computer, if the computer often broken, we will waste many information.
 (you know, time and information are so expensive, so I think quality is the most important thing of computer.)
 ```
 
@@ -324,12 +395,34 @@ My answer(需要重新梳理):
 ```
 According my personal experience, If I have a new offer, I will discuss with my family members, 
 There are some advantages as follows:
-Firstly: My parents have 20 years of working experience, t
-hey can help me recognize the weaknesses and the advantages of my new job.
-Secondly: Changing jobs is a big deal for a family. 
+
+Firstly: My parents have 20 years of working experience, 
+they can help me recognize the weaknesses and the advantages of my new job.
+
+Secondly: Change a jobs is a big deal for a family. 
 I must make good communications with them, they will feel better, we must respect each other.
+
 Thirdly: With family member's support we will work efficiently.
+New job may need to move to another city, or go abroad, or work overtime  we may spend less time with the family, and so on. 
+we need their support.
+
 So I think we must discuss with my family members when I have a new offer.
+```
+
+My answer2:
+
+```
+The advantages are as follows:
+Firstly, my family especially my parents have worked many years, 
+they have rich experience to give me some advice and help me make the right choice.
+
+Secondly, My family knows me best, they are very clear what I'm good at and where my weakness lies in, 
+so I can make sure whether the offer is suitable for me.
+
+Finally, I think it is a respect to discuss the offer with them, they can feel valued, 
+which is benefical to build the harmonious atmosphere in the family.
+
+All the above are my opinions.
 ```
 
 
@@ -361,6 +454,19 @@ On the left side, there are two women changing clothes near to the cabinet in th
 One of them has long hair and wearing a brown dress, other one is wearing a white sweater. 
 One the right side, there is a fat man wearing the blue shirt is walking in the distance. 
 From the picture we can see, there are so many goods on shelves was piled in the warehouse.
+```
+
+My answer2:
+
+```
+The picture shows there are 3 people in a warehouse. 
+On the right side, two women are near a cabinet and changing cloths. 
+One of them is carrying a brown dress and she has long hair. 
+And Another is wearing a white sweater. 
+
+On the right side, a fat man with blue shirt is walking in the distance. 
+
+There are also many goods on shelves in the warehouse.
 ```
 
 ### 2.3 part3（5~7）(15+15+30)
@@ -406,14 +512,26 @@ Please keep that in mind.
 ```
 
 ### 2.5 part5（11）(60)
-你认为在就职一份新工作时   work hard willingness 还是colleague communicate well更重要？-努力工作的意识和跟人相处、协作能力哪个更重要
+你认为在就职一份新工作时   work hard willingness 还是 colleague communicate well更重要？-努力工作的意识和跟人相处、协作能力哪个更重要
 
 My answer1:
 
 ```
 I think colleague communicate well is the most important. there are some reasons as follows:
-Firstly, good communication enable us to express our views clearly, and share out views with our colleagues. 
-Secondly, good communication enable us to think about other one's views, it very important for our work. 
+
+Firstly, good communication enable us to express our views clearly, and share our true thoughts with our colleagues. 
+we can find out the root cause of the problem through communication.
+
+Secondly, good communication enable us to think about other people's points of view, 
+we can find our misstakes, which could be a risk of our project failture.  it is very important for our work. 
+
 Finally, good communication can make team members feel better, which can makes our work efficiently.
+We don't blame each other, we don't fight. Teams are more likely to succeed.
+
+(Last week, for example, two of my co-workers didn't communicate well, they communicated over and over, 
+and their attention was focused on who was causing the problem;
+A said that B did not follow the process, and B said that A did not have the execution capability.
+In the end, the problem was not resolved.)
+
 The above reasons are why I think colleague communicate well is the most important.
 ```
