@@ -4,7 +4,7 @@
 住宿酒店及住宿时间；
 期间旅游地点及时间； 回程：飞机从悉尼起飞时间及降落新加坡时间。
 1. 问出发的航班,答案要含有航班号和日期，和着陆地、时间
-2. 是问住宿时间，了解在belong branch office的行程
+2. 是问住宿时间，了解在 belong branch office的行程
 3. 返程到达（了解回程航班信息，参考Q1）
 
 My answer:
@@ -13,9 +13,7 @@ My answer:
 Hello sir, You will Depart from Singapore[ˌsɪŋəˈpɔː] at 2:30 PM on June the 17th，the flight No. is Oceanic Air 18，
 you will landing on Sydney at 5:30 PM same day.
 
-No, I sorry, according for the  itinerary /aɪˈtɪnəreri/, You will have dinner with Tom , The director, at 7:00 PM on Monday. 
-You will be staying at sheraton Hotel. at 8:00 PM on Monday.
-
+No, I sorry, according for the itinerary /aɪˈtɪnəreri/, You will be staying at sheraton Hotel. at 8:00 PM on Monday.
 
 Hello sir, Your return information is as follows. 
 You take a taxi from your hotel to the airport at 9:30 PM.
@@ -31,7 +29,20 @@ you will landing on Singapore at XX:XX AM next day.
 2.想参加一个会议，具体信息？
 图中有两场这个会议，但是有一场用红线划掉了，并标注了取消，只介绍剩下一场就好
 3.想参加线上（应该是说的线上的，这个关键词他重读了，在表中也很好找）的，具体信息？
-一共两场，一场9：30AM，一场11；30AM
+一共两场，一场9:30AM，一场11:30AM
+
+My answer:
+
+```
+The job fair is held on January the 17th in XXX Hall , the event opens from 5:30 pm. Please remember that.
+
+The meeting opens from 5:30 pm. another meeting about XX was cancelled ,Please remember that.
+
+According for the infomation,There are two online meetings, 
+First, there is a event about XX  at 9:30 am. 
+Next, There is a event about YY  at 11:30 am.
+Please keep that in mind.
+```
 
 
 ### 8.4	part4（8~10）(15+15+30) 题目是听的
@@ -246,7 +257,8 @@ Please keep that in mind.
 
 Hello Sir, The first session opens from 9:00 am to 10:00 am , the session is gaven by xxx. please keep that in mind.
 
-Yes, the session about maintenance opens from  10:00 am to 11:00 am,  the water piper will be repaired on next week, please keep that in mind.
+Yes, the session about maintenance opens from  10:00 am to 11:00 am, 
+and the water piper will be repaired on next week, please keep that in mind.
 
 Yes, according to the information, there are 2 sessions about rual. 
 First, there is a session named XX  from 10:00 am to 11:00 am.
