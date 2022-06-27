@@ -192,7 +192,18 @@ and a lady is picking up the scattered files on the stairs and another man is he
 On the left of Stairs, there is a man walking and making a call.
 On the right of Stairs, there are a man and a woman standing and having a conversation.
 ```
- 
+
+My answer2:
+
+```
+This is a picture taken inside a building. There are seven people in this picture. 
+Four people are on the stairs. 
+On the right side of the picture, there are two people talking to each other. 
+On the left side of the picture there is a man talking on the phone. 
+In the middle, there are two people picking up the papers on the floor. 
+The other two people are climbing the stairs.
+```
+
 ![image](https://user-images.githubusercontent.com/2299635/170911697-ff0cc890-86b8-42b8-9bf9-cdac0d58dad8.png)
 
 ```
@@ -202,6 +213,15 @@ In the middle, there is a lady opening the refrigerator door(the door of fridge)
 On the right, there is lady is observing something through the microscope on the platform.
 ```
 
+My answer2:
+
+```
+This is a picture taken inside a laboratory. There are four lab workers in the picture. 
+All of them are wearing white uniforms. 
+In the foreground of the picture, a man and a woman are looking up some information. 
+In the background, there is a man looking through the microscope. 
+There is also another man taking out a sample from laboratory fridge.
+```
 
 
 
