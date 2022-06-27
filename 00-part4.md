@@ -1,8 +1,8 @@
 ### 11.4	part4（8~10）(15+15+30) 题目是听的
 往返机票+住宿酒店+taxi往返办公室
 背景：某人的旅游行程单，信息包括去程：某航空公司的XX航班，从新加坡地起飞及降落悉尼时间，日期是June 17th；
-住宿酒店及住宿时间；期间旅游地点及时间；
-回程：飞机从悉尼起飞时间及降落新加坡时间。
+住宿酒店及住宿时间；
+期间旅游地点及时间； 回程：飞机从悉尼起飞时间及降落新加坡时间。
 1. 问出发的航班,答案要含有航班号和日期，和着陆地、时间
 2. 是问住宿时间，了解在belong branch office的行程
 3. 返程到达（了解回程航班信息，参考Q1）
@@ -11,11 +11,14 @@ My answer:
 
 ```
 Hello sir, You will Depart from Singapore[ˌsɪŋəˈpɔː] at 2:30 PM on June the 17th，the flight No. is Oceanic Air 18，
-you will landing on Sydney at 17:30 PM same day.
+you will landing on Sydney at 5:30 PM same day.
 
-No, I sorry, according for the  itinerary, You will have dinner with Tom , The director, at 7:00 PM on Monday. 
+No, I sorry, according for the  itinerary /aɪˈtɪnəreri/, You will have dinner with Tom , The director, at 7:00 PM on Monday. 
+You will be staying at sheraton Hotel. at 8:00 PM on Monday.
+
 
 Hello sir, Your return information is as follows. 
+You take a taxi from your hotel to the airport at 9:30 PM.
 Departure from Sydney at XX:XX PM on June 17th，the flight No. is Oceanic Air XX，
 you will landing on Singapore at XX:XX AM next day.
 
@@ -33,18 +36,21 @@ you will landing on Singapore at XX:XX AM next day.
 
 ### 8.4	part4（8~10）(15+15+30) 题目是听的
 一个museum 博物馆会员日Wenesday October 14
-
-会员在什么时间什么地方举行？
+会员日在什么时间什么地方举行？
 （简单，就看标题念吧）
 我朋友也想去，免费吗？
-No. Non-member guests should pay 25 dollar for the vist.
 关于Tour的event有哪些？具体呢？
-Two events about tour. 
+
+```
+Hello sir, The Museum Membership Day will be held on Wenesday October the 14 th at XX XX. please keep that in mind.
+
+No. I am sorry, Non-member guests should pay 25 dollars for the vist/ticket. please keep that in mind.
+
+According for the infomation there are Two events about tour. 
 One is at xx:xx named xxxx  given by xxxx . 
 Another is. at xx:xx named xxxx  given by xxxx. 
-Please remember.
-
-Not free for non-member,Non-members should pay $25 for the tiket
+Please remember that.
+```
 
 
 
@@ -57,14 +63,15 @@ Not free for non-member,Non-members should pay $25 for the tiket
 My answer:
 
 ```
-The event is Start at 8:30 on January 24.
+Hello sir, The event is Start at 8:30 on January 24.   please keep that in mind.
 
 You are a luck guy. You can come here at 10:AM to join the conference 
-and you will get the book sign by XX Clark(前面一个极其生僻的人名)
+and you will get the book signed by XX Clark(前面一个极其生僻的人名)  please keep that in mind.
 
 There are Two topics about reading technology. 
-One is at xx:xx in x月x日 given by M. xxxx;  
-another is at One is at xx:xx in x月x日th（如果有日）given by M. xxxx. 
+One is at xx:xx on January 24 given by M. xxxx;  
+another is at xx:xx in January 24 given by M. xxxx. 
+please keep that in mind.
 ```
 
 
