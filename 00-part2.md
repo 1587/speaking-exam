@@ -467,7 +467,7 @@ I think they're all enjoying their leisure time.
 ```
 The picture is taken in a shop, there are two people in this picture.
 On the left side, a man with red earphone is sitting at the table, and a laptop is on the table.
-On the right side, a woman in black is sitting at another table, she is searching something from her bag.
+On the right side, a woman in black is sitting at another table, She is looking for/rummaging  something in her black bag.
 ```
 
 图片二，
@@ -479,9 +479,7 @@ On the left side, many people are sitting under the stage and applauding for the
 I think they are very happy.
 ```
 
-### 22.1	part1（1~2）(45+45)
-1、	市政修路的通知（construction）
-2、	商场抽奖的活动
+
 ### 22.2	part2（3 ~ 4）(30+30) 6~8个句子
 图片1：山和湖，有人在划船，有人在岸上准备划船 湖边划船的，5个人的描述。1、	在湖边，左边三个坐船准备出去；中间一个划船过来，右边一个人穿着蓝色T恤准备上船，另外一个人已经划船走了；背景很多树
 
