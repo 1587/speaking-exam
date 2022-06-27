@@ -21,6 +21,15 @@ you will landing on Sydney at XX:XXPM same day.
 
 ```
 
+### 10.4	part4（8~10）(15+15+30) 题目是听的
+背景：要举行一个招聘会
+ 
+1.时间、地点（这里卡了一下，应该是这两个），会议开始时间
+2.想参加一个会议，具体信息？
+图中有两场这个会议，但是有一场用红线划掉了，并标注了取消，只介绍剩下一场就好
+3.想参加线上（应该是说的线上的，这个关键词他重读了，在表中也很好找）的，具体信息？
+一共两场，一场9：30AM，一场11；30AM
+
 
 ### 8.4	part4（8~10）(15+15+30) 题目是听的
 一个museum 博物馆会员日Wenesday October 14
@@ -103,11 +112,11 @@ Please keep that in mind.
 
 
 
-12.4
+### 12.4	part4（8~10）(15+15+30) 题目是听的
 
 
 
-13.4	part4（8~10）(15+15+30) 题目是听的
+### 13.4	part4（8~10）(15+15+30) 题目是听的
 1、问钓鱼需不需要带什么装备，其实不需要，表格右侧示意提供全部工具。
 No need, the tools have been provided.
 2、对Class有兴趣，想了解class相关信息，有两个相关的class。
@@ -120,4 +129,65 @@ No need, the tools have been provided.
 3.问scott先生具体要讲啥。在倒数第二项
 
 
+### 15.4	part4（8~10）(15+15+30) 题目是听的
+日程表
+是否是4月3号开？ -- 回答是的
 
+是否还有自行车/徒步旅行
+原本是要4、4的，但是被cancel了，所以要说不是的
+
+有几个跟food相关的
+有两个，cook、另外一个在11 am
+
+
+### 16.4	part4（8~10）(15+15+30) 题目是听的
+
+### 17.4	part4（8~10）(15+15+30) 题目是听的
+一次食品公司的面试安排：从早上8点开始，有好几场面试
+
+1、问在哪天，几点钟开始
+
+2、没太听懂，跟8点30那场面试取消相关。
+
+3、问有几场跟营养均衡师岗位的面试，几点钟开始
+
+### 18.4	part4（8~10）(15+15+30) 题目是听的
+
+### 19.4	part4（8~10）(15+15+30) 题目是听的
+
+### 20.4	part4（8~10）(15+15+30) 题目是听的
+关于儿童公园的
+1. 可以告诉我门票的多少钱
+在最后一行，6美元一张，小孩低于2岁免费
+2. 公园的活动是否在早上
+活动全部都是在下午3点
+3. 顾客有2岁和5岁的小孩，可以参加那些活动
+可以参加三个
+
+My answer:
+
+```
+Hello, the ticket price is 6 dollars. children under 2 years old are free admission. Please keep that in mind.
+
+No, I am sorry, I am afraid that all the events are taken in the afternoon. Please remember the time.
+
+Let me see. According to the information, there are three events.
+first,(不用带时间，只写event名字)
+second,
+third,
+Please keep that in mind
+```
+
+
+
+### 21.4	part4（8~10）(15+15+30) 题目是听的
+是一个 讲课，第一个问题 问起止时间，
+第二个问题 是问一个 session是不是 周三，
+第三个问题是 问有哪些session 是叫 merg 的讲授（有两个）
+
+### 22.4	part4（8~10）(15+15+30) 题目是听的
+
+比较简单，第二个问题我开始听错了，他问的是pipe什么时候修（下周），我听成什么时候讲了（上午第三个议题）。
+1、	第一个议题是谁说？什么时候（9点-9点15）
+2、	Water piper坏了，会修嘛（第二个人会讲maintenance的东西，并且water piper will be repair next week）
+3、	描述rual的会议安排；
