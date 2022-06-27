@@ -125,18 +125,16 @@ Please keep that in mind.
 
 ### 13.4	part4（8~10）(15+15+30) 题目是听的
 1、问钓鱼需不需要带什么装备，其实不需要，表格右侧示意提供全部工具。
-No need, the tools have been provided.
 2、对Class有兴趣，想了解class相关信息，有两个相关的class。
 
 ```
+Hello Sir, The fishing event will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
 
-Hello Sir, The fishing event  will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
-
-No need , all tools will be provided by XXXX , include XX XX XX ,please keep that in mind.
+No need, all tools will be provided by XXXX , including XX XX XX ,please keep that in mind.
 
 Yes, according to the information, there are 2 classes about XXX. 
-First, there is class about XX security (from 10:00 am to 11:00 am) (gaven by XXX). 
-Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (gaven by XXX).
+First, there is class about XX  (from 10:00 am to 11:00 am) (gaven by XXX). 
+Next, there is a class about YY  (from 3:00 pm to 4:00 pm).  (gaven by XXX).
 Please keep that in mind.
 ```
 
@@ -147,23 +145,20 @@ Please keep that in mind.
 3.问scott先生具体要讲啥。在倒数第二项
 
 ```
+The Meeting will be held on May The 20th, The first events is about XXX at 9:00 am. please keep that in mind.
 
-Hello Sir, The fishing event  will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
+No, you won't miss anything. There will be no other events after 11:00 am. 
 
-No need , all tools will be provided by XXXX , include XX XX XX ,please keep that in mind.
-
-Yes, according to the information, there are 2 classes about XXX. 
-First, there is class about XX security (from 10:00 am to 11:00 am) (gaven by XXX). 
-Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (gaven by XXX).
+Yes, according to the information, there are 2 session gaven by Mr scott. 
+First, there is session about XX security (from 10:00 am to 11:00 am) .
+Next, there is a session about YY security (from 3:00 pm to 4:00 pm).
 Please keep that in mind.
 ```
 
 ### 15.4	part4（8~10）(15+15+30) 题目是听的
 日程表
 是否是4月3号开？ -- 回答是的
-
 是否还有自行车/徒步旅行?  原本是要4、4的，但是被cancel了，所以要说不是的
-
 有几个跟food相关的 ? 有两个，cook、另外一个在11 am
 
 ```
@@ -171,9 +166,9 @@ Yes, The event will be held on April third, The events opens from 9:00 am to 5:0
 
 No, I am sorry, I am afraid that the Bicycle travel/hiking was cancelled this year. please keep that in mind.
 
-Yes, according to the information, there are 2 event about food. 
-First, there is event about cook at 10:00 am gaven by XXX. 
-Next, there is a session about 11:00 am  gaven by XXX.
+Yes, according to the information, there are 2 events about food. 
+First, there is a event named XX  at 10:00 am, (gaven by XXX.) 
+Next, there is a event named YY at 11:00 am, (gaven by XXX.)
 Please keep that in mind.
 ```
 
@@ -183,20 +178,17 @@ Please keep that in mind.
 一次食品公司的面试安排：从早上8点开始，有好几场面试
 
 1、问在哪天，几点钟开始
-
 2、没太听懂，跟8点30那场面试取消相关。
-
 3、问有几场跟营养均衡师岗位的面试，几点钟开始
 
 ```
-
 Hello Sir, The fishing event  will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
 
 No need , all tools will be provided by XXXX , include XX XX XX ,please keep that in mind.
 
-Yes, according to the information, there are 2 classes about XXX. 
-First, there is class about XX security (from 10:00 am to 11:00 am) (gaven by XXX). 
-Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (gaven by XXX).
+Yes, according to the information, there are 2 interviews for the position of nutritionist. 
+First, there is a interview start from 10:00 am to 11:00 am  (gaven by XXX). in meeting room A
+Next, there is a interview start from 3:00 pm to 4:00 pm.  (gaven by XXX). in meeting room B
 Please keep that in mind.
 ```
 
@@ -207,12 +199,9 @@ Please keep that in mind.
 
 ### 20.4	part4（8~10）(15+15+30) 题目是听的
 关于儿童公园的
-1. 可以告诉我门票的多少钱
-在最后一行，6美元一张，小孩低于2岁免费
-2. 公园的活动是否在早上
-活动全部都是在下午3点
-3. 顾客有2岁和5岁的小孩，可以参加那些活动
-可以参加三个
+1. 可以告诉我门票的多少钱, 在最后一行，6美元一张，小孩低于2岁免费
+2. 公园的活动是否在早上, 活动全部都是在下午3点
+3. 顾客有2岁和5岁的小孩，可以参加那些活动,可以参加三个
 
 My answer:
 
@@ -221,7 +210,7 @@ Hello, the ticket price is 6 dollars. children under 2 years old are free admiss
 
 No, I am sorry, I am afraid that all the events are taken in the afternoon. Please remember the time.
 
-Let me see. According to the information,   thay can  participate in three events.
+Let me see. According to the information, thay can participate in three events.
 a event about xxx (不用带时间，只写event名字)
 a event about xxx
 a event about xxx
@@ -233,17 +222,16 @@ Please keep that in mind
 ### 21.4	part4（8~10）(15+15+30) 题目是听的
 是一个 讲课，第一个问题 问起止时间，
 第二个问题 是问一个 session是不是 周三，
-第三个问题是 问有哪些session 是叫 merg 的讲授（有两个）
+第三个问题是 问有哪些 session 是叫 merg 的讲授（有两个）
 
 ```
+Hello Sir, The events opens from 9:00 am to 5:00 pm, on May The 20th, Monday. please keep that in mind.
 
-Hello Sir, The fishing event  will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
+No, I am sorry, I am afraid that It will be held On Thursday at 10:00 am ,please keep that in mind.
 
-No need , all tools will be provided by XXXX , include XX XX XX ,please keep that in mind.
-
-Yes, according to the information, there are 2 classes about XXX. 
-First, there is class about XX security (from 10:00 am to 11:00 am) (gaven by XXX). 
-Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (gaven by XXX).
+Yes, according to the information, there are 2 sessions gaven by Professor merg. 
+First, there is a session about XX security on Thursday, start from 10:00 am to 11:00 am. 
+Next, there is a session about YY security on Thursday, start from 3:00 pm to 4:00 pm. 
 Please keep that in mind.
 ```
 
