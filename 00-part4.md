@@ -10,8 +10,8 @@
 My answer:
 
 ```
-Hello sir, Departure from Singapore[ˌsɪŋəˈpɔː] at XX:XX PM on June 17th，the flight No. is Oceanic Air XX，
-you will landing on Sydney at XX:XXPM same day.
+Hello sir, Departure from Singapore[ˌsɪŋəˈpɔː] at 2:30 PM on June 17th，the flight No. is Oceanic Air 18，
+you will landing on Sydney at 17:30 PM same day.
 
 Hello sir, Departure from Singapore[ˌsɪŋəˈpɔː] at XX:XX PM on June 17th，the flight No. is Oceanic Air XX，
 you will landing on Sydney at XX:XXPM same day.
