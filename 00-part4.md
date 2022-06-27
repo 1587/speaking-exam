@@ -80,18 +80,18 @@ please keep that in mind.
 ### 4.4	part4（8~10）(15+15+30) 题目是听的
 1. 会议什么时候举行，on Mondy  1月17日；地点是**Hall；
 2. xxx是6点开始吗？不是，5：30分；
-2. 对geogre bryant（布莱恩特）感兴趣：有两场report，1 在6：15 ,2在…
+2. 对geogre bryant（布莱恩特）感兴趣：有两场 report，1 在6：15 ,2在…
 
 My answer:
 
 ```
-The meeting is held in XXX Hall on Monday January the 17th.  Please remember that.
+The meeting is held in XXX Hall on Monday, January the 17th.  Please remember that.
 
-The XXX meeting opens from 5:30 am to 6:30 am on Monday. Please remember that.
+No. I am sorry ,  I am afraid that The XXX meeting opens from 5:30 pm. Please remember that.
 
-There are two sessions related to Geogre Bryant. 
-First, there is a session about XX security from 6:15 am to 11 pm. the session is given by xxx
-Next, There is a session about YY security from 3 pm to 4 pm, the session is given by xxx
+There are two reports related to Geogre Bryant. 
+First, there is a report about XX  from 6:15 am to 11 pm. 
+Next, There is a report about YY  from 3 pm to 4 pm.
 Please keep that in mind.
 ```
 
@@ -211,9 +211,9 @@ Hello, the ticket price is 6 dollars. children under 2 years old are free admiss
 No, I am sorry, I am afraid that all the events are taken in the afternoon. Please remember the time.
 
 Let me see. According to the information, thay can participate in three events.
-a event about xxx (不用带时间，只写event名字)
-a event about xxx
-a event about xxx
+a event about/named xxx (不用带时间，只写event名字)
+a event about/named xxx
+a event about/named xxx
 Please keep that in mind
 ```
 
@@ -227,11 +227,11 @@ Please keep that in mind
 ```
 Hello Sir, The events opens from 9:00 am to 5:00 pm, on May The 20th, Monday. please keep that in mind.
 
-No, I am sorry, I am afraid that It will be held On Thursday at 10:00 am ,please keep that in mind.
+No, I am sorry, I am afraid that It will be held On Thursday at 10:00 am, please keep that in mind.
 
 Yes, according to the information, there are 2 sessions gaven by Professor merg. 
-First, there is a session about XX security on Thursday, start from 10:00 am to 11:00 am. 
-Next, there is a session about YY security on Thursday, start from 3:00 pm to 4:00 pm. 
+First, there is a session about XX  on Wednesday, start from 10:00 am to 11:00 am. 
+Next, there is a session about YY  on Thursday, start from 3:00 pm to 4:00 pm. 
 Please keep that in mind.
 ```
 
