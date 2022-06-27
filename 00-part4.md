@@ -146,6 +146,17 @@ Please keep that in mind.
 2.问11点要走，会不会错过什么东西。（不会）
 3.问scott先生具体要讲啥。在倒数第二项
 
+```
+
+Hello Sir, The fishing event  will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
+
+No need , all tools will be provided by XXXX , include XX XX XX ,please keep that in mind.
+
+Yes, according to the information, there are 2 classes about XXX. 
+First, there is class about XX security (from 10:00 am to 11:00 am) (gaven by XXX). 
+Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (gaven by XXX).
+Please keep that in mind.
+```
 
 ### 15.4	part4（8~10）(15+15+30) 题目是听的
 日程表
@@ -157,6 +168,17 @@ Please keep that in mind.
 有几个跟food相关的
 有两个，cook、另外一个在11 am
 
+```
+
+Hello Sir, The fishing event  will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
+
+No need , all tools will be provided by XXXX , include XX XX XX ,please keep that in mind.
+
+Yes, according to the information, there are 2 classes about XXX. 
+First, there is class about XX security (from 10:00 am to 11:00 am) (gaven by XXX). 
+Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (gaven by XXX).
+Please keep that in mind.
+```
 
 ### 16.4	part4（8~10）(15+15+30) 题目是听的
 
@@ -168,6 +190,19 @@ Please keep that in mind.
 2、没太听懂，跟8点30那场面试取消相关。
 
 3、问有几场跟营养均衡师岗位的面试，几点钟开始
+
+```
+
+Hello Sir, The fishing event  will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
+
+No need , all tools will be provided by XXXX , include XX XX XX ,please keep that in mind.
+
+Yes, according to the information, there are 2 classes about XXX. 
+First, there is class about XX security (from 10:00 am to 11:00 am) (gaven by XXX). 
+Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (gaven by XXX).
+Please keep that in mind.
+```
+
 
 ### 18.4	part4（8~10）(15+15+30) 题目是听的
 
@@ -203,9 +238,35 @@ Please keep that in mind
 第二个问题 是问一个 session是不是 周三，
 第三个问题是 问有哪些session 是叫 merg 的讲授（有两个）
 
+```
+
+Hello Sir, The fishing event  will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
+
+No need , all tools will be provided by XXXX , include XX XX XX ,please keep that in mind.
+
+Yes, according to the information, there are 2 classes about XXX. 
+First, there is class about XX security (from 10:00 am to 11:00 am) (gaven by XXX). 
+Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (gaven by XXX).
+Please keep that in mind.
+```
+
 ### 22.4	part4（8~10）(15+15+30) 题目是听的
 
 比较简单，第二个问题我开始听错了，他问的是pipe什么时候修（下周），我听成什么时候讲了（上午第三个议题）。
 1、	第一个议题是谁说？什么时候（9点-9点15）
 2、	Water piper坏了，会修嘛（第二个人会讲maintenance的东西，并且water piper will be repair next week）
 3、	描述rual的会议安排；
+
+```
+
+Hello Sir, The fishing event  will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
+
+No need , all tools will be provided by XXXX , include XX XX XX ,please keep that in mind.
+
+Yes, according to the information, there are 2 classes about XXX. 
+First, there is class about XX security (from 10:00 am to 11:00 am) (gaven by XXX). 
+Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (gaven by XXX).
+Please keep that in mind.
+```
+
+
