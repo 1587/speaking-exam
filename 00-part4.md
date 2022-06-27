@@ -162,21 +162,18 @@ Please keep that in mind.
 日程表
 是否是4月3号开？ -- 回答是的
 
-是否还有自行车/徒步旅行
-原本是要4、4的，但是被cancel了，所以要说不是的
+是否还有自行车/徒步旅行?  原本是要4、4的，但是被cancel了，所以要说不是的
 
-有几个跟food相关的
-有两个，cook、另外一个在11 am
+有几个跟food相关的 ? 有两个，cook、另外一个在11 am
 
 ```
+Yes, The event will be held on April third, The events opens from 9:00 am to 5:00 pm (on Monday).
 
-Hello Sir, The fishing event  will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
+No, I am sorry, I am afraid that the Bicycle travel/hiking was cancelled this year. please keep that in mind.
 
-No need , all tools will be provided by XXXX , include XX XX XX ,please keep that in mind.
-
-Yes, according to the information, there are 2 classes about XXX. 
-First, there is class about XX security (from 10:00 am to 11:00 am) (gaven by XXX). 
-Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (gaven by XXX).
+Yes, according to the information, there are 2 event about food. 
+First, there is event about cook at 10:00 am gaven by XXX. 
+Next, there is a session about 11:00 am  gaven by XXX.
 Please keep that in mind.
 ```
 
