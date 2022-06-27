@@ -107,13 +107,13 @@ Please keep that in mind.
 My answer:
 
 ```
-Hello Sir, The XX Database Meeting will be held on May The 20th The meeting opens from 9 am to 5 am on Monday.
+Hello Sir, The XX Database Meeting will be held on May The 20th, The meeting opens from 9:00 am to 5:00 pm (on Monday).
 
-No, I am sorry, I am afraid that XX Database Meeting is Held in The Crown Hotel. Please remember that.
+No, I am sorry, I am afraid that XX Database Meeting will be Held in The Crown Hotel. Please remember that.
 
-Yes, according to information, there are 2 sessions about Database security. 
-First, there is session about XX security from 10am to 11 pm. 
-Next, there is a session about YY security from 3 pm to 4 pm. 
+Yes, according to the information, there are 2 sessions about Database security. 
+First, there is session about XX security (from 10:00 am to 11:00 am) (Hosted by XXX). 
+Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (Hosted by XXX).
 Please keep that in mind.
 ```
 
@@ -128,6 +128,17 @@ Please keep that in mind.
 No need, the tools have been provided.
 2、对Class有兴趣，想了解class相关信息，有两个相关的class。
 
+```
+
+Hello Sir, The fishing event  will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
+
+No need , all tools will be provided by XXXX , include XX XX XX ,please keep that in mind.
+
+Yes, according to the information, there are 2 classes about XXX. 
+First, there is class about XX security (from 10:00 am to 11:00 am) (gaven by XXX). 
+Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (gaven by XXX).
+Please keep that in mind.
+```
 
 
 ### 14.4	part4（8~10）(15+15+30) 题目是听的
