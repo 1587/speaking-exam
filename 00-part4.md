@@ -10,14 +10,14 @@
 My answer:
 
 ```
-Hello sir, Departure from Singapore[ˌsɪŋəˈpɔː] at 2:30 PM on June 17th，the flight No. is Oceanic Air 18，
+Hello sir, You will Depart from Singapore[ˌsɪŋəˈpɔː] at 2:30 PM on June the 17th，the flight No. is Oceanic Air 18，
 you will landing on Sydney at 17:30 PM same day.
 
-Hello sir, Departure from Singapore[ˌsɪŋəˈpɔː] at XX:XX PM on June 17th，the flight No. is Oceanic Air XX，
-you will landing on Sydney at XX:XXPM same day.
+No, I sorry, according for the  itinerary, You will have dinner with Tom , The director, at 7:00 PM on Monday. 
 
-Hello sir, Departure from Singapore[ˌsɪŋəˈpɔː] at XX:XX PM on June 17th，the flight No. is Oceanic Air XX，
-you will landing on Sydney at XX:XXPM same day.
+Hello sir, Your return information is as follows. 
+Departure from Sydney at XX:XX PM on June 17th，the flight No. is Oceanic Air XX，
+you will landing on Singapore at XX:XX AM next day.
 
 ```
 
