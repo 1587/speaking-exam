@@ -255,7 +255,7 @@ Please keep that in mind.
 
 ```
 
-Hello Sir, The first session opens from 9:00 am to 10:00 am , the session is gaven by xxx. please keep that in mind.
+Hello Sir, The first session opens from 9:00 am to 9:10 am , the session is gaven by xxx. please keep that in mind.
 
 Yes, the session about maintenance opens from  10:00 am to 11:00 am, 
 and the water piper will be repaired on next week, please keep that in mind.
