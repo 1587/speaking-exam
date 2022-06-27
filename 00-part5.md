@@ -174,6 +174,22 @@ Therefore, I like to rent a house, which can let my life without stress, and the
 ```
 
 
+My answer3:
+
+```
+There are some disadvantages of buying a house. 
+
+Firstly, buying and maintaining a house costs a lot of money. 
+Because house is very expensive to buy.
+Besides, you have to decorate the house, buy furniture and many other things.
+
+Secondly, it is difficult to move to different locations if you own a house. 
+If you need to change your job, you need to move to a new location. But if you own a house, you can’t do that. 
+
+So I think these are the disadvantages of buying a house. 
+```
+
+
 
 
 ### 12.5	part5（11）(60) 
