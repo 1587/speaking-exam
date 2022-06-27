@@ -224,10 +224,10 @@ Hello, the ticket price is 6 dollars. children under 2 years old are free admiss
 
 No, I am sorry, I am afraid that all the events are taken in the afternoon. Please remember the time.
 
-Let me see. According to the information, there are three events.
-first,(不用带时间，只写event名字)
-second,
-third,
+Let me see. According to the information,   thay can  participate in three events.
+a event about xxx (不用带时间，只写event名字)
+a event about xxx
+a event about xxx
 Please keep that in mind
 ```
 
