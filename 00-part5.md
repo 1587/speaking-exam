@@ -422,7 +422,7 @@ So, I think a gap year is a better way to improve themselves.
 
 
 
-	描述rual的会议安排；
+
 
 ### 22.5	part5（11）(60)
 education background and related work experience ,which one more important and why
