@@ -169,23 +169,15 @@ we can see many goods on shelves in the warehouse.
 ### 10.2	part2（3 ~ 4）(30+30) 6~8个句子
  ![image](https://user-images.githubusercontent.com/2299635/170911691-94f06647-b4b2-4674-b81d-7c8d5bb833ed.png)
 
-```
-This picture maybe taken in a corner of some building.
-On the stairs, two men are ascending stairs and chatting, 
-and a lady is picking up the scattered files on the stairs and another man is helping her.
-On the left of Stairs, there is a man walking and making a call.
-On the right of Stairs, there are a man and a woman standing and having a conversation.
-```
 
-My answer2:
+My answer:
 
 ```
 This is a picture taken inside a building. There are seven people in this picture. 
-Four people are on the stairs. 
-On the right side of the picture, there are two people talking to each other. 
-On the left side of the picture there is a man talking on the phone. 
-In the middle, there are two people picking up the papers on the floor. 
-The other two people are climbing the stairs.
+In the middle,  two men are walking up the staircase, a lady and a man are picking up papers on the staircase. 
+On the right side of the staircase, a man and a woman are standing and talking.
+On the left side of the staircase, a man is walking and making a call.
+
 ```
 
 ![image](https://user-images.githubusercontent.com/2299635/170911697-ff0cc890-86b8-42b8-9bf9-cdac0d58dad8.png)
