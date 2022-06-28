@@ -11,7 +11,7 @@ My answer:
 ```
 This picture is taken on the street, there are 6 people in this picture. 
 On the left side, a woman with short hair and a man in black are standing and talking. 
-In the middle of picture, an old man in white is walking. 
+In the middle of picture, an old man in white is walking on the street. 
 On the right, a gentleman and a lady are sitting around a table and talking. 
 In the background, there is a building, maybe it is a museum. 
 And I can see a sculpture[ˈskʌlptʃə] before it.
@@ -30,8 +30,8 @@ My answer:
 ```
 The picture is taken on a beach, there are some people in this picture.
 In the middle of this picture, there is a path with some chairs. a woman in white is walking, two people are sitting on a chair.
-On the left side, some people are walking on the beach, and a green flag is flying in the air on the beach.
-In the background I can see blue skies, white clouds, sea birds , and some coconut[ˈkəʊkəˌnʌt](椰子) trees. 
+On the left side, some people are walking on the beach, and a green flag is flying in the air.
+In the background I can see blue sky,  sea birds , and some trees. 
 ```
 
 
@@ -46,7 +46,7 @@ In the background I can see blue skies, white clouds, sea birds , and some cocon
 My answer:
 
 ```
-This is a close-up photo of a music show. 
+The picture is taken  in a music show. 
 Many people，many chairs and many equipments are in this photo. 
 In the front, many listeners are sitting on the chairs and listening to the music. 
 At the back，many musicians are playing on the platform. 
