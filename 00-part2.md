@@ -321,12 +321,9 @@ My answer:
 
 ```
 The picture is taken in a restaurant/cafeteria. There are 4 people in this picture.
-On the left side, a woman in black dress with long hair is choosing food.
-she is standing near the front desk.
-In the middle of the picture, A woman in white is holding a plate. 
-beside her, there are many food display cabinets.
-On the right side, two men in black is standing in front of the cabinets.
-We can also see a lot of food and they look very delicious.
+On the left side, a woman in black dress (with long hair) is choosing food. she is standing near the cashier.
+In the middle , A woman in white is holding a plate. 
+On the right side,We can also see many food display cabinets. two men in black is standing in front of the cabinets.
 ```
 
 6个人，都是女的，5个穿白大褂(医生那种)，第六个人坐在后面，穿黑衣服； 右侧两个女的在交谈，中间两个女的也在交谈，中间靠后一个女的在看书； 左下角女的穿黑衣服，在做事，后面有个仪器台子，上面堆满仪器
@@ -337,11 +334,10 @@ My answer:
 ```
 The picture is taken in a chemistry lab. There are 6 people in this picture.
 On the right side, two women are looking at a book and talking. One is standing and one is sitting.
-In the middle of the picture, two women are talking about something, 
-and another woman is reading the book alone.
+In the middle, two women are talking about something, and another woman is reading a book.
 On the left side, a woman in black is doing something
 we also can see many Lab tools in the background.
-They are all busy.
+(They are all busy.)
 ```
 
 
