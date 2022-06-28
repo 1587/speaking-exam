@@ -489,7 +489,12 @@ I think they are very happy.
 My answer:
 
 ```
-
+The picture is taken in a park with Mountains and lake. 
+on the left , three people are sitting on a boat.
+In the middle, a man is Rowing back the boat.
+on the right, a man with blue T-shirt is Boarding a boat. another man is Rowing out a boat.
+In the backgrond , there are many trees.
+I think it is a beautiful place for people to take a rest.
 ```
 
 图片2：实验室，3女1男，左边在接水，右后边在开冰箱门，右边2个在看显微镜。（感觉跟题库13的图片题一样）
@@ -499,7 +504,11 @@ My answer:
 My answer:
 
 ```
-
+The picture is taken in a chemistry lab. There are 4 people in this picture.
+On the right side, a man and a woman are observing something through the microscopes on the platform
+In the middle a woman is opening the door of fridge and taking out a sample
+In the left side a woman is getting water.
+we can see another microscope  on the platform. and many other Laboratory equipment.
 ```
 
 
