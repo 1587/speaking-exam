@@ -225,21 +225,28 @@ On the right side, next to the woman, a man in black suit is taking notes.
 图1：
 一个穿黑色裙的女生躺在椅子上看书，挨着他的是一个穿红色T恤的男人躺在椅子上，手里端着一瓶水。背后可以看到一个人，站着门的中间。左侧可以看到一辆摩托车。
 在一个房间，右边一个男人和一个女人坐在躺椅上，女人在看书；他们的前面是一个桌子，桌子的右边是一辆摩托车，他们的右边，有个男人，正在进来。
+
+My answer:
+
 ```
+The picture is taken in a house, there are 3 people in this picture. 
 A girl in a black dress is lying on a chair and reading a book. 
 Next to her, a man in a red T-shirt is lying on another chair with a bottle of water in his hand. 
-Behind them, another man is standing in the middle of the door. and there is a motorbike on the left.
+Behind them,A man is walking in the room through the door.
+and there is a motorbike on the left.
 ```
 
 图2：化学实验室里面有三个人，全部穿着白色工作服。在镜头前，是一个男生挨着桌子站着，好像在准备实验材料。背后可以看到一个女生正在打开冰箱，好像要存放化学物品。另外一个女生正在从外面开门进来
 在一个实验室，共三个人，两个女人，一个男人，他们都穿着白色的制服（实验室常穿的），男人正在擦桌子；背后一个女人正在开冰箱，另外一个女人正开门进来，背后可以看到显微镜。
+
 My answer:
 
 ```
-The picture is taken in a chemistry Lab, there are three people in this picture. They are all wearing white overalls. 
+The picture is taken in a chemistry Lab, there are three people with white overalls/uniforms in this picture.
 In front of the picture, a man is standing near a table, maybe he is preparing some chemicals for his research. 
-Behind him, A woman is opening the fridge, as if to store chemicals. 
+Behind him, A woman is opening a fridge to store chemicals. 
 Another girl is opening the door from outside.
+we can see a microscope on the platform. and many other Laboratory equipment.
 ```
 
 
