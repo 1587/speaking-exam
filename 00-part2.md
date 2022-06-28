@@ -81,8 +81,8 @@ And you can see two lights on the ceiling. we can see they are very busy.
 My answer:
 
 ```
-The picture is taken in a clothing store. 
-On the left side, one woman with a blue T-shirt is trying on white clothes. Another woman is looking at her. 
+The picture is taken in a clothing store. There three people in this picture.
+On the left side, one woman with a blue T-shirt is trying on white clothes. Another woman is looking at her. maybe her mother.
 There is a man behind them. 
 On the right side, we can see a pair of metal [ˈmetəl] artworks and  there are many goods on the shelves
 ```
@@ -96,7 +96,7 @@ My answer:
 
 ```
 The picture is taken on the street. There are 2 people in this picture.
-On the right side, a man with a blue shirt is opening the door of the car. 
+On the right side, a man with a white shirt is opening the door of a car. 
 On the left side, a woman is squatting/crouching on the side of a bicycle. 
 Looks like she's locking her bike.
 In the background of the picture, we can see another 2 cars and many trees.
