@@ -114,11 +114,13 @@ Behind the trees, there is a car parking on the road and a man is going toward t
 My answer:
 
 ```
-I think this picture is taken in a park, there are many people in the picture,
-in the middle of the picture, there is a girl with black skirt walking around, 
-next to her, there are some other people sitting on the bench, 
-in the background of the picture, there are many trees and green grass,
-the environment is beautiful, it seems like a good place for people to take a rest and have a good time with friends.
+The picture is taken in a park, there are many people in this picture,
+in the middle,  a girl with black dress is walking on the path, 
+next to her, there are some people sitting on the bench by the side of the road, 
+one is reading the newspaper and one is playing mobile phone.
+On the right side,there are many big trees on the lawn of the park,
+and There are many people playing in the park in the distance.
+the environment is beautiful.
 ```
 
 第四题：一张草地农场照，绿色隔离网分成了两部分。左下半部分是三个人，两女一男。左上的女的站着，手里拿着相机，中间女的长发站着，右肩上背着红色的包。右边男的蹲着地上，隔着隔离网喂鸡。整个农场都是绿色草地，远处有房子。
@@ -126,12 +128,12 @@ the environment is beautiful, it seems like a good place for people to take a re
 My answer:
 
 ```
-The picture shows there are 2 girls and 1 boy in a farm. 
-The boy with short hair and a gray shirt is on the right side of the picture. He is feeding chickens. 
-On the left side, there is a girl with long hair standing and looking at the boy. 
-Another girl is taking photos for them by a smartphone. In the background of the picture,
-I can see more chickens and some buildings.
-I think they feel happy.
+The picture is taken in a farm ,  there are three people in this picture
+on the right side , A little boy is crouching on the ground feeding the chickens.
+On the left side, a woman with is standing and looking at the boy. 
+Another girl is taking photos for them by a smartphone.
+In the background of the picture, I can see more chickens and some buildings.
+I think it is a beautiful place for people to take a rest.
 ```
 
 
