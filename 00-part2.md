@@ -405,16 +405,17 @@ It is a sunny day and the park is beautiful.
 
 
 ### 19.2	part2（3 ~ 4）(30+30) 6~8个句子
-在街上，左边一个穿着黑色的男的坐在椅子上，打着电话；一个女的穿着绿色衣服，也坐在椅子上，看手机；一个大妈拿着包子在路上走过。路的右边是一排树，道路的尽头有一辆白色的汽车
+图片1：在街上，左边一个穿着黑色的男的坐在椅子上，打着电话；一个女的穿着绿色衣服，也坐在椅子上，看手机；一个大妈拿着包子在路上走过。路的右边是一排树，道路的尽头有一辆白色的汽车
 
 My answer:
 
 ```
-
+The picture is taken on the street, 
+On the left side, two people  are sitting on a bench. the man is makeing a call and the woman is playing a mobile phone, 
+and another woman with a bag is walking on the road.
+There is a row of trees on the left side of the road. and a white car is parking at the end of the road.
 ```
 
-图二：
-在一个室内小店前，很多人地经过，店长坐在门口，旁边两个人在握手；店前面挂了很多商品。
 图片2：在建筑物的内部，左边是个杂货店(Grocery store)，门口一个男的做在椅子上，旁边两个男的正站在那里谈话，中间和右边有一些人在逛，背景是个服装店，里面有两个人在看服装
 （有点复杂，感觉是阿拉伯世国家的商店外面）
 
