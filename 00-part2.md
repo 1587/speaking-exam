@@ -406,13 +406,24 @@ It is a sunny day and the park is beautiful.
 
 ### 19.2	part2（3 ~ 4）(30+30) 6~8个句子
 在街上，左边一个穿着黑色的男的坐在椅子上，打着电话；一个女的穿着绿色衣服，也坐在椅子上，看手机；一个大妈拿着包子在路上走过。路的右边是一排树，道路的尽头有一辆白色的汽车
- 
+
+My answer:
+
+```
+
+```
 
 图二：
 在一个室内小店前，很多人地经过，店长坐在门口，旁边两个人在握手；店前面挂了很多商品。
 图片2：在建筑物的内部，左边是个杂货店(Grocery store)，门口一个男的做在椅子上，旁边两个男的正站在那里谈话，中间和右边有一些人在逛，背景是个服装店，里面有两个人在看服装
 （有点复杂，感觉是阿拉伯世国家的商店外面）
 
+
+My answer:
+
+```
+
+```
 
 
 
@@ -428,7 +439,7 @@ The picture is taken in a school, there are many people in this picture.
 most of them are wearing school uniforms and black bags
 On the right side, two boys are standing near the road sign and talking. one of them is pointing somewhere.
 In the middle of the picture, a girl is looking at the teaching building. 
-In the background, there are many buildings、green grass and people.
+In the background, there are many buildings,green grass and people.
 ```
 
 图片2：
@@ -470,6 +481,21 @@ I think they are very happy.
 图片1：山和湖，有人在划船，有人在岸上准备划船 湖边划船的，5个人的描述。1、	在湖边，左边三个坐船准备出去；中间一个划船过来，右边一个人穿着蓝色T恤准备上船，另外一个人已经划船走了；背景很多树
 
 
+My answer:
+
+```
+
+```
+
 图片2：实验室，3女1男，左边在接水，右后边在开冰箱门，右边2个在看显微镜。（感觉跟题库13的图片题一样）
   实验室里面4个人，3女一男，右边2个（一男一女）在看显微镜，中间一个女的在从柜子里面拿东西，左边一个女的在接水。
   实验室里四个人，都穿着白衣服；左边一个女生正在接水；中间一个人从冰箱拿出什么东西；右边两个人坐着在操作显微镜，旁边还一个空着的显微镜和凳子；
+
+My answer:
+
+```
+
+```
+
+
+
