@@ -315,8 +315,8 @@ On the background, we also can see many desks and plants.
 ### 16.2	part2（3 ~ 4）(30+30) 6~8个句子
 餐厅：三个人（前台和帮厨）； 前台点菜的地方，有收银，有食物的餐盘、空餐盘；<3>左边站了一个长卷头发穿黑色裙子的女士，中间是一个穿着白色衣服的女士拿着餐盘，女士的左边是一排像食堂打菜的柜子（里面有菜）。
 or 一个餐馆中，左边站了一个长卷头发穿黑色裙子的女士，中间是一个穿着白色衣服的女士拿着餐盘，女士的左边是一排像食堂打菜的柜子（里面有菜），柜子的前面站着2个男士。 
-
 餐盘 plate 
+
 My answer:
 
 ```
@@ -347,10 +347,28 @@ we also can see many Lab tools in the background.
 图1：室内等候厅，左边4个大妈并排坐在一张黑色长凳上，再看前面的黑色电视屏，他们前面有2个小男孩，一个坐在长凳上看那个电视屏，
 一个横躺在上面。电视右边有个动物雕像。后面有3个美女服务员站在前台，围成一圈在聊天
 
+My answer:
+
+```
+The picture is taken in a Hotel Lobby. 
+On the left side , Four women are sitting side by side on a black bench and watching TV.
+if front of them , a boy is sitting on a bench and watching TV, another  boy is lying on the bench.
+In the background, Three hotel attendants are standing in a circle near the front desk and talking.
+we also can see an animal sculpture beside the TV.
+```
+
 图2: 右边有把大的遮阳伞，下面一张桌子，两个女人坐在下面吃零食。右边一个大妈在走，手里拿着个玻璃杯。后面是个房子
  ![image](https://user-images.githubusercontent.com/2299635/170913680-81ccc33a-296e-43a3-93a8-f6b777ea963e.png)
 
+My answer:
 
+```
+The picture is taken outside,
+On the left, an old woman with a glass cup is walking to the coffeehouse.
+On the right, two women is sitting around a table under a big sunshade, they are eating some snacks [snæk] or foods.
+In the background , this is a white house maybe a coffeehouse.
+we can see many grass on the ground.
+```
 
 
 
