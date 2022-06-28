@@ -39,18 +39,17 @@ In the background I can see blue sky,  sea birds , and some trees.
 
 ### 8.2	part2（3 ~ 4）(30+30) 6~8个句子
  
-露天音乐演唱会，很多人  很多乐器。台下很多观众坐在凳子上听演唱会，（晴天太阳-有阳光），表演台上XX个音乐家正在表演。（有不少细节-比如后面有个老人的身影 远处有绿色可以判断有很多树，可以遇到了自己加。）
+露天音乐演唱会，很多人 很多乐器。台下很多观众坐在凳子上听演唱会，（晴天太阳-有阳光），表演台上XX个音乐家正在表演。（有不少细节-比如后面有个老人的身影 远处有绿色可以判断有很多树，可以遇到了自己加。）
 
 ![image](https://user-images.githubusercontent.com/2299635/171656077-c77dd060-ade0-4334-80e5-2276ab1031f2.png)
 
 My answer:
 
 ```
-The picture is taken  in a music show. 
-Many people，many chairs and many equipments are in this photo. 
-In the front, many listeners are sitting on the chairs and listening to the music. 
-At the back，many musicians are playing on the platform. 
-It is a sunny day. You can see the sunshine. It is great.
+The picture is taken in a music show. There are Many people，many chairs and many equipments in this picture. 
+In the front, the audience was sitting on chairs to watch the show.
+In the background，many musicians are playing with musical equipments on the stage. 
+It is a sunny day. I can see the sunshine. It is great. We can also see some trees in the distance.
 ```
 
 在一个仓库里面，两个人，很多货物，很多架子，两台车。左边一个带着蓝色安全帽的黑人女人正在推一个小车（小车上有一个纸盒和两个塑料箱），右边一个带着蓝色安全帽的男人正在操作叉车（哈哈）后面是货架，有很多货物在上面，天花板上有灯。
@@ -60,15 +59,12 @@ It is a sunny day. You can see the sunshine. It is great.
 My answer:
 
 ```
-This is a close-up photo of a warehouse. Two people, many goods and many shelves are in this photo. 
-On the left , the woman with blue hat is pushing a small cart. Three boxes are on the car. 
+The picture is taken in a warehouse. there are two people in this picture. 
+On the left , a woman with blue helmet is pushing a small cart. Three boxes are stacking on the cart. 
 On the right, a man is checking status of the forklift truck（叉车）)
-At the back, many goods are on the shelves. 
-And you can see two lights on the cell.
+In the background, there are many goods on the shelves. 
+And you can see two lights on the ceiling. we can see they are very busy.
 ```
-
-
-
 
 
 
