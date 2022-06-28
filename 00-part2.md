@@ -158,26 +158,12 @@ From the picture we can see, the restaurant business is quite good, the food may
 My answer:
 
 ```
-The picture is taken in warehouse. There are two women and one man in this picture. 
-On the left side, there are two women changing clothes near to the cabinet in the dressing room. 
+The picture is taken in warehouse. There are three people in this picture. 
+On the left side, there are two women changing clothes (near to the cabinet) in the dressing room. 
 One of them has long hair and wearing a brown dress, other one is wearing a white sweater. 
-One the right side, there is a fat man wearing the blue shirt is walking in the distance. 
-From the picture we can see, there are so many goods on shelves was piled in the warehouse.
+One the right side, a fat man with blue shirt is walking in the distance. 
+we can see many goods on shelves in the warehouse.
 ```
-
-My answer2:
-
-```
-The picture shows there are 3 people in a warehouse. 
-On the right side, two women are near a cabinet and changing cloths. 
-One of them is carrying a brown dress and she has long hair. 
-And Another is wearing a white sweater. 
-
-On the right side, a fat man with blue shirt is walking in the distance. 
-
-There are also many goods on shelves in the warehouse.
-```
-
 
 
 ### 10.2	part2（3 ~ 4）(30+30) 6~8个句子
