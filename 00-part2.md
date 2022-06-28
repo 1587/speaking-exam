@@ -183,20 +183,10 @@ On the left side, a man is walking and making a call.
 ![image](https://user-images.githubusercontent.com/2299635/170911697-ff0cc890-86b8-42b8-9bf9-cdac0d58dad8.png)
 
 ```
-The picture may be taken in a laboratory with lots people inside. 
-On the left, there are a man and a woman are sitting at the table and reading some books;
-In the middle, there is a lady opening the refrigerator door(the door of fridge).
+The picture is taken in a laboratory four people inside. All of them are wearing white uniforms
+On the left, a man and a woman are sitting at the table and reading some books;
+In the middle, there is a lady opening the door of fridge and taking out a sample.
 On the right, there is lady is observing something through the microscope on the platform.
-```
-
-My answer2:
-
-```
-This is a picture taken inside a laboratory. There are four lab workers in the picture. 
-All of them are wearing white uniforms. 
-In the foreground of the picture, a man and a woman are looking up some information. 
-In the background, there is a man looking through the microscope. 
-There is also another man taking out a sample from laboratory fridge.
 ```
 
 
