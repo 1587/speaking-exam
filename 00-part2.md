@@ -173,10 +173,10 @@ we can see many goods on shelves in the warehouse.
 My answer:
 
 ```
-This is a picture taken inside a building with a . There are seven people in this picture. 
+This is a picture taken inside a building near the staircase . There are seven people in this picture. 
 In the middle, two men are walking up the staircase, a lady and a man are picking up papers on the staircase. 
-On the right side of the staircase, a man and a woman are standing and talking.
-On the left side of the staircase, a man is walking and making a call.
+On the right side,  a man and a woman are standing and talking.
+On the left side, a man is walking and making a call.
 
 ```
 
