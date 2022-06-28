@@ -423,7 +423,11 @@ There is a row of trees on the left side of the road. and a white car is parking
 My answer:
 
 ```
-
+The picture is taken inside,
+On the left side, there is a Grocery store, a man is sitting in a chair at the door , 
+two men are standing and talking beside him.
+in the middle, some people are walking and hangout
+in the background , two people are looking at clothes in a clothing store.
 ```
 
 
