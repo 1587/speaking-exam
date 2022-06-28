@@ -198,11 +198,10 @@ On the right, there is lady is observing something through the microscope on the
 My answer:
 
 ```
-The picture is taken on a yacht/ship, there are four people in this picture. 
-They are on the deck of the ship.
-Two men are sitting in the chairs, one of them is playing his smartphone, the other one in white shirt is sorting out his collar.
+The picture is taken on a yacht/ship, there are four people on the deck. 
+Two men are sitting in the chairs, one of them is playing mobile phone, the other one in white shirt is sorting out his collar.
 Behind them, two people are standing and talking.
-In the background, I can see mountains and trees.
+In the background, I can see mountains and trees on the shore.
 ```
 
 图2：
