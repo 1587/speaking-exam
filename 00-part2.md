@@ -29,7 +29,8 @@ My answer:
 
 ```
 The picture is taken on a beach, there are some people in this picture.
-In the middle of this picture, there is a path with some chairs. a woman in white is walking, two people are sitting on a chair.
+In the middle of this picture, there is a path with some chairs.
+a woman in white is walking, two people are sitting on a chair.
 On the left side, some people are walking on the beach, and a green flag is flying in the air.
 In the background I can see blue sky,  sea birds , and some trees. 
 ```
@@ -46,10 +47,12 @@ In the background I can see blue sky,  sea birds , and some trees.
 My answer:
 
 ```
-The picture is taken in a music show. There are Many people，many chairs and many equipments in this picture. 
+The picture is taken in a music show. There are Many people，
+many chairs and many equipments in this picture. 
 In the front, the audience was sitting on chairs to watch the show.
 In the background，many musicians are playing with musical equipments on the stage. 
-It is a sunny day. I can see the sunshine. It is great. We can also see some trees in the distance.
+It is a sunny day. I can see the sunshine. It is great. 
+We can also see some trees in the distance.
 ```
 
 在一个仓库里面，两个人，很多货物，很多架子，两台车。左边一个带着蓝色安全帽的黑人女人正在推一个小车（小车上有一个纸盒和两个塑料箱），右边一个带着蓝色安全帽的男人正在操作叉车（哈哈）后面是货架，有很多货物在上面，天花板上有灯。
@@ -60,7 +63,8 @@ My answer:
 
 ```
 The picture is taken in a warehouse. there are two people in this picture. 
-On the left , a woman with blue helmet is pushing a small cart. Three boxes are stacking on the cart. 
+On the left , a woman with blue helmet is pushing a small cart. 
+Three boxes are stacking on the cart. 
 On the right, a man is checking status of the forklift truck（叉车）)
 In the background, there are many goods on the shelves. 
 And you can see two lights on the ceiling. we can see they are very busy.
@@ -82,9 +86,11 @@ My answer:
 
 ```
 The picture is taken in a clothing store. There three people in this picture.
-On the left side, one woman with a blue T-shirt is trying on white clothes. Another woman is looking at her. maybe her mother.
+On the left side, one woman with a blue T-shirt is trying on white clothes. 
+Another woman is looking at her. maybe her mother.
 There is a man behind them. 
-On the right side, we can see a pair of metal [ˈmetəl] artworks and  there are many goods on the shelves
+On the right side, we can see a pair of metal [ˈmetəl] artworks,
+and  there are many goods on the shelves
 ```
 
 
@@ -148,7 +154,8 @@ My answer:
 ```
 The picture shows there are many people in a restaurant. 
 Most of them are eating food and talking. 
-In the middle of the picture, there are 3 people sitting around a small table. One man is eating chips. 
+In the middle of the picture, there are 3 people sitting around a small table. 
+One man is eating chips. 
 The other 2 are looking at a menu and ordering food. One of them is carrying a cup of water.
 From the picture we can see, the restaurant business is quite good, the food may be tasty.
 ```
@@ -173,8 +180,10 @@ we can see many goods on shelves in the warehouse.
 My answer:
 
 ```
-This is a picture taken inside a building near the staircase . There are seven people in this picture. 
-In the middle, two men are walking up the staircase, a lady and a man are picking up papers on the staircase. 
+This is a picture taken inside a building near the staircase .
+There are seven people in this picture. 
+In the middle, two men are walking up the staircase, 
+a lady and a man are picking up papers on the staircase. 
 On the right side,  a man and a woman are standing and talking.
 On the left side, a man is walking and making a call.
 
@@ -183,7 +192,8 @@ On the left side, a man is walking and making a call.
 ![image](https://user-images.githubusercontent.com/2299635/170911697-ff0cc890-86b8-42b8-9bf9-cdac0d58dad8.png)
 
 ```
-The picture is taken in a laboratory four people inside. All of them are wearing white uniforms
+The picture is taken in a laboratory four people inside. 
+All of them are wearing white uniforms
 On the left, a man and a woman are sitting at the table and reading some books;
 In the middle, there is a lady opening the door of fridge and taking out a sample.
 On the right, there is lady is observing something through the microscope on the platform.
@@ -199,7 +209,8 @@ My answer:
 
 ```
 The picture is taken on a yacht/ship, there are four people on the deck. 
-Two men are sitting in the chairs, one of them is playing mobile phone, the other one in white shirt is sorting out his collar.
+Two men are sitting in the chairs, one of them is playing mobile phone, 
+the other one in white shirt is sorting out his collar.
 Behind them, two people are standing and talking.
 In the background, I can see mountains and trees on the shore.
 ```
@@ -211,7 +222,8 @@ My answer:
 
 ```
 The picture is taken in the office, there are 3 people in this picture. 
-On the left side, a man in white suit is sitting at a table, there is a computer on his table.
+On the left side, a man in white suit is sitting at a table,
+there is a computer on his table.
 A woman in red suit with long hair is handing documents to him.
 On the right side, next to the woman, a man in black suit is taking notes.
 ```
@@ -242,8 +254,10 @@ and there is a motorbike on the left.
 My answer:
 
 ```
-The picture is taken in a chemistry Lab, there are three people with white overalls/uniforms in this picture.
-In front of the picture, a man is standing near a table, maybe he is preparing some chemicals for his research. 
+The picture is taken in a chemistry Lab, 
+there are three people with white overalls/uniforms in this picture.
+In front of the picture, a man is standing near a table, 
+maybe he is preparing some chemicals for his research. 
 Behind him, A woman is opening a fridge to store chemicals. 
 Another girl is opening the door from outside.
 we can see a microscope on the platform. and many other Laboratory equipment.
@@ -261,7 +275,8 @@ My answer:
 
 ``` 
 The picture is taken in a conference room, there are 4 people in this picture.
-On the left side, two women are sitting at a table, looking at a laptop and talking about something, 
+On the left side, two women are sitting at a table, 
+looking at a laptop and talking about something, 
 one of them is smiling.
 On the right side, a man and a woman are looking at their notebooks and discussing something.
 There are one TV and one computer in this room.
@@ -292,7 +307,8 @@ My answer:
 
 ```
 The picture is taken on the street, there are 5 people in this picture.
-In the middle of the picture, three people in riding suits are standing near their bicycle, they are all wearing safety helmets.
+In the middle of the picture, three people in riding suits are standing near their bicycle, 
+they are all wearing safety helmets.
 On the left side, a man in black is walking. 
 On the right side, a man in red is sitting in the chair. 
 ```
@@ -321,9 +337,11 @@ My answer:
 
 ```
 The picture is taken in a restaurant/cafeteria. There are 4 people in this picture.
-On the left side, a woman in black dress (with long hair) is choosing food. she is standing near the cashier.
+On the left side, a woman in black dress (with long hair) is choosing food.
+she is standing near the cashier.
 In the middle , A woman in white is holding a plate. 
-On the right side,We can also see many food display cabinets. two men in black is standing in front of the cabinets.
+On the right side,We can also see many food display cabinets. 
+two men in black is standing in front of the cabinets.
 ```
 
 6个人，都是女的，5个穿白大褂(医生那种)，第六个人坐在后面，穿黑衣服； 右侧两个女的在交谈，中间两个女的也在交谈，中间靠后一个女的在看书； 左下角女的穿黑衣服，在做事，后面有个仪器台子，上面堆满仪器
@@ -333,7 +351,8 @@ My answer:
 
 ```
 The picture is taken in a chemistry lab. There are 6 people in this picture.
-On the right side, two women are looking at a book and talking. One is standing and one is sitting.
+On the right side, two women are looking at a book and talking. 
+One is standing and one is sitting.
 In the middle, two women are talking about something, and another woman is reading a book.
 On the left side, a woman in black is doing something
 we also can see many Lab tools in the background.
@@ -352,7 +371,8 @@ My answer:
 ```
 The picture is taken in a Hotel Lobby. 
 On the left side , Four women are sitting side by side on a black bench and watching TV.
-if front of them , a boy is sitting on a bench and watching TV, another  boy is lying on the bench.
+if front of them , a boy is sitting on a bench and watching TV, 
+another  boy is lying on the bench.
 In the background, Three hotel attendants are standing in a circle near the front desk and talking.
 we also can see an animal sculpture beside the TV.
 ```
@@ -365,7 +385,8 @@ My answer:
 ```
 The picture is taken outside,
 On the left, an old woman with a glass cup is walking to the coffeehouse.
-On the right, two women is sitting around a table under a big sunshade, they are eating some snacks [snæk] or foods.
+On the right, two women is sitting around a table under a big sunshade, 
+they are eating some snacks [snæk] or foods.
 In the background , this is a white house maybe a coffeehouse.
 we can see many grass on the ground.
 ```
@@ -411,9 +432,11 @@ My answer:
 
 ```
 The picture is taken on the street, 
-On the left side, two people  are sitting on a bench. the man is makeing a call and the woman is playing a mobile phone, 
+On the left side, two people  are sitting on a bench. 
+the man is makeing a call and the woman is playing a mobile phone, 
 and another woman with a bag is walking on the road.
-There is a row of trees on the left side of the road. and a white car is parking at the end of the road.
+There is a row of trees on the left side of the road.
+and a white car is parking at the end of the road.
 ```
 
 图片2：在建筑物的内部，左边是个杂货店(Grocery store)，门口一个男的做在椅子上，旁边两个男的正站在那里谈话，中间和右边有一些人在逛，背景是个服装店，里面有两个人在看服装
@@ -442,7 +465,8 @@ My answer:
 ```
 The picture is taken in a school, there are many people in this picture. 
 most of them are wearing school uniforms and black bags
-On the right side, two boys are standing near the road sign and talking. one of them is pointing somewhere.
+On the right side, two boys are standing near the road sign and talking. 
+one of them is pointing somewhere.
 In the middle of the picture, a girl is looking at the teaching building. 
 In the background, there are many buildings,green grass and people.
 ```
@@ -468,8 +492,10 @@ I think they're all enjoying their leisure time.
 
 ```
 The picture is taken in a shop, there are two people in this picture.
-On the left side, a man with red earphone is sitting at the table, and a laptop is on the table.
-On the right side, a woman in black is sitting at another table, She is looking for/rummaging  something in her black bag.
+On the left side, a man with red earphone is sitting at the table, 
+and a laptop is on the table.
+On the right side, a woman in black is sitting at another table, 
+She is looking for/rummaging  something in her black bag.
 ```
 
 图片二，
@@ -492,7 +518,8 @@ My answer:
 The picture is taken in a park with Mountains and lake. 
 on the left , three people are sitting on a boat.
 In the middle, a man is Rowing back the boat.
-on the right, a man with blue T-shirt is Boarding a boat. another man is Rowing out a boat.
+on the right, a man with blue T-shirt is Boarding a boat. 
+another man is Rowing out a boat.
 In the backgrond , there are many trees.
 I think it is a beautiful place for people to take a rest.
 ```
