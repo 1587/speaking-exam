@@ -10,10 +10,12 @@
 My answer:
 
 ```
-Hello sir, You will Depart from Singapore[ˌsɪŋəˈpɔː] at 2:30 PM on June the 17th，the flight No. is Oceanic Air 18，
+Hello sir, You will Depart from Singapore[ˌsɪŋəˈpɔː] at 2:30 PM on June the 17th，
+the flight No. is Oceanic Air 18，
 you will landing on Sydney at 5:30 PM same day.
 
-No, I sorry, according for the itinerary /aɪˈtɪnəreri/, You will be staying at sheraton Hotel. at 8:00 PM on Monday.
+No, I sorry, according for the itinerary /aɪˈtɪnəreri/,
+You will be staying at sheraton Hotel. at 8:00 PM on Monday.
 
 Hello sir, Your return information is as follows. 
 You take a taxi from your hotel to the airport at 9:30 PM.
@@ -34,9 +36,11 @@ you will landing on Singapore at XX:XX AM next day.
 My answer:
 
 ```
-The job fair is held on January the 17th in XXX Hall , the event opens from 5:30 pm. Please remember that.
+The job fair is held on January the 17th in XXX Hall ,
+the event opens from 5:30 pm. Please remember that.
 
-The meeting opens from 5:30 pm. another meeting about XX was cancelled ,Please remember that.
+The meeting opens from 5:30 pm. another meeting about XX was cancelled ,
+Please remember that.
 
 According for the infomation,There are two online meetings, 
 First, there is a event about XX  at 9:30 am. 
@@ -53,9 +57,11 @@ Please keep that in mind.
 关于Tour的event有哪些？具体呢？
 
 ```
-Hello sir, The Museum Membership Day will be held on Wenesday October the 14 th at XX XX. please keep that in mind.
+Hello sir, The Museum Membership Day will be held on Wenesday October the 14 th at XX XX. 
+please keep that in mind.
 
-No. I am sorry, Non-member guests should pay 25 dollars for the vist/ticket. please keep that in mind.
+No. I am sorry, Non-member guests should pay 25 dollars for the vist/ticket. 
+please keep that in mind.
 
 According for the infomation there are Two events about tour. 
 One is at xx:xx named xxxx  given by xxxx . 
@@ -77,7 +83,8 @@ My answer:
 Hello sir, The event is Start at 8:30 on January 24.   please keep that in mind.
 
 You are a luck guy. You can come here at 10:AM to join the conference 
-and you will get the book signed by XX Clark(前面一个极其生僻的人名)  please keep that in mind.
+and you will get the book signed by XX Clark(前面一个极其生僻的人名) .
+please keep that in mind.
 
 There are Two topics about reading technology. 
 One is at xx:xx on January 24 given by M. xxxx;  
@@ -96,9 +103,11 @@ please keep that in mind.
 My answer:
 
 ```
-The meeting is held in XXX Hall on Monday, January the 17th.  Please remember that.
+The meeting is held in XXX Hall on Monday, January the 17th.  
+Please remember that.
 
-No. I am sorry ,  I am afraid that The XXX meeting opens from 5:30 pm. Please remember that.
+No. I am sorry ,  I am afraid that The XXX meeting opens from 5:30 pm. 
+Please remember that.
 
 There are two reports related to Geogre Bryant. 
 First, there is a report about XX  from 6:15 am to 11 pm. 
@@ -118,9 +127,11 @@ Please keep that in mind.
 My answer:
 
 ```
-Hello Sir, The XX Database Meeting will be held on May The 20th, The meeting opens from 9:00 am to 5:00 pm (on Monday).
+Hello Sir, The XX Database Meeting will be held on May The 20th, 
+The meeting opens from 9:00 am to 5:00 pm (on Monday).
 
-No, I am sorry, I am afraid that XX Database Meeting will be Held in The Crown Hotel. Please remember that.
+No, I am sorry, I am afraid that XX Database Meeting will be Held in The Crown Hotel. 
+Please remember that.
 
 Yes, according to the information, there are 2 sessions about Database security. 
 First, there is session about XX security (from 10:00 am to 11:00 am) (Hosted by XXX). 
@@ -139,9 +150,11 @@ Please keep that in mind.
 2、对Class有兴趣，想了解class相关信息，有两个相关的class。
 
 ```
-Hello Sir, The fishing event will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
+Hello Sir, The fishing event will be held on May The 20th, 
+The events opens from 9:00 am to 5:00 pm (on Monday).
 
-No need, all tools will be provided by XXXX , including XX XX XX ,please keep that in mind.
+No need, all tools will be provided by XXXX , including XX XX XX ,
+please keep that in mind.
 
 Yes, according to the information, there are 2 classes about XXX. 
 First, there is class about XX  (from 10:00 am to 11:00 am) (gaven by XXX). 
@@ -156,7 +169,8 @@ Please keep that in mind.
 3.问scott先生具体要讲啥。在倒数第二项
 
 ```
-The Meeting will be held on May The 20th, The first events is about XXX at 9:00 am. please keep that in mind.
+The Meeting will be held on May The 20th, The first events is about XXX at 9:00 am. 
+please keep that in mind.
 
 No, you won't miss anything. There will be no other events after 11:00 am. 
 
@@ -173,9 +187,11 @@ Please keep that in mind.
 有几个跟food相关的 ? 有两个，cook、另外一个在11 am
 
 ```
-Yes, The event will be held on April third, The events opens from 9:00 am to 5:00 pm (on Monday).
+Yes, The event will be held on April third, 
+The events opens from 9:00 am to 5:00 pm (on Monday).
 
-No, I am sorry, I am afraid that the Bicycle travel/hiking was cancelled this year. please keep that in mind.
+No, I am sorry, I am afraid that the Bicycle travel/hiking was cancelled this year. 
+please keep that in mind.
 
 Yes, according to the information, there are 2 events about food. 
 First, there is a event named XX  at 10:00 am, (gaven by XXX.) 
@@ -193,7 +209,8 @@ Please keep that in mind.
 3、问有几场跟营养均衡师岗位的面试，几点钟开始
 
 ```
-Hello Sir, The fishing event  will be held on May The 20th, The events opens from 9:00 am to 5:00 pm (on Monday).
+Hello Sir, The fishing event  will be held on May The 20th,
+The events opens from 9:00 am to 5:00 pm (on Monday).
 
 No need , all tools will be provided by XXXX , include XX XX XX ,please keep that in mind.
 
@@ -217,9 +234,11 @@ Please keep that in mind.
 My answer:
 
 ```
-Hello, the ticket price is 6 dollars. children under 2 years old are free admission. Please keep that in mind.
+Hello, the ticket price is 6 dollars. children under 2 years old are free admission. 
+Please keep that in mind.
 
-No, I am sorry, I am afraid that all the events are taken in the afternoon. Please remember the time.
+No, I am sorry, I am afraid that all the events are taken in the afternoon.
+Please remember the time.
 
 Let me see. According to the information, thay can participate in three events.
 a event about/named xxx (不用带时间，只写event名字)
@@ -236,9 +255,11 @@ Please keep that in mind
 第三个问题是 问有哪些 session 是叫 merg 的讲授（有两个）
 
 ```
-Hello Sir, The events opens from 9:00 am to 5:00 pm, on May The 20th, Monday. please keep that in mind.
+Hello Sir, The events opens from 9:00 am to 5:00 pm, on May The 20th, Monday. 
+please keep that in mind.
 
-No, I am sorry, I am afraid that It will be held On Thursday at 10:00 am, please keep that in mind.
+No, I am sorry, I am afraid that It will be held On Thursday at 10:00 am, 
+please keep that in mind.
 
 Yes, according to the information, there are 2 sessions gaven by Professor merg. 
 First, there is a session about XX  on Wednesday, start from 10:00 am to 11:00 am. 
@@ -255,7 +276,8 @@ Please keep that in mind.
 
 ```
 
-Hello Sir, The first session opens from 9:00 am to 9:10 am , the session is gaven by xxx. please keep that in mind.
+Hello Sir, The first session opens from 9:00 am to 9:10 am ,
+the session is gaven by xxx. please keep that in mind.
 
 Yes, the session about maintenance opens from  10:00 am to 11:00 am, 
 and the water piper will be repaired on next week, please keep that in mind.
