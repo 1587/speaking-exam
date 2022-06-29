@@ -8,7 +8,8 @@ My answer:
 ```
 I like the Chinese musician LangLang, his music are mild, sound very comfortable.	
 
-Usually, I choose music from the music charts over internet. That's very convenient. (That will save my time.)
+Usually, I choose music from the music charts over internet. 
+That's very convenient. (That will save my time.)
 
 I like to listen to music on my phone. 
 Because I am very busy (with working) and I don't have much time to go to music center.
@@ -22,15 +23,18 @@ It is very convenient by phone.
 什么最影响你选择健身房？离家/公司近 器材质量  很多健身课的.
 
 ```
-I usually go to the gym twice a week. I usually go to the fitness center with my friends.  
+I usually go to the gym twice a week.
+I usually go to the fitness center with my friends.  
 (The last time I went to the gym is yesterday.)
 
 I usually go to the gym in the evening after dinner. Because my work is busy, 
 I have no much time except that time. 
 
 I prefer with lots of fitness classes.
-because I am a new fish about fitness, so I need to study how to use the equipment, 
-I need to learn how to exercise in the right way, and fitness classes could save my time.
+because I am a new fish about fitness,
+so I need to study how to use the equipment, 
+I need to learn how to exercise in the right way, 
+and fitness classes could save my time.
 (All above is my point of view.)
 ```
 
@@ -43,13 +47,17 @@ I need to learn how to exercise in the right way, and fitness classes could save
 My answer:
 
 ```
-My hometown is a village in Anhui Province of China. I lived there for 18 years until I went to the college. 
+My hometown is a village in Anhui Province of China.
+I lived there for 18 years until I went to the college. 
 
-I live in Nanjing now, I like the museums best, the things inside the museums are beautiful. 
+I live in Nanjing now, I like the museums best, 
+the things inside the museums are beautiful. 
 
 If I moved to another place,
-The place must near the subway station. that will save a lot of time and money on transportation.
-It’s better to have the supermarkets and hospitals around the new place. that will be more convenient for my life.
+The place must near the subway station. 
+that will save a lot of time and money on transportation.
+It’s better to have the supermarkets and hospitals around the new place. 
+that will be more convenient for my life.
 ```
 
 
@@ -71,9 +79,12 @@ and I can easily get more information about the computer.
 
 
 I think the most important thing is the quality.
-firstly, if the computer often broken，a lot of people can’t work efficiently, that will waste much time.
-secondly, our important information is store in the computer, if the computer often broken, we will waste many information.
-(you know, time and information are so expensive, so I think quality is the most important thing of computer.)
+firstly, if the computer often broken，a lot of people can’t work efficiently, 
+that will waste much time.
+secondly, our important information is store in the computer, 
+if the computer often broken,we will waste many information.
+(you know, time and information are so expensive, 
+so I think quality is the most important thing of computer.)
 ```
 
 
@@ -93,7 +104,8 @@ Many people leave their hometown for many reasons, such as work/study/business.
 I left my hometown for the education, there is no university in my hometown.
 
 People who have always lived in their hometown will easy to work and study.
-Because they live with their families, old friends and relatives who will help them when they meet difficulties in life.
+Because they live with their families, 
+old friends and relatives who will help them when they meet difficulties in life.
 that feels very good and that will save many money and time.
 They know everything and everyone in their hometown very well.
 So it's easier to succeed if they always lived in their hometown.
@@ -125,8 +137,10 @@ I've been using it for two years now, I use my phone many times a day.
 
 Yes, I will buy a new one.
 Because I've been using my current smartphone for a long time. It is too slow.
-The latest/ˈleɪtɪst/ phone will have a good performance, I can play the latest mobile games. 
-The latest phone will have more functions and bigger storage, I can store more photos, videos, and songs.
+The latest/ˈleɪtɪst/ phone will have a good performance, 
+I can play the latest mobile games. 
+The latest phone will have more functions and bigger storage,
+I can store more photos, videos, and songs.
 ```
 
 
@@ -138,11 +152,13 @@ The latest phone will have more functions and bigger storage, I can store more p
 My answer:
 
 ``` 
-I gave a call to my coworkers yesterday, we were busy with work, we talked about the business contract.
+I gave a call to my coworkers yesterday, we were busy with work, 
+we talked about the business contract.
 
 Many times a day, because I use email to contact with my coworkers and our customers.
 
-I always use email first, but when I need to discuss a lot of information with my coworkers, I will use phone instead.
+I always use email first, but when I need to discuss a lot of information with my coworkers, 
+I will use phone instead.
 ```
 
 
@@ -154,9 +170,11 @@ I always use email first, but when I need to discuss a lot of information with m
 My answer:
 
 ```
-I want to travel to France. It's a beautiful country. I haven't been there yet.
+I want to travel to France. It's a beautiful country. 
+I haven't been there yet.
 
-I like to travel with my friends, it will be funny with friends, we can discuss about the tour. 
+I like to travel with my friends, it will be funny with friends, 
+we can discuss about the tour. 
 We can enjoy the landscape together.
 
 Food, of course.
@@ -236,7 +254,8 @@ My answer:
 ```
 It is about 10 years old. it is a house. I love the big house.
 
-I want to improve the garden of my house. It is too small, I like growing flowers and plants.
+I want to improve the garden of my house. It is too small,
+I like growing flowers and plants.
 
 I will do it myself. 
 Because I can learn more skills by doing so.
@@ -281,7 +300,8 @@ I often eat at home, Because I like cooking. and Eating at home is healthier.
 The evening of Weekends, of course. You must reserve the restaurant in advance.
 (because People often shopping and dining out on the weekends.)
 
-Yes, I recommend 海底捞 Hot Pot, They provide a take-out service for the hot pot and many kinds of food, 
+Yes, I recommend 海底捞 Hot Pot, 
+They provide a take-out service for the hot pot and many kinds of food, 
 The food are very delicious. You really need to taste it.
 ```
 
@@ -294,12 +314,14 @@ The food are very delicious. You really need to taste it.
 2.	选择自由行还是跟团游
 3.	如果去观光旅游，你认为哪个更重要。① 地点 ② 美食 ③ 专业导游
 ``` 
-Let me think. My last tour was in Nanjing, China last year. It is a very beautiful city.
+Let me think. My last tour was in Nanjing, China last year. 
+It is a very beautiful city.
 
 I choose group tour, because it is cheaper and I can talk about the tour with the group.
 
 If I go on a tour, tour guide is the most important. 
-I can get professional knowledge about the tour, and study many skills from the tour guide.
+I can get professional knowledge about the tour, 
+and study many skills from the tour guide.
 Tour guide can save our time, we will have more time to enjoy the tour.
 ```
 
@@ -321,11 +343,13 @@ Tour guide can save our time, we will have more time to enjoy the tour.
 ## 23.	其他真题中遇到的题
 ### 23.1	Part3 问题答（15+15+30）
 第1个问题：经常骑自行车吗；
-Yes, I ride the bicycle to arrive the office every day. It can exercise my body. It makes my body healthier
+Yes, I ride the bicycle to arrive the office every day.
+It can exercise my body. It makes my body healthier
 第2个问题：去买东西是骑自行车还是别的？（简单所以没记全）
 There is a distance between metro station and my office. 
 So, I ride shared bicycle every day. It’s convenient and saves time.
-I ride my bicycle when I buy a small amount of stuff. But If I go to the supermarket to buy a lot of things, I will drive my car.
+I ride my bicycle when I buy a small amount of stuff. 
+But If I go to the supermarket to buy a lot of things, I will drive my car.
 你那里有没有自行车俱乐部，你有没有参加啥的（待确认）
 There is a bicycle club in our company. They have a ride almost every weekend. 
 But I didn't join this club, because I need to take care of my kids on the weekend.
@@ -333,4 +357,5 @@ But I didn't join this club, because I need to take care of my kids on the weeke
 ### 23.2	Part3 问答题
 如果你自己可以规划上班时间，你希望的上班开始和结束时间是什么时候？
 If I can decide on my work time, I wish to begin my job from 8:30 am to 6 pm. 
-I'll have time to send my son to his school. Take on the responsibility of being a father
+I'll have time to send my son to his school. 
+Take on the responsibility of being a father
