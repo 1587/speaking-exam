@@ -12,9 +12,14 @@ My answer:
 ```
 There are follow advantages of pay the cost of university course for all students. 
 
-Firstly: It gives everyone a chance to go to college, whether he is poor or rich, education must be fair.
-Secondly: The more people get a college education, the stronger the country will be. and it will develop very fast.
-Thirdly: More people go to university and the quality of all citizens will be improved. we will have more safety public enviroment.
+Firstly: It gives everyone a chance to go to college, 
+whether he is poor or rich, education must be fair.
+
+Secondly: The more people get a college education,
+the stronger the country will be. and it will develop very fast.
+
+Thirdly: More people go to university and the quality of all citizens will be improved. 
+we will have more safety public enviroment.
 
 All of the above are my opinions.
 ```
@@ -24,20 +29,26 @@ All of the above are my opinions.
 作为一个团队的leader 高效沟通是不是最重要的？为什么/为什么不？举证或者举例
 
 ```
-I think colleague communicate well is the most important. there are some reasons as follows:
+I think colleague communicate well is the most important.
+there are some reasons as follows:
 
-Firstly, good communication enable us to express our views clearly, and share our true thoughts with our colleagues. 
+Firstly, good communication enable us to express our views clearly, 
+and share our true thoughts with our colleagues. 
 we can find out the root cause of the problem through communication.
 
 Secondly, good communication enable us to think about other people's points of view, 
-we can find our misstakes, which could be a risk of our project failture.  it is very important for our work. 
+we can find our misstakes, which could be a risk of our project failture.  
+it is very important for our work. 
 
-Finally, good communication can make team members feel better, which can makes our work efficiently.
+Finally, good communication can make team members feel better, 
+which can makes our work efficiently.
 We don't blame each other, we don't fight. Teams are more likely to succeed.
 
-(Last week, for example, two of my co-workers didn't communicate well, they communicated over and over, 
+(Last week, for example, two of my co-workers didn't communicate well, 
+they communicated over and over, 
 and their attention was focused on who was causing the problem;
-A said that B did not follow the process, and B said that A did not have the execution capability.
+A said that B did not follow the process, 
+and B said that A did not have the execution capability.
 In the end, the problem was not resolved.)
 
 The above reasons are why I think colleague communicate well is the most important.
@@ -51,19 +62,24 @@ The above reasons are why I think colleague communicate well is the most importa
 My answer:
 
 ```
-According to my personal experience, I think people will be healthier in the future then they are now. 
+According to my personal experience,
+I think people will be healthier in the future then they are now. 
 There are some reasons as follows:
 
 Firstly, Nowadays, People are paying more and more attention to their health.
-For example, my friends and  colleagues eat healthy foods, do more exercises, such as running and playing footballs.
+For example, my friends and  colleagues eat healthy foods, 
+do more exercises, such as running and playing footballs.
 most of them go to fitness center twice a week.
 
-Secondly, medical technologies are improved. There are some new medical for more and more diseases /dɪˈziːzɪz/.
+Secondly, medical technologies are improved.
+There are some new medical for more and more diseases /dɪˈziːzɪz/.
 There are more and more vaccines that keep us from getting sick.
 There are also more and more cancers can be treated with medicals and returned to health.
 
-Thirdly, People begin protecting the environment, the environment of future will be better than now, now days , 
-In some cities  They sky is high and blue, The air is also very good.The water in the river is clean too. 
+Thirdly, People begin protecting the environment, 
+the environment of future will be better than now, now days , 
+In some cities  They sky is high and blue, 
+The air is also very good.The water in the river is clean too. 
 Their residents are also very long-lived.
 
 
@@ -79,17 +95,20 @@ To the reason above, I think people will be healthier in the future.
 My answer(需要重新梳理):
 
 ```
-According my personal experience, If I have a new offer, I will discuss with my family members, 
+According my personal experience, If I have a new offer, 
+I will discuss with my family members, 
 There are some advantages as follows:
 
 Firstly: My parents have 20 years of working experience, 
 they can help me recognize the weaknesses and the advantages of my new job.
 
 Secondly: Change a jobs is a big deal for a family. 
-I must make good communications with them, they will feel better, we must respect each other.
+I must make good communications with them, they will feel better, 
+we must respect each other.
 
 Thirdly: With family member's support we will work efficiently.
-New job may need to move to another city, or go abroad, or work overtime  we may spend less time with the family, and so on. 
+New job may need to move to another city, or go abroad, or work overtime,
+we may spend less time with the family, and so on. 
 we need their support.
 
 So I think we must discuss with my family members when I have a new offer.
@@ -102,7 +121,8 @@ The advantages are as follows:
 Firstly, my family especially my parents have worked many years, 
 they have rich experience to give me some advice and help me make the right choice.
 
-Secondly, My family knows me best, they are very clear what I'm good at and where my weakness lies in, 
+Secondly, My family knows me best, 
+they are very clear what I'm good at and where my weakness lies in, 
 so I can make sure whether the offer is suitable for me.
 
 Finally, I think it is a respect to discuss the offer with them, they can feel valued, 
@@ -120,20 +140,27 @@ All the above are my opinions.
 My answer1:
 
 ```
-I think colleague communicate well is the most important. there are some reasons as follows:
+I think colleague communicate well is the most important. 
+there are some reasons as follows:
 
-Firstly, good communication enable us to express our views clearly, and share our true thoughts with our colleagues. 
+Firstly, good communication enable us to express our views clearly,
+and share our true thoughts with our colleagues. 
 we can find out the root cause of the problem through communication.
 
 Secondly, good communication enable us to think about other people's points of view, 
-we can find our misstakes, which could be a risk of our project failture.  it is very important for our work. 
+we can find our misstakes, which could be a risk of our project failture.  
+it is very important for our work. 
 
-Finally, good communication can make team members feel better, which can makes our work efficiently.
+Finally, good communication can make team members feel better, 
+which can makes our work efficiently.
 We don't blame each other, we don't fight. Teams are more likely to succeed.
 
-(Last week, for example, two of my co-workers didn't communicate well, they communicated over and over, 
+(Last week, for example, two of my co-workers didn't communicate well, 
+they communicated over and over, 
+
 and their attention was focused on who was causing the problem;
-A said that B did not follow the process, and B said that A did not have the execution capability.
+A said that B did not follow the process, 
+and B said that A did not have the execution capability.
 In the end, the problem was not resolved.)
 
 The above reasons are why I think colleague communicate well is the most important.
@@ -152,7 +179,8 @@ I think buy a house will lowers the quality of life
 Firstly, the price of real estate is too high, it will cost much money. 
 Then we have enough money for learning skills, traveling.
 
-Secondly, I often change my office location, it's not convenient to buy a house to work. 
+Secondly, I often change my office location, 
+it's not convenient to buy a house to work. 
 It will waste much time to go to work, so It's better to rent.
 
 You need to maintain the house every year, it's a waste of time and money.
@@ -164,10 +192,12 @@ My answer2:
 ```
 I think having a house or a department has the following disadvantages compared to renting:
 First of all, housing is fixed in one place, cannot be changed at any time, 
-But rental location can be changed with our work place, making our work life more convenient.
+But rental location can be changed with our work place,
+making our work life more convenient.
 
 Secondly, the economic pressure of housing is high, the quality of life is low. 
-You know, in China, a house needs several million RMB, and you have to pay off the loan every month, 
+You know, in China, a house needs several million RMB,
+and you have to pay off the loan every month, 
 but the monthly rent is far less than the monthly mortgage [ˈmɔːɡɪdʒ].
 
 Therefore, I like to rent a house, which can let my life without stress, and the mood happy.
@@ -184,7 +214,8 @@ Because house is very expensive to buy.
 Besides, you have to decorate the house, buy furniture and many other things.
 
 Secondly, it is difficult to move to different locations if you own a house. 
-If you need to change your job, you need to move to a new location. But if you own a house, you can’t do that. 
+If you need to change your job, you need to move to a new location. 
+But if you own a house, you can’t do that. 
 
 So I think these are the disadvantages of buying a house. 
 ```
@@ -209,7 +240,8 @@ I just care about their last job and their Work experience.
 Thirdly: People often change their jobs nowadays. If you don't like you first job, 
 you should change it as soon as possible. (it is nothing.)
 
-(For example, When I graduated from college. My first job wasn't very good. I just switched jobs, and now I'm doing really well.)
+(For example, When I graduated from college. My first job wasn't very good. 
+I just switched jobs, and now I'm doing really well.)
 
 For the above reasons, I think the first job is not that important.
 ```
@@ -224,7 +256,8 @@ For the above reasons, I think the first job is not that important.
 ``` 
 I think we need to think about the reputation of the company.
 
-Firstly: If a company has a good reputation, it will have more business opportunities. Opportunity means money. 
+Firstly: If a company has a good reputation, 
+it will have more business opportunities. Opportunity means money. 
 (It will provide a very good slary for its staff.)
 
 Secondly: (If a company has a good reputation,) employees will grow in the long run. 
@@ -248,15 +281,19 @@ So, I think companies should do a lot to build a good reputation.
 My answer:
 
 ```
-Yes, of cause. college student should have a intership. There are some advantages as follows.
+Yes, of cause. college student should have a intership. 
+There are some advantages as follows.
 
-Firstly: You can get job experience in advance. then You will know clearly what you need to learn in college. 
+Firstly: You can get job experience in advance. 
+then You will know clearly what you need to learn in college. 
 (You will focus on learning that knowledge)
 
-Secondly: You can learn things that you can't study in school. (You know more than your classmates. )
+Secondly: You can learn things that you can't study in school. 
+(You know more than your classmates. )
 You'll be better than your classmates.
 
-At last, you can earn money through internships, then you can buy more equipment or online classes to improve your learning.
+At last, you can earn money through internships, 
+then you can buy more equipment or online classes to improve your learning.
 
 So, I think an internship is a better way to improve themselves.
 ```
@@ -273,9 +310,11 @@ My answer:
 
 ```
 Yes, I think the success of a project requires risks.
-firstly: Opportunities always come with risks, and if we don't take any risks, we don't have any opportunity to success. 
+firstly: Opportunities always come with risks, 
+and if we don't take any risks, we don't have any opportunity to success. 
 secondly: Risk means challenge, I like challenge, challenge makes the team stronger.
-thirdly:  I've led a lot of projects, every project has risks, you need to resolve them and you'll have great success.
+thirdly:  I've led a lot of projects, every project has risks,
+you need to resolve them and you'll have great success.
 That's my views. 
 So don't be afraid of the risks.
 ```
@@ -292,11 +331,14 @@ My answer:
 ```
 No, I don't think so.  Money doesn't mean happiness
 
-firstly: For example, friendship can make people happy, but money can't buy real friendship.
+firstly: For example, friendship can make people happy,
+but money can't buy real friendship.
 
-secondly: Sometimes, too much money makes you unhappy, you will lose direction in life.
+secondly: Sometimes, too much money makes you unhappy,
+you will lose direction in life.
 
-thirdly: You will spend more time earning money and you will have less time to enjoy life.
+thirdly: You will spend more time earning money and 
+you will have less time to enjoy life.
 
 so, we are happy, not because of money.
 Think about the past. When I was young, I had no money but I was very happy, 
@@ -315,13 +357,17 @@ I had many classmates, many friends, many time, no troubles.
 My answer:
 
 ```
-I like to work with people who are serious. There are some advantage of seriousness.
+I like to work with people who are serious. 
+There are some advantage of seriousness.
 
-Firstly: They work carefully. They usually don't make mistakes. The project will be easy to succeed.
+Firstly: They work carefully. They usually don't make mistakes. 
+The project will be easy to succeed.
 
-Secondly: You can communicate effectively with them，This saves a lot of time. Time is money.
+Secondly: You can communicate effectively with them，
+This saves a lot of time. Time is money.
 
-Thirdly: They often complete tasks on time, It is very important for the projects. 
+Thirdly: They often complete tasks on time, 
+It is very important for the projects. 
 
 You should be serious at work, you can have a little humor in your life.
 ```
@@ -338,7 +384,8 @@ My answer:
 ```
 Yes, Of course, disagreements need to be resolved.
 
-Firstly: The disagreements mean that there is still some information unclear, which could be a project risk.
+Firstly: The disagreements mean that there is still some information unclear,
+which could be a project risk.
 
 Secondly: Not to resolve disagreements will slow down the progress of the project. 
 we can’t meet the deadline, which means the project will fail.
@@ -358,11 +405,14 @@ My answer:
 
 ```
 I think there are some advantages as follows.
-Firstly: I can travel and live in many different cities, I like travel to many places.
+Firstly: I can travel and live in many different cities, 
+I like travel to many places.
 
-Secondly: I can work with different colleagues in different cities, and study knowledge and skills from them.
+Secondly: I can work with different colleagues in different cities, 
+and study knowledge and skills from them.
 
-Thirdly: nowdays, project is too big, we need many people from many cities work together. 
+Thirdly: nowdays, project is too big, 
+we need many people from many cities work together. 
 Above all is my views.
 ```
 
@@ -386,7 +436,8 @@ Firstly: I can listen to my favorite music when I exercise, music makes me feel 
 Secondly: I can do sports when I am free, I just need to arrange my own time. 
 I don't need to consider other people's time. 
 
-Thirdly: It's cheaper to exercise alone than in a group, We don't need to rent a sports playground.
+Thirdly: It's cheaper to exercise alone than in a group, 
+We don't need to rent a sports playground.
 
 So, alone is better than group.
 ```
@@ -403,17 +454,21 @@ So, alone is better than group.
 My answer:
 
 ``` 
-Yes, of cause.  student should have a gap year. There are some advantages as follows.
+Yes, of cause.  student should have a gap year. 
+There are some advantages as follows.
 
-Firstly: You can get job experience in advance. then You will know clearly what you need to learn in college. 
+Firstly: You can get job experience in advance.
+then You will know clearly what you need to learn in college. 
 (You will focus on learning that knowledge)
 
-Secondly: You can learn things that you can't study in school. (You know more than your classmates. )
+Secondly: You can learn things that you can't study in school. 
+(You know more than your classmates. )
 You'll be better than your classmates.
 
 Thirdly:  With the gap year, we can learn a new language or experience a new culture.
 
-At last, you can earn money through gap year, then you can buy more equipment or online classes to improve your learning.
+At last, you can earn money through gap year, 
+then you can buy more equipment or online classes to improve your learning.
 
 So, I think a gap year is a better way to improve themselves.
 ```
@@ -444,11 +499,13 @@ education background and related work experience ,which one more important and w
 好像是问喜欢坐办公室的工作，还是喜欢出去多和客户交流的工作
 
 喜欢和人进行沟通，可以感受不同的人，带给我不一样的感觉，和每个人在交流的过程中，真的会明白很多不同的事情的，同一件商品，不同的人会有不一样的感觉，怎么让顾客说出她真实的想法，我个人感觉很重要。了解客户的真实想法
-According my personal experience, I like the job of communicating with customer. 
+According my personal experience, 
+I like the job of communicating with customer. 
 Because of the following reasons.
 Firstly, I will get the good idea by communicate with customer,
 then I can adjust my working methods as soon as possible.
-Secondly，we will become good friends after communication, It'll bring us closer together. It is benefit for my job.
+Secondly，we will become good friends after communication, 
+It'll bring us closer together. It is benefit for my job.
 The last one, it will improve my social ability through communication.
 To the reason above, I like the job of communicating with customer.
 
