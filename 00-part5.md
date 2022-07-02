@@ -115,7 +115,8 @@ I will discuss with my family members,
 There are some advantages as follows:
 
 Firstly: My parents have 20 years of working experience, 
-they can help me recognize the weaknesses and the advantages of my new job.
+they can help me recognize the disadvantages of my new job.
+and  help me make the right choice.
 
 Secondly: Change a jobs is a big deal for a family. 
 I must make good communications with them, they will feel better, 
@@ -190,17 +191,22 @@ The above reasons are why I think colleague communicate well is the most importa
 
 My answer:
 ``` 
-I think buy a house will lowers the quality of life
-Firstly, the price of real estate is too high, it will cost much money. 
-Then we have enough money for learning skills, traveling.
+I think buy a house will reduce the quality of my life.
 
-Secondly, I often change my office location, 
-it's not convenient to buy a house to work. 
-It will waste much time to go to work, so It's better to rent.
+Firstly, in china, the price of real estate is too high, it will cost much money. 
+I will have no money for education, travel,medical care,and supporting the elderly. 
+i will be a mortgage slave
 
-You need to maintain the house every year, it's a waste of time and money.
 
-That's my point. That’s all.
+Secondly, if I change my office to a place far from my house.
+it's not convenient to work. 
+I will waste much time to go to wook. and 
+
+thirdly,I need to maintain the house every year, it's a waste of money and time.
+
+finally, if the neighbors are not good,i can't change them. 
+so i think ,rent a house is a good choice.
+all the above are my opinions.
 ```
 
 My answer2:
