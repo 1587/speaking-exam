@@ -279,13 +279,13 @@ I think we need to think about the reputation of the company.
 
 Firstly: If a company has a good reputation, 
 it will have more business opportunities. Opportunity means money. 
-(It will provide a very good slary for its staff.)
+(the company could provide a very good slary for the staff.)
 
-Secondly: (If a company has a good reputation,) employees will grow in the long run. 
+Secondly: (If a company has a good reputation,) the employees will grow in the long run. 
 then, company will develop very well. Become bigger and bigger.
 
 Thirdly: If a company has a bad reputation, its employees won't be loyal to it. 
-(staff will leave the company one by one.) Sooner or later it will go bankrupt.
+(they will leave the company one by one.) Sooner or later it will go bankrupt.
 
 So, I think companies should do a lot to build a good reputation.
 
