@@ -16,7 +16,7 @@ the quality of the country's education will be improved.
 i have some reasons as follows:
 
 firstly: students will have more money to buy study equipment,
-such as ipad, computer or smartphone. their will study efficiently.
+such as ipad, computer or smartphone. they will study efficiently.
 they can learn online courses at anywhere,
 and disscuss with their classmates and teachers in time. 
 
@@ -32,11 +32,11 @@ whether his family is poor or rich.
 The more people get a college education,
 the stronger the country will be. and it' education will develop very fast.
 
-()finally: More people go to university and 
+(finally: More people go to university and 
 the quality of all citizens will be improved. 
 we will have more safety public enviroment.)
 
-All of the above are my views.
+All of the above are my views/opinions.
 ```
 
 
