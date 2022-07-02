@@ -344,6 +344,14 @@ So don't be afraid of the risks.
 
 ```
 
+My answer:
+
+```
+Yes, I think the success of a project requires risks. I have following reasons: 
+Firstly, if we want to succeed, we need to try new methods. But when we try new things, we need to take risks. For example, when I was developing a new program, I wanted to try a new way, but I was afraid that my boss wouldn’t like it. However, I took the risk and tried. In the end, I made a great success. 
+Secondly, taking more risks will make the team stronger. Because of risks, team members will be stronger and more resilient.  A stronger team has more chance of winning. 
+So, I think the success of a project requires risks.
+```
 
 
 
@@ -511,8 +519,21 @@ education background and related work experience ,which one more important and w
 你觉得对于一个新员工来说，是教育水平重要还是有相关经历重要（education or relevant work experience）
 描述一个你熟悉的工作，如果要招聘一个新人，是教育背景重要还是行业经验更重要，理由和例子。
 
+My answer:
 
+```
+I think work experience is more important than education background. I have following reasons:
+firstly, if someone has a good education background, it means he did a good job on the exam. But maybe he is not good at this job.  However, if someone has a work experience, then he knows how to do this job.
+Secondly, there are many good workers who didn’t graduate from college, but doing a good job. Not everyone can go to college, but anyone can work hard to become a good employee.   
+Lastly, there are some important skills that you can’t learn at school. For example, communication, teamwork and so on. But they can be learned at work place. 
+So, I think work experience is more important than education background. 
+Story telling:
+I think work experience is more important than education background.  I have following reasons:
+1.	You can’t learn some skills at school, for example communication and team work. When I was at school, I was not a very sociable person. I didn’t want to talk to others. When I started working, I realized communication and team work is very important. So, you learn those important skills when you are working.
+2.	People from lower education background can become a great person. For example, Bill gates didn’t graduate from school, but he build up a great company like Microsoft. So education background is not so important, but how you work is important. 
+so, I think work experience is more important than education background.
 
+```
 
 
 
