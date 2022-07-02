@@ -333,11 +333,15 @@ My answer:
 Yes, I think the success of a project requires risks.
 firstly: Opportunities always come with risks, 
 and if we don't take any risks, we don't have any opportunity to success. 
+
 secondly: Risk means challenge, I like challenge, challenge makes the team stronger.
+we can 
+
 thirdly:  I've led a lot of projects, every project has risks,
 you need to resolve them and you'll have great success.
-That's my views. 
+
 So don't be afraid of the risks.
+
 ```
 
 
@@ -426,6 +430,7 @@ My answer:
 
 ```
 I think there are some advantages as follows.
+
 Firstly: I can travel and live in many different cities, 
 I like travel to many places.
 
@@ -452,13 +457,14 @@ My answer:
 ``` 
 I like to exercise alone, there are some advantages.
 
-Firstly: I can listen to my favorite music when I exercise, music makes me feel good.
+Firstly: I can listen to my favorite music when I exercise alone, music makes me feel good.
+i can do exercise efficiency.
 
-Secondly: I can do sports when I am free, I just need to arrange my own time. 
+Secondly: I can do exercise when I am free, I just need to arrange my own time. 
 I don't need to consider other people's time. 
 
 Thirdly: It's cheaper to exercise alone than in a group, 
-We don't need to rent a sports playground.
+We don't need to rent a sports venus. such as basketball gym or football field.
 
 So, alone is better than group.
 ```
