@@ -187,12 +187,32 @@ and I love cooking and sharing all about food.
 
 
 
-### 15.3	part3（5~7）(15+15+30)
-工作的地方离家多远，是否需要开车
-你喜欢上班早一点，还是晚一点？
+### 15.3	part3（5~7）(15+15+30) 
+工作的地方离家多远，是否需要开车   How far is your office from home?
+你喜欢上班早一点，还是晚一点？  Do you prefer to go to work earlier or later？
 上班哪个比较好，好的主管 supper visors、好的同事、还是其他？
-
+What do you prefer? good supervisor? Good colleague? Or something else?
 My answer:
+
+```
+
+It is fifteen minutes’ walk from my home to my office. I don't need to drive to work
+
+I prefer to go to work later. 
+Because I want to enjoy a good breakfast with my family 
+and work out for a while in the morning. / I like to sleep more.
+
+I prefer to go to work early.
+Because I like to see the morning sun when I go to work and enjoy the fresh air.
+
+I prefer good supervisor. 
+Because first of all, I can learn many things from him. 
+For example, working skills, communication skills and leadership and so on. 
+Secondly, a good supervisor will make good decisions.
+Good decisions will improve our work efficiency. 
+I have a very good supervisor, he is wise and experience, 
+we achieved great success because of his good decisions. 
+```
 
 ```
 About 1000 meters, so I don't need to drive. 
@@ -202,7 +222,6 @@ Firstly: I can learn knowledge from them, that would improve myself.
 Secondly: We can help each other and we will work more efficiently.
 Thirdly: if we have good colleagues, we will feel happier when we are working.
 ```
-
 
 
 
@@ -338,6 +357,18 @@ Tour guide can save our time, we will have more time to enjoy the tour.
 2、	你会订阅获得最新的消息嘛，为什么
 3、	你觉得从电视获取新闻好嘛，为什么
 
+My answer:
+
+```
+(Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, entertainment, and sport, as well as quirky or unusual events.)
+
+1.	I am interested in sports news. Because I love sports and I want to know what is happening. 
+2.	I’d like to get online news alert, because it is very convenient. If there is any news, they will send me alert immediately. I don’t have to search for it.  
+3.	I think watching news on TV is not good. 
+Because firstly, you don’t have TV everywhere, but you have your phone all the time. watching news with your phone is more convenient than watching on TV.
+Secondly, you can’t search for specific news on TV. besides TV news are limited. 
+So I don’t think watching news on TV is a good option. 
+```
 
 
 
