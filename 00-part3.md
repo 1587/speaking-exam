@@ -6,13 +6,13 @@
 My answer:
 
 ```
-I like the Chinese musician LangLang, his music are mild, sound very comfortable.	
+I like the Chinese musician LangLang, he palys classical music on the piano,  his music is mild, sound very comfortable.	
 
-Usually, I choose music from the music charts over internet. 
-That's very convenient. (That will save my time.)
+Usually, I choose music from the internet. like youtube , apple music,tiktok.
+i can see other people' comments about the music.
 
-I like to listen to music on my phone. 
-Because I am very busy (with working) and I don't have much time to go to music center.
+I like to listen to music by my iphone when i am alone.
+Because I am very busy with working and I don't have much time to go to music center.
 It is very convenient by phone.
 ```
 
@@ -23,19 +23,19 @@ It is very convenient by phone.
 什么最影响你选择健身房？离家/公司近 器材质量  很多健身课的.
 
 ```
-I usually go to the gym twice a week.
-I usually go to the fitness center with my friends.  
+
+I usually go to the gym with my friends ,and we go there twice a week.
 (The last time I went to the gym is yesterday.)
 
 I usually go to the gym in the evening after dinner. Because my work is busy, 
 I have no much time except that time. 
 
 I prefer with lots of fitness classes.
-because I am a new fish about fitness,
+because I am still a newbie about fitness,
 so I need to study how to use the equipment, 
 I need to learn how to exercise in the right way, 
 and fitness classes could save my time.
-(All above is my point of view.)
+
 ```
 
 
@@ -50,7 +50,8 @@ My answer:
 My hometown is a village in Anhui Province of China.
 I lived there for 18 years until I went to the college. 
 
-I live in Nanjing now, I like the museums best, 
+I live in Nanjing now, i like this city ,
+I like the museums best, there are many nuseums in this city.
 the things inside the museums are beautiful. 
 
 If I moved to another place,
@@ -71,7 +72,7 @@ My answer:
 
 ```
 I bought my computer over internet on the August last year, because the old one is broken, 
-so I must buy a new one.my son need a computer to do some online learning.
+so I must buy a new one.(my son need a computer to do some online learning.)
 
 I think computers are more sold online, because the price is cheaper online
 and I can easily get more information about the computer.
@@ -79,12 +80,12 @@ and I can easily get more information about the computer.
 
 
 I think the most important thing is the quality.
-firstly, if the computer often broken，a lot of people can’t work efficiently, 
-that will waste much time.
-secondly, our important information is store in the computer, 
-if the computer often broken,we will waste many information.
-(you know, time and information are so expensive, 
-so I think quality is the most important thing of computer.)
+i am a software engineer, if the computer often broken，I can’t work efficiently, 
+
+and all my important information is store in the computer, such as my photos ,my videos .
+
+you know, time and information are so expensive, 
+so I think quality is the most important thing of computer
 ```
 
 
