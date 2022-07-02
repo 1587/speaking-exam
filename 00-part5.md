@@ -10,18 +10,33 @@ The advantages of pay the cost of university course for all students, pls give s
 My answer:
 
 ```
-There are follow advantages of pay the cost of university course for all students. 
+if the government pay the cost of university courses for all students,
+the quality of the country's education will be improved.
 
-Firstly: It gives everyone a chance to go to college, 
-whether he is poor or rich, education must be fair.
+i have some reasons as follows:
 
-Secondly: The more people get a college education,
-the stronger the country will be. and it will develop very fast.
+firstly: students will have more money to buy study equipment,
+such as ipad, computer or smartphone. their will study efficiently.
+they can learn online courses at anywhere,
+and disscuss with their classmates and teachers in time. 
 
-Thirdly: More people go to university and the quality of all citizens will be improved. 
-we will have more safety public enviroment.
+secondly: students will focus on their study, don't worry about the money. 
+don't spend much time on part time job.
+they will have more time to learn knowledge.
 
-All of the above are my opinions.
+thirdly: It gives everyone a chance to go to college, 
+whether his family is poor or rich.
+
+
+
+The more people get a college education,
+the stronger the country will be. and it' education will develop very fast.
+
+()finally: More people go to university and 
+the quality of all citizens will be improved. 
+we will have more safety public enviroment.)
+
+All of the above are my views.
 ```
 
 
@@ -29,7 +44,6 @@ All of the above are my opinions.
 作为一个团队的leader 高效沟通是不是最重要的？为什么/为什么不？举证或者举例
 
 ```
-I think colleague communicate well is the most important.
 there are some reasons as follows:
 
 Firstly, good communication enable us to express our views clearly, 
