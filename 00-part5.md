@@ -44,7 +44,8 @@ All of the above are my views/opinions.
 作为一个团队的leader 高效沟通是不是最重要的？为什么/为什么不？举证或者举例
 
 ```
-there are some reasons as follows:
+yes ,i think good communication is the most important.
+I have some reasons as follows:
 
 Firstly, good communication enable us to express our views clearly, 
 and share our true thoughts with our colleagues. 
@@ -54,8 +55,8 @@ Secondly, good communication enable us to think about other people's points of v
 we can find our misstakes, which could be a risk of our project failture.  
 it is very important for our work. 
 
-Finally, good communication can make team members feel better, 
-which can makes our work efficiently.
+thirdly, good communication can make team members feel better, 
+which can makes our work efficiently. and everyone will be happy.
 We don't blame each other, we don't fight. Teams are more likely to succeed.
 
 (Last week, for example, two of my co-workers didn't communicate well, 
@@ -87,7 +88,7 @@ most of them go to fitness center twice a week.
 
 Secondly, medical technologies are improved.
 There are some new medical for more and more diseases /dɪˈziːzɪz/.
-There are more and more vaccines that keep us from getting sick.
+many vaccines can keep us from getting sick.
 There are also more and more cancers can be treated with medicals and returned to health.
 
 Thirdly, People begin protecting the environment, 
