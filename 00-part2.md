@@ -187,12 +187,13 @@ we can see many goods on shelves.
 My answer:
 
 ```
-The photo taken inside a building near the staircase.
-There are seven people in this photo. 
+The picture is taken inside a building near the staircase.
+There are seven people in this picture. 
 In the middle, two men are walking up the staircase, 
 a lady and a man are picking up papers on the staircase. 
 On the right, a man and a woman are standing and talking.
 On the left, a man is walking and making a call.
+I think they are busy.
 ```
 
 ![image](https://user-images.githubusercontent.com/2299635/170911697-ff0cc890-86b8-42b8-9bf9-cdac0d58dad8.png)
