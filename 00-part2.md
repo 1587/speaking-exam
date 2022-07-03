@@ -59,7 +59,7 @@ My answer:
 
 ```
 The picture is taken in a musical performance.
-In the front, the audience is sitting in chairs  watching the performance.
+In the front, the audience is sitting in chairs and watching the performance.
 In the background，many musicians/mju'zɪʃənz/ are playing with musical Instruments on the stage. 
 It is a sunny day. I can see the sunshine.
 We can also see some trees in the distance.
