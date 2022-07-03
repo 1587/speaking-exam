@@ -72,12 +72,12 @@ We can also see some trees in the distance.
 My answer:
 
 ```
-The picture is taken in a warehouse. there are two people in this picture. 
-On the left , a woman with blue helmet is pushing a small cart. 
-Three boxes are stacking on the cart. 
-On the right, a man is checking status of the forklift truck（叉车）)
+The picture is taken in a warehouse. there are two workers with uniform and helmet in this picture. 
+On the left, a woman is pushing a small cart filed with three boxes. 
+On the right, a man is checking status of the forklift/ˈfɔːklɪft/ truck（叉车）)
 In the background, there are many goods on the shelves. 
-And you can see two lights on the ceiling. we can see they are very busy.
+I can see two lights on the ceiling.
+I Think they are very busy.
 ```
 
 
@@ -96,11 +96,10 @@ My answer:
 
 ```
 The picture is taken in a clothing store. There three people in this picture.
-On the left side, one woman with a blue T-shirt is trying on white clothes. 
-Another woman is looking at her. maybe her mother.
-There is a man behind them. 
+On the left side, a woman with a blue T-shirt is trying on clothes. 
+Another woman is looking at her. There is a man behind them. 
 On the right side, we can see a pair of metal [ˈmetəl] artworks,
-and  there are many goods on the shelves
+and there are many goods on the shelves
 ```
 
 
@@ -111,12 +110,11 @@ and  there are many goods on the shelves
 My answer:
 
 ```
-The picture is taken on the street. There are 2 people in this picture.
-On the right side, a man with a white shirt is opening the door of a car. 
-On the left side, a woman is squatting/crouching on the side of a bicycle. 
-Looks like she's locking her bike.
-In the background of the picture, we can see another 2 cars and many trees.
-Behind the trees, there is a car parking on the road and a man is going toward to the car.
+The picture is taken on the street. There are some people and cars in it.
+On the right, a man (with a white shirt) is opening the door of a car. 
+On the left, a woman (in red) is squatting down to lock her bike. 
+In the background, we can see some other cars and many trees.
+(Behind the trees, there is a car parking on the road and a man is going toward to the car.)
 ```
 
 
