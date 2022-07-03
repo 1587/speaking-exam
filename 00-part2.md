@@ -112,7 +112,7 @@ My answer:
 ```
 The picture is taken on the street. There are some people and cars in it.
 On the right, a man (with a white shirt) is opening the door of a car. 
-On the left, a woman (in red) is squatting down to lock her bike. 
+On the left, a woman (in red) is crouching/ˈkraʊtʃɪŋ/ down to lock her bike. 
 In the background, we can see some other cars and many trees.
 (Behind the trees, there is a car parking on the road and a man is going toward to the car.)
 ```
