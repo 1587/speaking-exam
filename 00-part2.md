@@ -9,7 +9,7 @@
 My answer1:
 
 ```
-This picture is taken on the street, there are 6 people in it. 
+This picture is taken on the street, there are 6 people in this picture. 
 On the left, a man and a woman are standing and talking. 
 In the middle, an old man in white is walking. 
 On the right, a man and a lady are sitting around a table and talking. 
@@ -110,7 +110,7 @@ and there are many goods on the shelves
 My answer:
 
 ```
-The picture is taken on the street. There are some people and cars in it.
+The picture is taken on the street. There are some people and cars in this picture.
 On the right, a man (with a white shirt) is opening the door of a car. 
 On the left, a woman (in red) is crouching/ˈkraʊtʃɪŋ/ down to lock her bike. 
 In the background, we can see some other cars and many trees.
@@ -128,7 +128,7 @@ In the background, we can see some other cars and many trees.
 My answer:
 
 ```
-The picture is taken in a park, many people in it,
+The picture is taken in a park, many people in this picture,
 in the middle, a girl is walking on the road, some people are sitting on the bench beside the road, 
 one is reading the newspaper and one is playing mobile phone.
 On the right there are many big trees,
@@ -143,7 +143,7 @@ My answer:
 ```
 The picture is taken in a farm,  there are three people in this picture
 on the right, A little boy is squatting down to feed the chickens.
-On the left, a woman is looking at the boy. 
+On the left, a woman is looking at the boy. (maybe his mother)
 Another girl is taking photos for them by a smartphone.
 In the background, I can see more chickens and some buildings.
 (I think it is a beautiful place for people to take a rest.)
@@ -159,12 +159,12 @@ In the background, I can see more chickens and some buildings.
 My answer:
 
 ```
-The picture shows there are many people in a restaurant. 
+The picture is taken in a restaurant, there are many people in this picture. 
 Most of them are eating food and talking. 
 In the middle, there are 3 people sitting around a table. 
 One is eating chips. The other 2 are looking at a menu and ordering food. 
 (One of them is carrying a cup of water.)
-I think the restaurant business is quite good.
+I think the restaurant business is quite good. and the food is tasty.
 ```
 
 一个仓库里面，右边两个女的在衣柜那里准备换衣服，一个女（左边）的是长头发、棕色裙子，另一个女的（右边）是白毛衣。左边有一个穿着蓝色上衣的胖男人的背影，在往远处走，仓库里面很多货架货物. 
@@ -198,7 +198,7 @@ On the left, a man is walking and making a call.
 ![image](https://user-images.githubusercontent.com/2299635/170911697-ff0cc890-86b8-42b8-9bf9-cdac0d58dad8.png)
 
 ```
-The picture is taken in a laboratory ,four people inside. 
+The picture is taken in a laboratory , there are 4 people in this picture. 
 All of them are wearing white uniforms
 On the left, a man and a woman are sitting at a table and reading  books;
 In the middle, a woman is opening the fridge and taking out a sample.
