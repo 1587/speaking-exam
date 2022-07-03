@@ -6,7 +6,17 @@
 画面右侧，一男一女两个年轻人从在一张小圆桌旁边聊天；
 背景建筑物前面，有一座白色雕塑（是否博物馆，可以看时间，用suppose或者guess比较好）
 
-My answer:
+My answer1:
+
+```
+This picture is taken on the street, there are 6 people in it. 
+On the left, a man and a woman are standing and talking. 
+In the middle, an old man in white is walking. 
+On the right, a man and a lady are sitting around a table and talking. 
+In the background, there is a building, I can see a sculpture[ˈskʌlptʃə] before it.
+```
+
+My answer2:
 
 ```
 This picture is taken on the street, there are 6 people in this picture. 
@@ -28,11 +38,12 @@ And I can see a sculpture[ˈskʌlptʃə] before it.
 My answer:
 
 ```
-The picture is taken on a beach, there are some people in this picture.
-In the middle of this picture, there is a path with some chairs.
-a woman in white is walking, two people are sitting on a chair.
-On the left side, some people are walking on the beach, and a green flag is flying in the air.
-In the background I can see blue sky,  sea birds , and some trees. 
+The picture is taken on a beach, 
+In the middle, there is a path with some chairs.
+a woman is walking on the path, two people are sitting on a chair.
+On the left, some people are walking on the beach, and a green flag is flying in the air.
+In the background I can see blue sky,  sea birds , some trees,and a building. 
+It's a fine day
 ```
 
 
@@ -47,15 +58,14 @@ In the background I can see blue sky,  sea birds , and some trees.
 My answer:
 
 ```
-The picture is taken in a music show. There are Many people，
-many chairs and many equipments in this picture. 
-In the front, the audience was sitting on chairs to watch the show.
-In the background，many musicians are playing with musical equipments on the stage. 
-It is a sunny day. I can see the sunshine. It is great. 
+The picture is taken in a musical performance.
+In the front, the audience is sitting in chairs  watching the performance.
+In the background，many musicians/mju'zɪʃənz/ are playing with musical Instruments on the stage. 
+It is a sunny day. I can see the sunshine.
 We can also see some trees in the distance.
 ```
 
-在一个仓库里面，两个人，很多货物，很多架子，两台车。左边一个带着蓝色安全帽的黑人女人正在推一个小车（小车上有一个纸盒和两个塑料箱），右边一个带着蓝色安全帽的男人正在操作叉车（哈哈）后面是货架，有很多货物在上面，天花板上有灯。
+在一个仓库里面，两个人，很多货物，很多架子，两台车。左边一个带着蓝色安全帽的黑人女人正在推一个小车（小车上有一个纸盒和两个塑料箱），右边一个带着蓝色安全帽的男人正在操作叉车,后面是货架，有很多货物在上面，天花板上有灯。
 
 ![image](https://user-images.githubusercontent.com/2299635/171656097-704a6998-3590-4ac2-bc40-b7b4741001ab.png)
 
