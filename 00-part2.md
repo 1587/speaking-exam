@@ -128,12 +128,11 @@ In the background, we can see some other cars and many trees.
 My answer:
 
 ```
-The picture is taken in a park, there are many people in this picture,
-in the middle,  a girl with black dress is walking on the path, 
-next to her, there are some people sitting on the bench by the side of the road, 
+The picture is taken in a park, many people in it,
+in the middle, a girl is walking on the road, some people are sitting on the bench beside the road, 
 one is reading the newspaper and one is playing mobile phone.
-On the right side,there are many big trees on the lawn of the park,
-and There are many people playing in the park in the distance.
+On the right there are many big trees,
+in the background, many people are playing.
 the environment is beautiful.
 ```
 
@@ -142,12 +141,12 @@ the environment is beautiful.
 My answer:
 
 ```
-The picture is taken in a farm ,  there are three people in this picture
-on the right side , A little boy is crouching on the ground feeding the chickens.
-On the left side, a woman with is standing and looking at the boy. 
+The picture is taken in a farm,  there are three people in this picture
+on the right, A little boy is squatting down to feed the chickens.
+On the left, a woman is looking at the boy. 
 Another girl is taking photos for them by a smartphone.
-In the background of the picture, I can see more chickens and some buildings.
-I think it is a beautiful place for people to take a rest.
+In the background, I can see more chickens and some buildings.
+(I think it is a beautiful place for people to take a rest.)
 ```
 
 
@@ -155,17 +154,17 @@ I think it is a beautiful place for people to take a rest.
 
 ### 2.2 part2（3 ~ 4）(30+30) 6~8个句子
 
-人很多的饭店，或坐着吃东西，或在交流。近景是三个人，一个人在吃薯条，另外两人在看菜单点餐，点餐的两个人中，其中一个男生拿着水（考过）
+人很多的饭店，或坐着吃东西，或在交流。近景是三个人，一个人在吃薯条，另外两人在看菜单点餐，点餐的两个人中，其中一个男生拿着水
 
 My answer:
 
 ```
 The picture shows there are many people in a restaurant. 
 Most of them are eating food and talking. 
-In the middle of the picture, there are 3 people sitting around a small table. 
-One man is eating chips. 
-The other 2 are looking at a menu and ordering food. One of them is carrying a cup of water.
-From the picture we can see, the restaurant business is quite good, the food may be tasty.
+In the middle, there are 3 people sitting around a table. 
+One is eating chips. The other 2 are looking at a menu and ordering food. 
+(One of them is carrying a cup of water.)
+I think the restaurant business is quite good.
 ```
 
 一个仓库里面，右边两个女的在衣柜那里准备换衣服，一个女（左边）的是长头发、棕色裙子，另一个女的（右边）是白毛衣。左边有一个穿着蓝色上衣的胖男人的背影，在往远处走，仓库里面很多货架货物. 
@@ -174,10 +173,10 @@ My answer:
 
 ```
 The picture is taken in warehouse. There are three people in this picture. 
-On the left side, there are two women changing clothes (near to the cabinet) in the dressing room. 
-One of them has long hair and wearing a brown dress, other one is wearing a white sweater. 
+On the left side, there are two women changing clothes. 
+One of them with long hair is wearning a brown dress, other one is wearing a white sweater. 
 One the right side, a fat man with blue shirt is walking in the distance. 
-we can see many goods on shelves in the warehouse.
+we can see many goods on shelves.
 ```
 
 
@@ -188,23 +187,22 @@ we can see many goods on shelves in the warehouse.
 My answer:
 
 ```
-This is a picture taken inside a building near the staircase .
-There are seven people in this picture. 
+The photo taken inside a building near the staircase.
+There are seven people in this photo. 
 In the middle, two men are walking up the staircase, 
 a lady and a man are picking up papers on the staircase. 
-On the right side,  a man and a woman are standing and talking.
-On the left side, a man is walking and making a call.
-
+On the right, a man and a woman are standing and talking.
+On the left, a man is walking and making a call.
 ```
 
 ![image](https://user-images.githubusercontent.com/2299635/170911697-ff0cc890-86b8-42b8-9bf9-cdac0d58dad8.png)
 
 ```
-The picture is taken in a laboratory four people inside. 
+The picture is taken in a laboratory ,four people inside. 
 All of them are wearing white uniforms
-On the left, a man and a woman are sitting at the table and reading some books;
-In the middle, there is a lady opening the door of fridge and taking out a sample.
-On the right, there is lady is observing something through the microscope on the platform.
+On the left, a man and a woman are sitting at a table and reading  books;
+In the middle, a woman is opening the fridge and taking out a sample.
+On the right, there is woman is observing something through the microscope on the table.
 ```
 
 
