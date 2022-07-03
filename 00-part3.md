@@ -6,14 +6,15 @@
 My answer:
 
 ```
-I like the Chinese musician LangLang, he palys classical music on the piano,  his music is mild, sound very comfortable.	
+I like the Chinese musician LangLang, he palys classical music on the piano,  
+(his music is mild, sound very comfortable.	)
 
-Usually, I choose music from the internet. like youtube , apple music,tiktok.
+Usually, I choose music from the internet. like youtube  /ˈjuːtuːb/ , apple music.
 i can see other people' comments about the music.
 
-I like to listen to music by my iphone when i am alone.
+I like to listen to music by my iphone when i am free.
 Because I am very busy with working and I don't have much time to go to music center.
-It is very convenient by phone.
+It is very convenient by iphone, I can listen music at anywhere. on the bus , on the subway.
 ```
 
 
@@ -27,14 +28,12 @@ It is very convenient by phone.
 I usually go to the gym with my friends ,and we go there twice a week.
 (The last time I went to the gym is yesterday.)
 
-I usually go to the gym in the evening after dinner. Because my work is busy, 
-I have no much time except that time. 
+I usually go there after dinner. Because I am busy with my work, i have free time only after dinner.
 
 I prefer with lots of fitness classes.
 because I am still a newbie about fitness,
-so I need to study how to use the equipment, 
-I need to learn how to exercise in the right way, 
-and fitness classes could save my time.
+so I need to study how to use the equipment,how to exercise in the right way by fitness class, 
+fitness classes and the coach could save my time.
 
 ```
 
@@ -51,8 +50,7 @@ My hometown is a village in Anhui Province of China.
 I lived there for 18 years until I went to the college. 
 
 I live in Nanjing now, i like this city ,
-I like the museums best, there are many nuseums in this city.
-the things inside the museums are beautiful. 
+there are many nuseums. the things inside the museums are beautiful. 
 
 If I moved to another place,
 The place must near the subway station. 
@@ -81,10 +79,8 @@ and I can easily get more information about the computer.
 
 I think the most important thing is the quality.
 i am a software engineer, if the computer often broken，I can’t work efficiently, 
-
-and all my important information is store in the computer, such as my photos ,my videos .
-
-you know, time and information are so expensive, 
+and all my important information is store in the computer, such as my family photos , my musics and films.
+i can't lose them.
 so I think quality is the most important thing of computer
 ```
 
@@ -104,13 +100,10 @@ I left my hometown about ten years ago when I needed to go to college.
 Many people leave their hometown for many reasons, such as work/study/business. 
 I left my hometown for the education, there is no university in my hometown.
 
-People who have always lived in their hometown will easy to work and study.
-Because they live with their families, 
-old friends and relatives who will help them when they meet difficulties in life.
-that feels very good and that will save many money and time.
-They know everything and everyone in their hometown very well.
-So it's easier to succeed if they always lived in their hometown.
-
+People who have always lived in their hometown will easy to succeed.
+they live with their families, relatives and old friends, who will help them when they meet difficulties in life.
+and they don't need to rent or buy a house,  It costs very little to live. they will have more money to improve their self.
+such as study new skills.
 ```
 
 
