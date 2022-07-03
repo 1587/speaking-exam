@@ -9,12 +9,14 @@ My answer:
 I like the Chinese musician LangLang, he palys classical music on the piano,  
 (his music is mild, sound very comfortable.	)
 
-Usually, I choose music from the internet. like youtube  /ˈjuːtuːb/ , apple music.
+Usually, I choose music from internet. like youtube  /ˈjuːtuːb/ , apple music.
 i can see other people' comments about the music.
 
 I like to listen to music by my iphone when i am free.
-Because I am very busy with working and I don't have much time to go to music center.
-It is very convenient by iphone, I can listen music at anywhere. on the bus , on the subway.
+Because I am very busy with work and I don't have much time to go to music center.
+It is very convenient by iphone, I can listen to music anywhere. on the bus, on the subway.
+and Watch music performance on the website is cheaper than the music center, 
+I only need to pay litte money for it.
 ```
 
 
@@ -25,16 +27,18 @@ It is very convenient by iphone, I can listen music at anywhere. on the bus , on
 
 ```
 
-I usually go to the gym with my friends ,and we go there twice a week.
-(The last time I went to the gym is yesterday.)
+I usually go to the gym with my friend Jack ,and we go there twice a week.
+(The last time we went to the gym is yesterday.)
 
-I usually go there after dinner. Because I am busy with my work, i have free time only after dinner.
+I usually go there after dinner. 
+Because I am busy with my work, I have free time only after dinner.
+at that time, there are few people in the gym, i can use many equipment.
 
 I prefer with lots of fitness classes.
-because I am still a newbie about fitness,
-so I need to study how to use the equipment,how to exercise in the right way by fitness class, 
-fitness classes and the coach could save my time.
-
+because I am still a newbie/ˈnjuːbi/ about fitness,
+so I need to study how to use the equipment,how to exercise in the right way, 
+the coach will teach me, and point out my mistakes. the wrong way to work out is bad for our health.
+and I can study and discuss fitness experience with the fitness classmates.
 ```
 
 
@@ -49,14 +53,21 @@ My answer:
 My hometown is a village in Anhui Province of China.
 I lived there for 18 years until I went to the college. 
 
-I live in Nanjing now, i like this city ,
-there are many nuseums. the things inside the museums are beautiful. 
+I live in Nanjing now, I like it ,
+because, it's public transportation is very convenient, it has a lot of bus stations and subway stations.
+It also have many museums.
 
-If I moved to another place,
+
+If I moved to another place, convenience/kənˈviːniəns/ of life is the most important.
 The place must near the subway station. 
-that will save a lot of time and money on transportation.
-It’s better to have the supermarkets and hospitals around the new place. 
-that will be more convenient for my life.
+that will save a lot of time and money on transportation/commuting.
+It’s better to have some supermarkets and hospitals cinemas around the new place. 
+that will improve the quality of my life.
+
+If I moved to another city, job chance is the most important.
+The city must provide many good job position.
+If there are many big companys in this city, i can change a good job, and get a high slary.
+and I don't have to worry about losing my current job. I can find another one easily.
 ```
 
 
@@ -69,11 +80,11 @@ that will be more convenient for my life.
 My answer:
 
 ```
-I bought my computer over internet on the August last year, because the old one is broken, 
-so I must buy a new one.(my son need a computer to do some online learning.)
+I bought my computer over internet  last month, because the old one is broken, 
+my son need a computer to do some online learning. so I must buy a new one.
 
 I think computers are more sold online, because the price is cheaper online
-and I can easily get more information about the computer.
+and I can easily get more information and customer comments about the computer.
 
 
 
@@ -94,15 +105,15 @@ so I think quality is the most important thing of computer
 My answer:
 
 ```
-I lived in my hometown for 18 years (when I was born in a small village in Anhui Province). 
-I left my hometown about ten years ago when I needed to go to college.
+I lived in my hometown for 20 years (when I was born in a small village in Anhui Province). 
+I left my hometown about ten years ago when I need to go to college.
 
-Many people leave their hometown for many reasons, such as work/study/business. 
+Many people leave/liːv/ their hometown for many reasons, such as work,study or business. 
 I left my hometown for the education, there is no university in my hometown.
 
 People who have always lived in their hometown will easy to succeed.
 they live with their families, relatives and old friends, who will help them when they meet difficulties in life.
-and they don't need to rent or buy a house,  It costs very little to live. they will have more money to improve their self.
+and they don't need to rent or buy a house,  It costs/kɒsts/ very little to live. they will have more money to improve their self.
 such as study new skills.
 ```
 
