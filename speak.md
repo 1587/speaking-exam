@@ -6,9 +6,16 @@ taken  taking
 musical musicians 
 musical instruments
 
-cut cart
-drunk trunk 
-sunny  ceiling
+cut cart /kɑːrt/
+
+
+truck  /trʌk/
+
+
+ ceiling /ˈsiːlɪŋ/
+
 forklift
+
 status
+
 helmets
