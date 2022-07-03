@@ -199,11 +199,11 @@ I think they are busy.
 ![image](https://user-images.githubusercontent.com/2299635/170911697-ff0cc890-86b8-42b8-9bf9-cdac0d58dad8.png)
 
 ```
-The picture is taken in a laboratory , there are 4 people in this picture. 
+The picture is taken in a laboratory/ˈlæbrətɔːri/ , there are 4 people in this picture. 
 All of them are wearing white uniforms
 On the left, a man and a woman are sitting at a table and reading  books;
 In the middle, a woman is opening the fridge and taking out a sample.
-On the right, there is woman is observing something through the microscope on the table.
+On the right, there is woman is observing something through the microscope on the platform.
 ```
 
 
