@@ -89,13 +89,13 @@ most of them go to fitness center twice a week.
 Secondly, medical technologies are improved.
 There are some new medical for more and more diseases /dɪˈziːzɪz/.
 many vaccines can keep us from getting sick.
-There are also more and more cancers can be treated with medicals and returned to health.
+(There are also more and more cancers can be treated with medicals and returned to health).
 
 Thirdly, People begin protecting the environment, 
 the environment of future will be better than now, now days , 
 In some cities  They sky is high and blue, 
-The air is also very good.The water in the river is clean too. 
-Their residents are also very long-lived.
+(The air is also very good.The water in the river is clean too. 
+Their residents are also very long-lived.)
 
 
 To the reason above, I think people will be healthier in the future.
