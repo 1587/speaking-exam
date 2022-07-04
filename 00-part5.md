@@ -192,55 +192,24 @@ The above reasons are why I think colleague communicate well is the most importa
 My answer:
 ``` 
 I think buy a house will reduce the quality of my life.
-
+I have some reasons as follows:
 Firstly, in china, the Housing price is too high, buy a house will cost too much money. 
-I will have no money for education, travel,medical care,and take care of my parents. 
-I will be a mortgage/ˈmɔːɡɪdʒ/ slave
+I will have no enough money for education, travel, medical care, and take care of my parents. 
+I will be a mortgage/ˈmɔːɡɪdʒ/ slave.
 
+Secondly, if I change my office to a place far from the house.
+I will spend more time on commute, Especially when I move to another city.
+it's not convenient.
 
-Secondly, if I change my office to a place far from my house.
-it's not convenient,I will spend more time on commute, 
-Especially when I move to another city
+thirdly, I need to maintain the house every year, I also have to pay building taxes/ˈbɪldɪŋ ˈtæksɪz/;
+it's a waste of money and time.
 
-thirdly,I need to maintain the house every year, it's a waste of money and time.
-
-finally, if the neighbors/'nebəz/ are not good,i can't change them. 
-so i think ,rent a house is a good choice.
+finally, if the neighbors/'nebəz/ are not good, i can't replace them. 
+so I think, renting a house is a good choice.
 all the above are my opinions.
 ```
-
-My answer2:
+like to rent a house, which can let my life without stress, and the mood happy.
 ```
-I think having a house or a department has the following disadvantages compared to renting:
-First of all, housing is fixed in one place, cannot be changed at any time, 
-But rental location can be changed with our work place,
-making our work life more convenient.
-
-Secondly, the economic pressure of housing is high, the quality of life is low. 
-You know, in China, a house needs several million RMB,
-and you have to pay off the loan every month, 
-but the monthly rent is far less than the monthly mortgage [ˈmɔːɡɪdʒ].
-
-Therefore, I like to rent a house, which can let my life without stress, and the mood happy.
-```
-
-
-My answer3:
-
-```
-There are some disadvantages of buying a house. 
-
-Firstly, buying and maintaining a house costs a lot of money. 
-Because house is very expensive to buy.
-Besides, you have to decorate the house, buy furniture and many other things.
-
-Secondly, it is difficult to move to different locations if you own a house. 
-If you need to change your job, you need to move to a new location. 
-But if you own a house, you can’t do that. 
-
-So I think these are the disadvantages of buying a house. 
-```
-
 
 
 
