@@ -17,8 +17,8 @@ i have some reasons as follows:
 
 firstly: students will have more money to buy study equipment,
 such as ipad, computer or smartphone. 
-they can learn online courses at anywhere,
-and disscuss with their classmates and teachers in time. 
+(they can learn online courses at anywhere,
+and disscuss with their classmates and teachers in time. )
 they will study efficiently.
 
 secondly: students will focus on their study,
