@@ -93,8 +93,8 @@ many vaccines can keep us from getting sick.
 
 Thirdly, People begin protecting the environment, 
 the environment of future will be better than now, now days , 
-In some cities  They sky is high and blue, 
-(The air is also very good.The water in the river is clean too. 
+(In some cities  They sky is high and blue, 
+The air is also very good.The water in the river is clean too. 
 Their residents are also very long-lived.)
 
 
