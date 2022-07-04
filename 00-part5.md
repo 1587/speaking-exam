@@ -128,23 +128,6 @@ we need their support.
 So I think we must discuss with my family members when I have a new offer.
 ```
 
-My answer2:
-
-```
-The advantages are as follows:
-Firstly, my family especially my parents have worked many years, 
-they have rich experience to give me some advice and help me make the right choice.
-
-Secondly, My family knows me best, 
-they are very clear what I'm good at and where my weakness lies in, 
-so I can make sure whether the offer is suitable for me.
-
-Finally, I think it is a respect to discuss the offer with them, they can feel valued, 
-which is benefical to build the harmonious atmosphere in the family.
-
-All the above are my opinions.
-```
-
 
 
 
