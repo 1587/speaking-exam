@@ -29,7 +29,7 @@ whether his family is poor or rich.
 
 
 
-The more people get a college education,
+The more people go to college,
 the stronger the country will be. and it' education will develop very fast.
 
 (finally: More people go to university and 
