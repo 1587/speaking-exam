@@ -450,15 +450,26 @@ education background and related work experience ,which one more important and w
 My answer:
 
 ```
-I think work experience is more important than education background. I have following reasons:
-firstly, if someone has a good education background, it means he did a good job on the exam. But maybe he is not good at this job.  However, if someone has a work experience, then he knows how to do this job.
-Secondly, there are many good workers who didn’t graduate from college, but doing a good job. Not everyone can go to college, but anyone can work hard to become a good employee.   
-Lastly, there are some important skills that you can’t learn at school. For example, communication, teamwork and so on. But they can be learned at work place. 
+I think work experience is more important than education background. 
+I have following reasons:
+firstly, if someone has a good education background, it means he did a good job on the exam. 
+But maybe he is not good at this job.  
+However, if someone has a work experience, then he knows how to do this job.
+Secondly, there are many good workers who didn’t graduate from college, but doing a good job. 
+Not everyone can go to college, but anyone can work hard to become a good employee.   
+Lastly, there are some important skills that you can’t learn at school. 
+For example, communication, teamwork and so on. But they can be learned at work place. 
 So, I think work experience is more important than education background. 
 Story telling:
-I think work experience is more important than education background.  I have following reasons:
-1.	You can’t learn some skills at school, for example communication and team work. When I was at school, I was not a very sociable person. I didn’t want to talk to others. When I started working, I realized communication and team work is very important. So, you learn those important skills when you are working.
-2.	People from lower education background can become a great person. For example, Bill gates didn’t graduate from school, but he build up a great company like Microsoft. So education background is not so important, but how you work is important. 
+I think work experience is more important than education background.  
+I have following reasons:
+1.	You can’t learn some skills at school, for example communication and team work.
+When I was at school, I was not a very sociable person. I didn’t want to talk to others. 
+When I started working, I realized communication and team work is very important.
+So, you learn those important skills when you are working.
+2.	People from lower education background can become a great person. 
+For example, Bill gates didn’t graduate from school, but he build up a great company like Microsoft. 
+So education background is not so important, but how you work is important. 
 so, I think work experience is more important than education background.
 
 ```
