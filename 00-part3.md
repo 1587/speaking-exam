@@ -6,7 +6,7 @@
 My answer:
 
 ```
-I like the Chinese musician LangLang, he palys classical music on the piano,  
+I like the Chinese musician[mjuːˈzɪʃən] LangLang, he palys classical music on the piano,  
 (his music is mild, sound very comfortable.	)
 
 Usually, I choose music from internet. like youtube  /ˈjuːtuːb/ , apple music.
