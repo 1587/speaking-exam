@@ -25,7 +25,7 @@ secondly: students will focus on their study,
 don't spend much time on part-time job.(don't worry about the money.)
 they will have more time to learn knowledge.
 
-thirdly: It gives everyone a chance to go to college, 
+thirdly/ˈθɜːrdli/: It gives everyone a chance to go to college, 
 whether his family is poor or rich.
 The more people go to college,
 the stronger the country will be and it's education will develop fast.
