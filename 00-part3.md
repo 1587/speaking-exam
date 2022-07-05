@@ -1,7 +1,7 @@
 ### 11.3	part3（5~7）(15+15+30)
-问题一： 你喜欢的音乐家（musician）是谁，他的音乐风格是什么（答歌手似乎不合适。大家准备答案可以考虑朗朗的古典钢琴，有大佬说老子不喜欢听音乐……）
+问题一：你喜欢的音乐家（musician）是谁，他的音乐风格是什么
 问题二：你喜欢从哪里选择音乐，是自己的收藏，还是其他，比如radio station等
-问题三：你喜欢怎样听音乐，为什么
+问题三：你喜欢怎样听音乐，为什么?
 
 My answer:
 
@@ -21,9 +21,9 @@ I only need to pay litte money for it.
 
 
 ### 8.3	part3（5~7）(15+15+30)
-多久去一次健身房？和谁一起去？
-你比较喜欢什么时候去健身房？为什么 ）
-什么最影响你选择健身房？离家/公司近 器材质量  很多健身课的.
+问题一：多久去一次健身房？和谁一起去？
+问题二：你比较喜欢什么时候去健身房？为什么 ）
+问题三：什么最影响你选择健身房？离家/公司近 器材质量  很多健身课的.
 
 ```
 
@@ -98,9 +98,9 @@ so I think quality is the most important thing of computer
 
 
 ### 2.3 part3（5~7）(15+15+30)
-什么时候离开hometown去城市的？你在hometown待了多长的时间
-很多人离开家乡的原因是什么
-一生在家乡长大的人的优势是啥
+1. 什么时候离开hometown去城市的？你在hometown待了多长的时间
+2. 很多人离开家乡的原因是什么
+3. 一生在家乡长大的人的优势是啥
 
 My answer:
 
@@ -202,9 +202,9 @@ and I love cooking and sharing all about food.
 
 
 ### 15.3	part3（5~7）(15+15+30) 
-工作的地方离家多远，是否需要开车   How far is your office from home?
-你喜欢上班早一点，还是晚一点？  Do you prefer to go to work earlier or later？
-上班哪个比较好，好的主管 supper visors、好的同事、还是其他？
+1. 工作的地方离家多远，是否需要开车   How far is your office from home?
+2. 你喜欢上班早一点，还是晚一点？  Do you prefer to go to work earlier or later？
+3. 上班哪个比较好，好的主管 supper visors、好的同事、还是其他？
 What do you prefer? good supervisor? Good colleague? Or something else?
 My answer:
 
