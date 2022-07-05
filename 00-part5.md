@@ -270,8 +270,14 @@ My answer:
 
 ```
 Yes, I think the success of a project requires risks. I have following reasons: 
-Firstly, if we want to succeed, we need to try new methods. But when we try new things, we need to take risks. For example, when I was developing a new program, I wanted to try a new way, but I was afraid that my boss wouldn’t like it. However, I took the risk and tried. In the end, I made a great success. 
-Secondly, taking more risks will make the team stronger. Because of risks, team members will be stronger and more resilient.  A stronger team has more chance of winning. 
+Firstly, if we want to succeed, we need to try new methods. 
+But when we try new things, we need to take risks. 
+For example, when I was developing a new program, I wanted to try a new way,
+but I was afraid that my boss wouldn’t like it. 
+However, I took the risk and tried. In the end, I made a great success. 
+Secondly, taking more risks will make the team stronger. 
+Because of risks, team members will be stronger and more resilient. 
+A stronger team has more chance of winning. 
 So, I think the success of a project requires risks.
 ```
 
