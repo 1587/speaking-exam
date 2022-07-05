@@ -13,7 +13,7 @@ Usually, I choose music from internet. like youtube  /ˈjuːtuːb/ , apple music
 i can see other people' comments about the music.
 
 I like to listen to music by my iphone when i am free.
-Because I am very busy with work and I don't have much time to go to music center.
+Because I am very busy with work and I don't have much time to go to the music center.
 It is very convenient by iphone, I can listen to music anywhere. on the bus, on the subway.
 and Watch music performance on the website is cheaper than the music center, 
 I only need to pay litte money for it.
@@ -51,11 +51,11 @@ My answer:
 
 ```
 My hometown is a village in Anhui Province of China.
-I lived there for 18 years until I went to the college. 
+I lived there for 20 years until I went to the college. 
 
 I live in Nanjing now, I like it ,
 because, it's public transportation is very convenient, it has a lot of bus stations and subway stations.
-It also have many museums.
+It also have many museums. 
 
 
 If I moved to another place, convenience/kənˈviːniəns/ of life is the most important.
@@ -124,7 +124,17 @@ such as study new skills.
 2.一般什么情况下你会想乘坐公共汽车，为什么？
 3.你会选择公共汽车出行吗？为什么会or不会？
 
+```
+The last time I take a bus is last week. I go to the supermark with my wife.
 
+I will take the bus if The bus can reach the My destination. That is very convenient.
+
+Yes ,I will. There are many bus stations around my neighborhood, I can take a bus go around anywhere of my city.
+usually, bus tickets are very cheap, I only pay a litter money.
+And I'm not worried about where to park. There's no parking fee.
+Taking public transport will protect the environment. and Reduce the risk of traffic jams.
+Taking a bus is safer than driving. There's a lot of car accidents every year.
+```
 
 
 
