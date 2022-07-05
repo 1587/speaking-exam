@@ -129,11 +129,11 @@ The last time I take a bus is last week. I go to the supermark with my wife.
 
 I will take the bus if The bus can reach the My destination. That is very convenient.
 
-Yes ,I will. There are many bus stations around my neighborhood, I can take a bus go around anywhere of my city.
-usually, bus tickets are very cheap, I only pay a litter money.
-And I'm not worried about where to park. There's no parking fee.
-Taking public transport will protect the environment. and Reduce the risk of traffic jams.
-Taking a bus is safer than driving. There's a lot of car accidents every year.
+Yes ,I will. 
+There are many bus stations around my neighborhood, I can take a bus go around anywhere of my city.
+usually, bus tickets are very cheap, and I don't have to worry about where to park.
+Taking public transport will protect the environment and Reduce the risk of traffic jams.
+taking a bus is safer than driving. There are a lot of car accidents every year.
 ```
 
 
