@@ -164,9 +164,6 @@ finally, if the neighbors/'nebəz/ are not good, i can't replace them.
 so I think, renting a house is a good choice.
 all the above are my opinions.
 ```
-like to rent a house, which can let my life without stress, and the mood happy.
-
-
 
 
 ### 12.5	part5（11）(60) 
