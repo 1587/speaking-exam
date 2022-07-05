@@ -78,7 +78,7 @@ There are some new medical for more and more diseases /dɪˈziːzɪz/.
 many vaccines can keep us from getting sick.
 
 Thirdly, People begin protecting the environment, 
-the environment of future will be better than now, now days , 
+the environment of future will be better than now.
 
 To the reason above, I think people will be healthier in the future.
 ```
