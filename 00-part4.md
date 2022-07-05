@@ -288,4 +288,61 @@ Next, there is a session named YY  from 3:00 pm to 4:00 pm.
 Please keep that in mind.
 ```
 
+### Example:
 
+```
+            TRIP SCHEDULE FOR JENNIFER TORR, PRODUCTION MANAGER
+
+3:00 P.M. Monday, March 10   Depart San Francisco (North Airways #152)
+5:30 P.M. Arrive in Dallas ( Accommodations: Griffith Hotel)
+7:00 P.M. Dinner meeting with James Lurkins, Director.
+
+Tuesday, March 11
+
+10:00A.M. Factory visit
+Noon Lunch with new assistant managers
+2:00 P.M. Tour of Dalla, sightseeing
+5:00 P.M. Provide training for new assistant managers
+8:00P.M Depart Dallas (North Airways #347)
+10:30P.M Arrive in San Francisco.
+```
+
+```
+Q8: When will my flight leave on Monday and what aireline am I taking?
+A8: You will depart San Francisco on 3:00 PM by North Airway #152.
+Q9: I suppose to have dinner with director on Tuesday, is this correct?
+A9: No, it is wrong. You will have dinner with director at 7:00PM on Monday.
+Q10:What is the plan and activity with new assitant managers?
+A10:
+First,you will have lunch with new assitant managers at noon on Tuesday.
+Second,you will provide training for new assistant managers at 5:00PM on Tuesday
+```
+
+Example2:
+
+``` 
+     EDMONTON TOWNSHIP COUNCIL MONTHLY MEETING AGENDA
+            Date and Time: August 1, 10:00-11:00
+               Location: Town Hall Room 4A
+Staff Presentation
+    Pros-andCons.ofInvestingn-Public-Parks(Celia-Potter}   Cancelled
+
+Remarks from Citizen’s Representative
+    Wisely Spending Our Tax Money (John Stone)
+
+Senior Citizen’s Ball — remaining issues
+    When and Where?
+    Rosemont Hotel Grand Room, next month
+    Invitation? Sent out on Monday
+    Still need: Volunteers for the day of, Caterer
+```
+
+```
+Q8:What is the citizen's representative remark for this month, and who give it?
+A8:Jone stone will give topic by Wisely Spending Our Tax Money
+Q9:I think it was going to take some kind of speech in the public parks,can you tell me about that?
+A9:No, it is cancelled
+Q10:I remember that it will take senior citizen's ball, can I still help where?
+A10：First, you can help to sent out the invitation on Monday
+Second, you can help to search volunteers for the day of Caterer
+```
