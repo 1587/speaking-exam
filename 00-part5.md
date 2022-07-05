@@ -22,17 +22,13 @@ and disscuss with their classmates and teachers in time. )
 they will study efficiently.
 
 secondly: students will focus on their study,
-don't spend much time on part time job.(don't worry about the money.)
+don't spend much time on part-time job.(don't worry about the money.)
 they will have more time to learn knowledge.
 
 thirdly: It gives everyone a chance to go to college, 
 whether his family is poor or rich.
 The more people go to college,
 the stronger the country will be and it's education will develop fast.
-
-(finally: More people go to university and 
-the quality of all citizens will be improved. 
-we will have more safety public enviroment.)
 
 All of the above are my views/opinions.
 ```
@@ -57,13 +53,6 @@ thirdly, good communication can make team members feel better,
 which can makes our work efficiently. and everyone will be happy.
 We don't blame each other, we don't fight. Teams are more likely to succeed.
 
-(Last week, for example, two of my co-workers didn't communicate well, 
-they communicated over and over, 
-and their attention was focused on who was causing the problem;
-A said that B did not follow the process, 
-and B said that A did not have the execution capability.
-In the end, the problem was not resolved.)
-
 The above reasons are why I think colleague communicate well is the most important.
 ```
 
@@ -87,14 +76,9 @@ most of them go to fitness center twice a week.
 Secondly, medical technologies are improved.
 There are some new medical for more and more diseases /dɪˈziːzɪz/.
 many vaccines can keep us from getting sick.
-(There are also more and more cancers can be treated with medicals and returned to health).
 
 Thirdly, People begin protecting the environment, 
 the environment of future will be better than now, now days , 
-(In some cities  They sky is high and blue, 
-The air is also very good.The water in the river is clean too. 
-Their residents are also very long-lived.)
-
 
 To the reason above, I think people will be healthier in the future.
 ```
@@ -108,8 +92,7 @@ To the reason above, I think people will be healthier in the future.
 My answer(需要重新梳理):
 
 ```
-According my personal experience, If I have a new offer, 
-I will discuss with my family members, 
+If I have a new offer, I will discuss with my family members, 
 There are some advantages as follows:
 
 Firstly: My parents have 20 years of working experience, 
@@ -151,14 +134,6 @@ it is very important for our work.
 Finally, good communication can make team members feel better, 
 which can makes our work efficiently.
 We don't blame each other, we don't fight. Teams are more likely to succeed.
-
-(Last week, for example, two of my co-workers didn't communicate well, 
-they communicated over and over, 
-
-and their attention was focused on who was causing the problem;
-A said that B did not follow the process, 
-and B said that A did not have the execution capability.
-In the end, the problem was not resolved.)
 
 The above reasons are why I think colleague communicate well is the most important.
 ```
