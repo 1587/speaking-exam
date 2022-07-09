@@ -40,16 +40,16 @@ yes ,i think good communication is the most important.
 I have some reasons as follows:
 
 Firstly, good communication enable us to express our views clearly, 
-and share our true thoughts with our colleagues. 
+(and share our true thoughts with our colleagues. )
 we can find out the root cause of the problem through communication.
 
 Secondly, good communication enable us to think about other people's points of view, 
-we can find our misstakes, which could be a risk of our project failture.  
-it is very important for our work. 
+we can find our misstakes, which could be a risk of our project.  
+(it is very important for our work. )
 
 thirdly, good communication can make team members feel better, 
-which can makes our work efficiently. and everyone will be happy.
-We don't blame each other, we don't fight. Teams are more likely to succeed.
+which can makes our work efficiently. (and everyone will be happy.
+We don't blame each other, we don't fight.) Teams are more likely to succeed.
 
 The above reasons are why I think colleague communicate well is the most important.
 ```
