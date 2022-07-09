@@ -216,7 +216,7 @@ So, I think companies should do a lot to build a good reputation.
 
 
 
-### 14.5	part5（11）(60)
+### 14.5	part5（11）(60)（20220709已考）
 大学生是否要利用空闲时间/长假期 去公司当实习生，为什么？
 
 My answer:
