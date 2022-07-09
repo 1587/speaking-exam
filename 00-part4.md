@@ -11,7 +11,7 @@ My answer:
 
 ```
 Hello sir, You will Depart from Singapore[ˌsɪŋəˈpɔː] at 2:30 PM on June the 17th，
-the flight No. is Oceanic Air 18，
+the flight No. is Oceanic/ˌoʊʃiˈænɪk/ Air 18，
 you will landing on Sydney at 5:30 PM same day.
 
 No, I sorry, according for the itinerary /aɪˈtɪnəreri/,
