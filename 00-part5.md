@@ -148,15 +148,15 @@ My answer:
 I think buy a house will reduce the quality of my life.
 I have some reasons as follows:
 Firstly, in china, the Housing price is too high, buy a house will cost too much money. 
-I will have no enough money for education, travel, medical care, and take care of my parents. 
+(I will have no enough money for education, travel, medical care, and take care of my parents. )
 I will be a mortgage/ˈmɔːɡɪdʒ/ slave.
 
 Secondly, if I change my office to a place far from the house.
-I will spend more time on commute, Especially when I move to another city.
+I will spend more time on commute, (Especially when I move to another city.)
 it's not convenient.
 
-thirdly, I need to maintain the house every year, I also have to pay building taxes/ˈbɪldɪŋ ˈtæksɪz/;
-it's a waste of money and time.
+(thirdly, I need to maintain the house every year, I also have to pay building taxes/ˈbɪldɪŋ ˈtæksɪz/;
+it's a waste of money and time.)
 
 finally, if the neighbors/'nebəz/ are not good, i can't replace them. 
 so I think, renting a house is a good choice.
