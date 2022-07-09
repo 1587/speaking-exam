@@ -17,20 +17,18 @@ i have some reasons as follows:
 
 firstly: students will have more money to buy study equipment,
 such as ipad, computer or smartphone. 
-(they can learn online courses at anywhere,
-and disscuss with their classmates and teachers in time. )
 they will study efficiently.
 
 secondly: students will focus on their study,
-don't spend much time on part-time job.(don't worry about the money.)
-(they will have more time to learn knowledge.)
+they don't worry about the money and don't spend much time on part-time job.
+they will have more time to learn knowledge.
 
 thirdly/ˈθɜːrdli/: It gives everyone a chance to go to college, 
-whether his family is poor or rich.
+no matter his family is poor or rich.
 The more people go to college,
 the stronger the country will be and it's education will develop fast.
 
-All of the above are my views/opinions.
+All the above are my views/opinions.
 ```
 
 
