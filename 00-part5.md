@@ -23,7 +23,7 @@ they will study efficiently.
 
 secondly: students will focus on their study,
 don't spend much time on part-time job.(don't worry about the money.)
-they will have more time to learn knowledge.
+(they will have more time to learn knowledge.)
 
 thirdly/ˈθɜːrdli/: It gives everyone a chance to go to college, 
 whether his family is poor or rich.
