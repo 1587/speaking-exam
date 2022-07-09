@@ -41,7 +41,7 @@ I have some reasons as follows:
 
 Firstly, good communication enable us to express our views clearly, 
 (and share our true thoughts with our colleagues. )
-we can find out the root cause of the problem through communication.
+we can find out the root cause of the problem( through communication).
 
 Secondly, good communication enable us to think about other people's points of view, 
 we can find our misstakes, which could be a risk of our project.  
