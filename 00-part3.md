@@ -125,9 +125,9 @@ such as study new skills.
 3.你会选择公共汽车出行吗？为什么会or不会？
 
 ```
-The last time I take a bus is last week. I go to the supermark with my wife.
+The last time I taken a bus is last week. I went to the supermark with my wife.
 
-I will take the bus if The bus can reach the My destination. That is very convenient.
+I will take the bus if The bus can reach My destination. I like public transportion, It is very convenient.
 
 Yes ,I will. 
 There are many bus stations around my neighborhood, I can take a bus go around anywhere of my city.
@@ -135,9 +135,6 @@ usually, bus tickets are very cheap, and I don't have to worry about where to pa
 Taking public transport will protect the environment and Reduce the risk of traffic jams.
 taking a bus is safer than driving. There are a lot of car accidents every year.
 ```
-
-
-
 
 
 ### 12.3	part3（5~7）(15+15+30)
