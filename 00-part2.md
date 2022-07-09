@@ -42,7 +42,7 @@ The picture is taken on a beach,
 In the middle, there is a path with some chairs.
 a woman is walking on the path, two people are sitting on a chair.
 On the left, some people are walking on the beach, and a green flag is flying in the air.
-In the background I can see blue sky,  sea birds , some trees,and a building. 
+In the background I can see some sea birds , some trees,and a building. 
 It's a fine day
 ```
 
