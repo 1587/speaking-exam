@@ -275,7 +275,7 @@ we can see a microscope on the platform. and many other Laboratory equipment.
 
 
 
-### 14.2	part2（3 ~ 4）(30+30) 6~8个句子
+### 14.2	part2（3 ~ 4）(30+30) 6~8个句子（20220709已考）
 四个人在一个会议室里，左边两个女人看着一个笔记本在交谈，其中一个女的在笑。右边一男一女在看着一个本子，像是在讨论方案。会议室里面还有一台电视、电脑。
 
 My answer:
