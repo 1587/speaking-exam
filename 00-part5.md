@@ -431,6 +431,9 @@ Not everyone can go to college, but anyone can work hard to become a good employ
 Lastly, there are some important skills that you can’t learn at school. 
 For example, communication, teamwork and so on. But they can be learned at work place. 
 So, I think work experience is more important than education background. 
+```
+
+```
 Story telling:
 I think work experience is more important than education background.  
 I have following reasons:
