@@ -216,33 +216,6 @@ So, I think companies should do a lot to build a good reputation.
 
 
 
-### 14.5	part5（11）(60)（20220709已考）
-大学生是否要利用空闲时间/长假期 去公司当实习生，为什么？
-
-My answer:
-
-```
-Yes, of cause. college student should have a intership. 
-There are some advantages as follows.
-
-Firstly: You can get job experience in advance. 
-then You will know clearly what you need to learn in college. 
-(You will focus on learning that knowledge)
-
-Secondly: You can learn things that you can't study in school. 
-(You know more than your classmates. )
-You'll be better than your classmates.
-
-At last, you can earn money through internships, 
-then you can buy more equipment or online classes to improve your learning.
-
-So, I think an internship is a better way to improve themselves.
-```
-
-
-
-
-
 
 ### 15.5	part5（11）(60)
 成功是否需要冒险
