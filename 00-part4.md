@@ -163,22 +163,7 @@ Please keep that in mind.
 ```
 
 
-### 14.4	part4（8~10）(15+15+30) 题目是听的（20220709已考）
-1.问会议什么时候开始，第一个议题是什么
-2.问11点要走，会不会错过什么东西。（不会）
-3.问scott先生具体要讲啥。在倒数第二项
 
-```
-The Meeting will be held on May The 20th, The first events is about XXX at 9:00 am. 
-please keep that in mind.
-
-No, you won't miss anything. There will be no other events after 11:00 am. 
-
-Yes, according to the information, there are 2 session gaven by Mr scott. 
-First, there is session about XX security (from 10:00 am to 11:00 am) .
-Next, there is a session about YY security (from 3:00 pm to 4:00 pm).
-Please keep that in mind.
-```
 
 ### 15.4	part4（8~10）(15+15+30) 题目是听的
 日程表
