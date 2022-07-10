@@ -275,32 +275,7 @@ we can see a microscope on the platform. and many other Laboratory equipment.
 
 
 
-### 14.2	part2（3 ~ 4）(30+30) 6~8个句子（20220709已考）
-四个人在一个会议室里，左边两个女人看着一个笔记本在交谈，其中一个女的在笑。右边一男一女在看着一个本子，像是在讨论方案。会议室里面还有一台电视、电脑。
 
-My answer:
-
-``` 
-The picture is taken in a conference room, there are 4 people in this picture.
-On the left side, two women are sitting at a table, 
-looking at a laptop and talking about something, 
-one of them is smiling.
-On the right side, a man and a woman are looking at their notebooks and discussing something.
-There are one TV and one computer in this room.
-they are too busy.
-```
-
-五个人在马路上。左边是一男一女在交谈，男的牵了一条狗，戴着绿帽子。中间是一个年轻的男孩靠在墙上。右边是一男一女在等红绿灯，过马路。
-or 有5个人在街上，左侧一个男的牵着宠物跟另一个女的在交谈，中间一个男人靠着商店门口站着。右边一男一女两个人在红绿灯旁边等着过马路
-
-My answer:
-
-``` 
-The picture is taken on the street, there are 5 people in this picture.
-On the left side, a woman and a man are talking, the man with green hat is holing a pet dog.
-In the middle of the picture, there is a young man, leaning against the wall beside a store.
-On the right side, two guys are waiting for the traffic lights.
-```
 
 
 
