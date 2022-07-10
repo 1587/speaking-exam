@@ -174,26 +174,7 @@ I will use phone instead.
 ```
 
 
-### 14.3	part3（5~7）(15+15+30)（20220709已考）
-1、	你想去哪个国家？是不是已经去过了？
-2、	如果你要去旅游，你会选择和朋友一起去还是独自去？
-2、	去一个国家旅游，你主要考虑哪一点？语种、食物、旅游景点
 
-My answer:
-
-```
-I want to travel to France. It's a beautiful country. 
-I haven't been there yet.
-
-I like to travel with my friends, it will be funny with friends, 
-we can discuss about the tour. 
-We can enjoy the landscape together.
-
-Food, of course.
-I'm a food lover, I like to eat delicious food.  
-I like to learn about food culture.
-and I love cooking and sharing all about food.
-```
 
 
 
