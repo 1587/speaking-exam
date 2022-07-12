@@ -31,114 +31,6 @@ the stronger the country will be and it's education will develop fast.
 All the above are my views/opinions.
 ```
 
-
-### 8.5	part5（11）(60)
-作为一个团队的leader 高效沟通是不是最重要的？为什么/为什么不？举证或者举例
-
-```
-yes ,i think good communication is the most important.
-I have some reasons as follows:
-
-Firstly, good communication enable us to express our views clearly, 
-(and share our true thoughts with our colleagues. )
-we can find out the root cause of the problem( through communication).
-
-Secondly, good communication enable us to think about other people's points of view, 
-we can find our misstakes, which could be a risk of our project.  
-(it is very important for our work. )
-
-thirdly, good communication can make team members feel better, 
-which can makes our work efficiently. (and everyone will be happy.
-We don't blame each other, we don't fight.) Teams are more likely to succeed.
-
-The above reasons are why I think colleague communicate well is the most important.
-```
-
-
-
-### 6.5	part5（11）(60)
-现在的人和将来的人会比较健康，为什么？
-
-My answer:
-
-```
-According to my personal experience,
-I think people will be healthier in the future then they are now. 
-There are some reasons as follows:
-
-Firstly, Nowadays, People are paying more and more attention to their health.
-For example, my friends and  colleagues eat healthy foods, 
-do more exercises, such as running and playing footballs.
-most of them go to fitness center twice a week.
-
-Secondly, medical technologies are improved.
-There are some new medical for more and more diseases /dɪˈziːzɪz/.
-many vaccines can keep us from getting sick.
-
-Thirdly, People begin protecting the environment, 
-the environment of future will be better than now.
-
-To the reason above, I think people will be healthier in the future.
-```
-
-
-
-
-### 4.5	part5（11）(60)
-大题：如果你接到一个工作offer，你会和家里人family members 商量吗？ 和家人讨论的优点是什么？
-
-My answer(需要重新梳理):
-
-```
-If I have a new offer, I will discuss with my family members, 
-There are some advantages as follows:
-
-Firstly: My parents have 20 years of working experience, 
-they can help me recognize the disadvantages of my new job.
-and  help me make the right choice.
-
-Secondly: Change a jobs is a big deal for a family. 
-I must make good communications with them, they will feel better, 
-we must respect each other.
-
-Thirdly: With family member's support we will work efficiently.
-New job may need to move to another city, or go abroad, or work overtime,
-we may spend less time with the family, and so on. 
-we need their support.
-
-So I think we must discuss with my family members when I have a new offer.
-```
-
-
-
-
-### 2.5 part5（11）(60)
-你认为在就职一份新工作时   work hard willingness 还是 colleague communicate well更重要？-努力工作的意识和跟人相处、协作能力哪个更重要
-
-My answer1:
-
-```
-I think colleague communicate well is the most important. 
-there are some reasons as follows:
-
-Firstly, good communication enable us to express our views clearly,
-and share our true thoughts with our colleagues. 
-we can find out the root cause of the problem through communication.
-
-Secondly, good communication enable us to think about other people's points of view, 
-we can find our misstakes, which could be a risk of our project failture.  
-it is very important for our work. 
-
-Finally, good communication can make team members feel better, 
-which can makes our work efficiently.
-We don't blame each other, we don't fight. Teams are more likely to succeed.
-
-The above reasons are why I think colleague communicate well is the most important.
-```
-
-
-
-
 ### 10.5	part5（11）(60)
 问自己有一套房子或者公寓与租房的相比缺点是什么
 买房子对比租房子的缺点，并描述认为是缺点的理由。
@@ -447,6 +339,115 @@ So education background is not so important, but how you work is important.
 so, I think work experience is more important than education background.
 
 ```
+
+
+### 8.5	part5（11）(60)
+作为一个团队的leader 高效沟通是不是最重要的？为什么/为什么不？举证或者举例
+
+```
+yes ,i think good communication is the most important.
+I have some reasons as follows:
+
+Firstly, good communication enable us to express our views clearly, 
+(and share our true thoughts with our colleagues. )
+we can find out the root cause of the problem( through communication).
+
+Secondly, good communication enable us to think about other people's points of view, 
+we can find our misstakes, which could be a risk of our project.  
+(it is very important for our work. )
+
+thirdly, good communication can make team members feel better, 
+which can makes our work efficiently. (and everyone will be happy.
+We don't blame each other, we don't fight.) Teams are more likely to succeed.
+
+The above reasons are why I think colleague communicate well is the most important.
+```
+
+
+
+### 6.5	part5（11）(60)
+现在的人和将来的人会比较健康，为什么？
+
+My answer:
+
+```
+According to my personal experience,
+I think people will be healthier in the future then they are now. 
+There are some reasons as follows:
+
+Firstly, Nowadays, People are paying more and more attention to their health.
+For example, my friends and  colleagues eat healthy foods, 
+do more exercises, such as running and playing footballs.
+most of them go to fitness center twice a week.
+
+Secondly, medical technologies are improved.
+There are some new medical for more and more diseases /dɪˈziːzɪz/.
+many vaccines can keep us from getting sick.
+
+Thirdly, People begin protecting the environment, 
+the environment of future will be better than now.
+
+To the reason above, I think people will be healthier in the future.
+```
+
+
+
+
+### 4.5	part5（11）(60)
+大题：如果你接到一个工作offer，你会和家里人family members 商量吗？ 和家人讨论的优点是什么？
+
+My answer(需要重新梳理):
+
+```
+If I have a new offer, I will discuss with my family members, 
+There are some advantages as follows:
+
+Firstly: My parents have 20 years of working experience, 
+they can help me recognize the disadvantages of my new job.
+and  help me make the right choice.
+
+Secondly: Change a jobs is a big deal for a family. 
+I must make good communications with them, they will feel better, 
+we must respect each other.
+
+Thirdly: With family member's support we will work efficiently.
+New job may need to move to another city, or go abroad, or work overtime,
+we may spend less time with the family, and so on. 
+we need their support.
+
+So I think we must discuss with my family members when I have a new offer.
+```
+
+
+
+
+### 2.5 part5（11）(60)
+你认为在就职一份新工作时   work hard willingness 还是 colleague communicate well更重要？-努力工作的意识和跟人相处、协作能力哪个更重要
+
+My answer1:
+
+```
+I think colleague communicate well is the most important. 
+there are some reasons as follows:
+
+Firstly, good communication enable us to express our views clearly,
+and share our true thoughts with our colleagues. 
+we can find out the root cause of the problem through communication.
+
+Secondly, good communication enable us to think about other people's points of view, 
+we can find our misstakes, which could be a risk of our project failture.  
+it is very important for our work. 
+
+Finally, good communication can make team members feel better, 
+which can makes our work efficiently.
+We don't blame each other, we don't fight. Teams are more likely to succeed.
+
+The above reasons are why I think colleague communicate well is the most important.
+```
+
+
+
+
 
 
 
