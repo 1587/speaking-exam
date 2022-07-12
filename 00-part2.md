@@ -47,139 +47,6 @@ It's a fine day
 ```
 
 
-
-
-### 8.2	part2（3 ~ 4）(30+30) 6~8个句子
- 
-露天音乐演唱会，很多人 很多乐器。台下很多观众坐在凳子上听演唱会，（晴天太阳-有阳光），表演台上XX个音乐家正在表演。（有不少细节-比如后面有个老人的身影 远处有绿色可以判断有很多树，可以遇到了自己加。）
-
-![image](https://user-images.githubusercontent.com/2299635/171656077-c77dd060-ade0-4334-80e5-2276ab1031f2.png)
-
-My answer:
-
-```
-The picture is taken in a musical performance.
-In the front, the audience is sitting in chairs and watching the performance.
-In the background，many musicians/mju'zɪʃənz/ are playing with musical Instruments on the stage. 
-It is a sunny day. I can see the sunshine.
-We can also see some trees in the distance.
-```
-
-在一个仓库里面，两个人，很多货物，很多架子，两台车。左边一个带着蓝色安全帽的黑人女人正在推一个小车（小车上有一个纸盒和两个塑料箱），右边一个带着蓝色安全帽的男人正在操作叉车,后面是货架，有很多货物在上面，天花板上有灯。
-
-![image](https://user-images.githubusercontent.com/2299635/171656097-704a6998-3590-4ac2-bc40-b7b4741001ab.png)
-
-My answer:
-
-```
-The picture is taken in a warehouse. there are two workers with uniform and helmet in this picture. 
-On the left, a woman is pushing a small cart filed with three boxes. 
-On the right, a man is checking status of the forklift/ˈfɔːklɪft/ truck（叉车）)
-In the background, there are many goods on the shelves. 
-I can see two lights on the ceiling.
-I Think they are very busy.
-```
-
-
-
-
-
-### 6.2	part2（3 ~ 4）(30+30) 6~8个句子
-
-在一家衣服店，一个女的拿着衣服在身上看，一个女的看着她，后面是一个男的
-(图片发生在衣服店，左边有个穿着蓝色的T-shirt在试着白色的衣服，右边有个女的，可能是他妈妈，在帮忙看着衣服是否合适，最右边有一对金属物品在陈列着。)
-一家商店，三人，左后方一个白色T-shirt男，中间蓝色衣服女正在尝试一件白色衣服，右边是一个黑人妇女，最左边有很多商品（说金属物品应该也可以）
-
-![image](https://user-images.githubusercontent.com/2299635/171654973-5e9bff4c-01bd-4b73-a9c0-5f374b55e30a.png)
-
-My answer:
-
-```
-The picture is taken in a clothing store. There three people in this picture.
-On the left side, a woman with a blue T-shirt is trying on clothes. 
-Another woman is looking at her. There is a man behind them. 
-On the right side, we can see a pair of metal [ˈmetəl] artworks,
-and there are many goods on the shelves
-```
-
-
-两人-1女1男，三辆car，一辆自行车。女的蹲地上做着什么（开锁吧），白色衬衣男正准备打开汽车门。路的另外一边有两辆车，还有很多树
-
-![image](https://user-images.githubusercontent.com/2299635/171654890-ca978991-b859-4328-87f8-2705526ebd75.png)
-
-My answer:
-
-```
-The picture is taken on the street. There are some people and cars in this picture.
-On the right, a man (with a white shirt) is opening the door of a car. 
-On the left, a woman (in red) is crouching/ˈkraʊtʃɪŋ/ down to lock her bike. 
-In the background, we can see some other cars and many trees.
-(Behind the trees, there is a car parking on the road and a man is going toward to the car.)
-```
-
-
-
-
-
-
-### 4.2	part2（3 ~ 4）(30+30) 6~8个句子
- 第三题：一张公园的照片，路上一个穿黑色裙子（连衣裙）的女（短发，背影）在走路，其他人在路边长条椅上坐着，最近的椅子上，一人在看报，一人在看手机。路边右侧是公园的绿草地，草地上有大树。远处背景有很多人。
-
-My answer:
-
-```
-The picture is taken in a park, many people in this picture,
-in the middle, a girl is walking on the road, some people are sitting on the bench beside the road, 
-one is reading the newspaper and one is playing mobile phone.
-On the right there are many big trees,
-in the background, many people are playing.
-the environment is beautiful.
-```
-
-第四题：一张草地农场照，绿色隔离网分成了两部分。左下半部分是三个人，两女一男。左上的女的站着，手里拿着相机，中间女的长发站着，右肩上背着红色的包。右边男的蹲着地上，隔着隔离网喂鸡。整个农场都是绿色草地，远处有房子。
-
-My answer:
-
-```
-The picture is taken in a farm,  there are three people in this picture
-on the right, A little boy is squatting down to feed the chickens.
-On the left, a woman is looking at the boy. (maybe his mother)
-Another girl is taking photos for them by a smartphone.
-In the background, I can see more chickens and some buildings.
-(I think it is a beautiful place for people to take a rest.)
-```
-
-
-
-
-### 2.2 part2（3 ~ 4）(30+30) 6~8个句子
-
-人很多的饭店，或坐着吃东西，或在交流。近景是三个人，一个人在吃薯条，另外两人在看菜单点餐，点餐的两个人中，其中一个男生拿着水
-
-My answer:
-
-```
-The picture is taken in a restaurant, there are many people in this picture. 
-Most of them are eating food and talking. 
-In the middle, there are 3 people sitting around a table. 
-One is eating chips. The other 2 are looking at a menu and ordering food. 
-(One of them is carrying a cup of water.)
-I think the restaurant business is quite good. and the food is tasty.
-```
-
-一个仓库里面，右边两个女的在衣柜那里准备换衣服，一个女（左边）的是长头发、棕色裙子，另一个女的（右边）是白毛衣。左边有一个穿着蓝色上衣的胖男人的背影，在往远处走，仓库里面很多货架货物. 
-
-My answer:
-
-```
-The picture is taken in warehouse. There are three people in this picture. 
-On the left side, there are two women changing clothes. 
-One of them with long hair is wearning a brown dress, other one is wearing a white sweater. 
-One the right side, a fat man with blue shirt is walking in the distance. 
-we can see many goods on shelves.
-```
-
-
 ### 10.2	part2（3 ~ 4）(30+30) 6~8个句子
  ![image](https://user-images.githubusercontent.com/2299635/170911691-94f06647-b4b2-4674-b81d-7c8d5bb833ed.png)
 
@@ -519,6 +386,139 @@ In the middle a woman is opening the door of fridge and taking out a sample
 In the left side a woman is getting water.
 we can see another microscope  on the platform. and many other Laboratory equipment.
 ```
+
+
+### 8.2	part2（3 ~ 4）(30+30) 6~8个句子
+ 
+露天音乐演唱会，很多人 很多乐器。台下很多观众坐在凳子上听演唱会，（晴天太阳-有阳光），表演台上XX个音乐家正在表演。（有不少细节-比如后面有个老人的身影 远处有绿色可以判断有很多树，可以遇到了自己加。）
+
+![image](https://user-images.githubusercontent.com/2299635/171656077-c77dd060-ade0-4334-80e5-2276ab1031f2.png)
+
+My answer:
+
+```
+The picture is taken in a musical performance.
+In the front, the audience is sitting in chairs and watching the performance.
+In the background，many musicians/mju'zɪʃənz/ are playing with musical Instruments on the stage. 
+It is a sunny day. I can see the sunshine.
+We can also see some trees in the distance.
+```
+
+在一个仓库里面，两个人，很多货物，很多架子，两台车。左边一个带着蓝色安全帽的黑人女人正在推一个小车（小车上有一个纸盒和两个塑料箱），右边一个带着蓝色安全帽的男人正在操作叉车,后面是货架，有很多货物在上面，天花板上有灯。
+
+![image](https://user-images.githubusercontent.com/2299635/171656097-704a6998-3590-4ac2-bc40-b7b4741001ab.png)
+
+My answer:
+
+```
+The picture is taken in a warehouse. there are two workers with uniform and helmet in this picture. 
+On the left, a woman is pushing a small cart filed with three boxes. 
+On the right, a man is checking status of the forklift/ˈfɔːklɪft/ truck（叉车）)
+In the background, there are many goods on the shelves. 
+I can see two lights on the ceiling.
+I Think they are very busy.
+```
+
+
+
+
+
+### 6.2	part2（3 ~ 4）(30+30) 6~8个句子
+
+在一家衣服店，一个女的拿着衣服在身上看，一个女的看着她，后面是一个男的
+(图片发生在衣服店，左边有个穿着蓝色的T-shirt在试着白色的衣服，右边有个女的，可能是他妈妈，在帮忙看着衣服是否合适，最右边有一对金属物品在陈列着。)
+一家商店，三人，左后方一个白色T-shirt男，中间蓝色衣服女正在尝试一件白色衣服，右边是一个黑人妇女，最左边有很多商品（说金属物品应该也可以）
+
+![image](https://user-images.githubusercontent.com/2299635/171654973-5e9bff4c-01bd-4b73-a9c0-5f374b55e30a.png)
+
+My answer:
+
+```
+The picture is taken in a clothing store. There three people in this picture.
+On the left side, a woman with a blue T-shirt is trying on clothes. 
+Another woman is looking at her. There is a man behind them. 
+On the right side, we can see a pair of metal [ˈmetəl] artworks,
+and there are many goods on the shelves
+```
+
+
+两人-1女1男，三辆car，一辆自行车。女的蹲地上做着什么（开锁吧），白色衬衣男正准备打开汽车门。路的另外一边有两辆车，还有很多树
+
+![image](https://user-images.githubusercontent.com/2299635/171654890-ca978991-b859-4328-87f8-2705526ebd75.png)
+
+My answer:
+
+```
+The picture is taken on the street. There are some people and cars in this picture.
+On the right, a man (with a white shirt) is opening the door of a car. 
+On the left, a woman (in red) is crouching/ˈkraʊtʃɪŋ/ down to lock her bike. 
+In the background, we can see some other cars and many trees.
+(Behind the trees, there is a car parking on the road and a man is going toward to the car.)
+```
+
+
+
+
+
+
+### 4.2	part2（3 ~ 4）(30+30) 6~8个句子
+ 第三题：一张公园的照片，路上一个穿黑色裙子（连衣裙）的女（短发，背影）在走路，其他人在路边长条椅上坐着，最近的椅子上，一人在看报，一人在看手机。路边右侧是公园的绿草地，草地上有大树。远处背景有很多人。
+
+My answer:
+
+```
+The picture is taken in a park, many people in this picture,
+in the middle, a girl is walking on the road, some people are sitting on the bench beside the road, 
+one is reading the newspaper and one is playing mobile phone.
+On the right there are many big trees,
+in the background, many people are playing.
+the environment is beautiful.
+```
+
+第四题：一张草地农场照，绿色隔离网分成了两部分。左下半部分是三个人，两女一男。左上的女的站着，手里拿着相机，中间女的长发站着，右肩上背着红色的包。右边男的蹲着地上，隔着隔离网喂鸡。整个农场都是绿色草地，远处有房子。
+
+My answer:
+
+```
+The picture is taken in a farm,  there are three people in this picture
+on the right, A little boy is squatting down to feed the chickens.
+On the left, a woman is looking at the boy. (maybe his mother)
+Another girl is taking photos for them by a smartphone.
+In the background, I can see more chickens and some buildings.
+(I think it is a beautiful place for people to take a rest.)
+```
+
+
+
+
+### 2.2 part2（3 ~ 4）(30+30) 6~8个句子
+
+人很多的饭店，或坐着吃东西，或在交流。近景是三个人，一个人在吃薯条，另外两人在看菜单点餐，点餐的两个人中，其中一个男生拿着水
+
+My answer:
+
+```
+The picture is taken in a restaurant, there are many people in this picture. 
+Most of them are eating food and talking. 
+In the middle, there are 3 people sitting around a table. 
+One is eating chips. The other 2 are looking at a menu and ordering food. 
+(One of them is carrying a cup of water.)
+I think the restaurant business is quite good. and the food is tasty.
+```
+
+一个仓库里面，右边两个女的在衣柜那里准备换衣服，一个女（左边）的是长头发、棕色裙子，另一个女的（右边）是白毛衣。左边有一个穿着蓝色上衣的胖男人的背影，在往远处走，仓库里面很多货架货物. 
+
+My answer:
+
+```
+The picture is taken in warehouse. There are three people in this picture. 
+On the left side, there are two women changing clothes. 
+One of them with long hair is wearning a brown dress, other one is wearing a white sweater. 
+One the right side, a fat man with blue shirt is walking in the distance. 
+we can see many goods on shelves.
+```
+
+
 
 
 
