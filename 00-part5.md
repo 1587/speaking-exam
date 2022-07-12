@@ -323,9 +323,9 @@ Secondly: Not to resolve disagreements will slow down the progress of the projec
 we can’t meet the deadline, which means the project will fail.
 
 Thirdly: Project members must have the same goals. cooperation is the key to success.
+We can resolve any disagreements through communication
 
 These are the reasons why disagreements must be resolved.
-(We can resolve any disagreements through communication)
 ```
 
 
