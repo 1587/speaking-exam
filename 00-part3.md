@@ -19,105 +19,6 @@ and Watch music performance on the website is cheaper than the music center,
 I only need to pay litte money for it.
 ```
 
-
-### 8.3	part3（5~7）(15+15+30)
-问题一：多久去一次健身房？和谁一起去？
-问题二：你比较喜欢什么时候去健身房？为什么 ）
-问题三：什么最影响你选择健身房？离家/公司近 器材质量  很多健身课的.
-
-```
-
-I usually go to the gym with my friend Jack ,and we go there twice a week.
-(The last time we went to the gym is yesterday.)
-
-I usually go there after dinner. 
-Because I am busy with my work, I have free time only after dinner.
-at that time, there are few people in the gym, i can use many equipment.
-
-I prefer with lots of fitness classes.
-because I am still a newbie/ˈnjuːbi/ about fitness,
-so I need to study how to use the equipment,how to exercise in the right way, 
-the coach will teach me, and point out my mistakes. the wrong way to work out is bad for our health.
-and I can study and discuss fitness experience with the fitness classmates.
-```
-
-
-### 6.3	part3（5~7）(15+15+30)
-1.	家乡呆了多长时间？ Where you lived before？How long did you lived there？
-2.	你现在呆的地方你最喜欢什么？Do you like to live in current place？Why？
-3.	如果你换了地方住，你最看重哪些点？为什么？If you want to change to another place，what is the most important？Why？
-
-My answer:
-
-```
-My hometown is a village in Anhui Province of China.
-I lived there for 20 years until I went to the college. 
-
-I live in Nanjing now, I like it ,
-because, it's public transportation is very convenient, it has a lot of bus stations and subway stations.
-It also have many museums. 
-
-
-If I moved to another place, convenience/kənˈviːniəns/ of life is the most important.
-The place must near the subway station. 
-that will save a lot of time and money on transportation/commuting.
-It’s better to have some supermarkets and hospitals cinemas around the new place. 
-that will improve the quality of my life.
-
-If I moved to another city, job chance is the most important.
-The city must provide many good job position.
-If there are many big companys in this city, i can change a good job, and get a high slary.
-and I don't have to worry about losing my current job. I can find another one easily.
-```
-
-
-
-### 4.3	part3（5~7）(15+15+30)
-1. 你上次买电脑是什么时候，为什么买？
-2. 你觉得电脑在线上卖的多还是线下卖的多？
-3. 你觉得电脑最重要的是什么?
-
-My answer:
-
-```
-I bought my computer over internet  last month, because the old one is broken, 
-my son need a computer to do some online learning. so I must buy a new one.
-
-I think computers are more sold online, because the price is cheaper online
-and I can easily get more information and customer comments about the computer.
-
-
-
-I think the most important thing is the quality.
-i am a software engineer, if the computer often broken，I can’t work efficiently, 
-and all my important information is store in the computer, such as my family photos , my musics and films.
-i can't lose them.
-so I think quality is the most important thing of computer
-```
-
-
-
-### 2.3 part3（5~7）(15+15+30)
-1. 什么时候离开hometown去城市的？你在hometown待了多长的时间
-2. 很多人离开家乡的原因是什么
-3. 一生在家乡长大的人的优势是啥
-
-My answer:
-
-```
-I lived in my hometown for 20 years (when I was born in a small village in Anhui Province). 
-I left my hometown about ten years ago when I need to go to college.
-
-Many people leave/liːv/ their hometown for many reasons, such as work,study or business. 
-I left my hometown for the education, there is no university in my hometown.
-
-People who have always lived in their hometown will easy to succeed.
-they live with their families, relatives and old friends, who will help them when they meet difficulties in life.
-and they don't need to rent or buy a house,  It costs/kɒsts/ very little to live. they will have more money to improve their self.
-such as study new skills.
-```
-
-
 ### 10.3	part3（5~7）(15+15+30)
 背景：一个公共汽车公司想要扩张，对你进行一个电话采访。
 1.上次啥时候乘坐公共汽车？独自乘坐的吗？
@@ -361,6 +262,106 @@ Because firstly, you don’t have TV everywhere, but you have your phone all the
 Secondly, you can’t search for specific news on TV. besides TV news are limited. 
 So I don’t think watching news on TV is a good option. 
 ```
+
+
+### 8.3	part3（5~7）(15+15+30)
+问题一：多久去一次健身房？和谁一起去？
+问题二：你比较喜欢什么时候去健身房？为什么 ）
+问题三：什么最影响你选择健身房？离家/公司近 器材质量  很多健身课的.
+
+```
+
+I usually go to the gym with my friend Jack ,and we go there twice a week.
+(The last time we went to the gym is yesterday.)
+
+I usually go there after dinner. 
+Because I am busy with my work, I have free time only after dinner.
+at that time, there are few people in the gym, i can use many equipment.
+
+I prefer with lots of fitness classes.
+because I am still a newbie/ˈnjuːbi/ about fitness,
+so I need to study how to use the equipment,how to exercise in the right way, 
+the coach will teach me, and point out my mistakes. the wrong way to work out is bad for our health.
+and I can study and discuss fitness experience with the fitness classmates.
+```
+
+
+### 6.3	part3（5~7）(15+15+30)
+1.	家乡呆了多长时间？ Where you lived before？How long did you lived there？
+2.	你现在呆的地方你最喜欢什么？Do you like to live in current place？Why？
+3.	如果你换了地方住，你最看重哪些点？为什么？If you want to change to another place，what is the most important？Why？
+
+My answer:
+
+```
+My hometown is a village in Anhui Province of China.
+I lived there for 20 years until I went to the college. 
+
+I live in Nanjing now, I like it ,
+because, it's public transportation is very convenient, it has a lot of bus stations and subway stations.
+It also have many museums. 
+
+
+If I moved to another place, convenience/kənˈviːniəns/ of life is the most important.
+The place must near the subway station. 
+that will save a lot of time and money on transportation/commuting.
+It’s better to have some supermarkets and hospitals cinemas around the new place. 
+that will improve the quality of my life.
+
+If I moved to another city, job chance is the most important.
+The city must provide many good job position.
+If there are many big companys in this city, i can change a good job, and get a high slary.
+and I don't have to worry about losing my current job. I can find another one easily.
+```
+
+
+
+### 4.3	part3（5~7）(15+15+30)
+1. 你上次买电脑是什么时候，为什么买？
+2. 你觉得电脑在线上卖的多还是线下卖的多？
+3. 你觉得电脑最重要的是什么?
+
+My answer:
+
+```
+I bought my computer over internet  last month, because the old one is broken, 
+my son need a computer to do some online learning. so I must buy a new one.
+
+I think computers are more sold online, because the price is cheaper online
+and I can easily get more information and customer comments about the computer.
+
+
+
+I think the most important thing is the quality.
+i am a software engineer, if the computer often broken，I can’t work efficiently, 
+and all my important information is store in the computer, such as my family photos , my musics and films.
+i can't lose them.
+so I think quality is the most important thing of computer
+```
+
+
+
+### 2.3 part3（5~7）(15+15+30)
+1. 什么时候离开hometown去城市的？你在hometown待了多长的时间
+2. 很多人离开家乡的原因是什么
+3. 一生在家乡长大的人的优势是啥
+
+My answer:
+
+```
+I lived in my hometown for 20 years (when I was born in a small village in Anhui Province). 
+I left my hometown about ten years ago when I need to go to college.
+
+Many people leave/liːv/ their hometown for many reasons, such as work,study or business. 
+I left my hometown for the education, there is no university in my hometown.
+
+People who have always lived in their hometown will easy to succeed.
+they live with their families, relatives and old friends, who will help them when they meet difficulties in life.
+and they don't need to rent or buy a house,  It costs/kɒsts/ very little to live. they will have more money to improve their self.
+such as study new skills.
+```
+
+
 
 
 
