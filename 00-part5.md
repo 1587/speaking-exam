@@ -37,9 +37,9 @@ All the above are my views/opinions.
 
 My answer:
 ``` 
-I think buy a house will reduce the quality of my life.
+I think buy a house will ** reduce the quality of my life. **
 I have some reasons as follows:
-Firstly, in china, the Housing price is too high, buy a house will cost too much money. 
+Firstly, in china, ** the Housing price is too high,** buy a house will cost too much money. 
 (I will have no enough money for education, travel, medical care, and take care of my parents. )
 I will be a mortgage/ˈmɔːɡɪdʒ/ slave.
 
