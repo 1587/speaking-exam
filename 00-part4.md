@@ -10,14 +10,13 @@
 My answer:
 
 ```
-You will Depart from Singapore[ˌsɪŋəˈpɔː] at 2:30 PM on June the 17th，
+You will Depart from Singapore[ˌsɪŋəˈpɔː] at 2:30 PM and landing on Sydney at 5:30 on June the 17th，
 the flight No. is Oceanic/ˌoʊʃiˈænɪk/ Air 18，
-you will landing on Sydney at 5:30 PM same day.
 
-No, I sorry, according for the itinerary /aɪˈtɪnəreri/,
+
+No, I sorry, according for the information
 You will be staying at sheraton Hotel. at 8:00 PM on Monday.
 
-Hello sir, Your return information is as follows. 
 You take a taxi from your hotel to the airport at 9:30 PM.
 Departure from Sydney at XX:XX PM on June 17th，the flight No. is Oceanic Air XX，
 you will landing on Singapore at XX:XX AM next day.
