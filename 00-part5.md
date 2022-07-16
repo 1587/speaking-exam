@@ -434,13 +434,12 @@ Firstly, good communication enable us to express our views clearly,
 and share our true thoughts with our colleagues. 
 we can find out the root cause of the problem through communication.
 
-Secondly, good communication enable us to think about other people's points of view, 
+Secondly, good communication enable us to Think about other people's opinions, 
 we can find our misstakes, which could be a risk of our project failture.  
 it is very important for our work. 
 
 Finally, good communication can make team members feel better, 
-which can makes our work efficiently.
-We don't blame each other, we don't fight. Teams are more likely to succeed.
+which can makes our work efficiently. Teams are more likely to succeed.
 
 The above reasons are why I think colleague communicate well is the most important.
 ```
