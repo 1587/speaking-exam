@@ -6,13 +6,23 @@
 画面右侧，一男一女两个年轻人从在一张小圆桌旁边聊天；
 背景建筑物前面，有一座白色雕塑（是否博物馆，可以看时间，用suppose或者guess比较好）
 
+key words
+
+```
+an old man is walking on the street
+a lady in red with short hair
+stood by the roadside
+sitting around a table
+a sculpture[ˈskʌlptʃə] before it
+```
+
 My answer1:
 
 ```
-This picture is taken on the street, there are 6 people in this picture. 
-On the left, a man and a woman are standing and talking. 
-In the middle, an old man in white is walking. 
-On the right, a man and a lady are sitting around a table and talking. 
+This picture is taken on the street with 6 people. 
+On the left, a lady in red with short hair is talking with a man in black, They stood by the roadside.
+In the middle, an old man in white is walking on the street. 
+On the right, a gentle man and a young lady are sitting around a table and talking. 
 In the background, there is a building, I can see a sculpture[ˈskʌlptʃə] before it.
 ```
 
