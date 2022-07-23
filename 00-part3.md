@@ -240,11 +240,15 @@ I am interested in sports news. Because I love sports , I watch sport news every
 Yes , I’d like to get online news alert, because  If there is any news, they will send me alert msg at once. it is very convenient.  
 
 I think watching news on TV is not good. 
-Because,watching news On TV is  not convenient, we can't search for interesting new from TV and can't send comments about the news, 
-Uh..
-Nowdays, Many people have no TV in their home,  They use smartphone or computer a lot.
+Because watching news On TV is  not convenient, 
+we can't search for interesting new from TV 
+can't send comments about the news,
+can't watching news in anytime and anywhere.
 
-So I don’t think watching news on TV is a good option. 
+Uh..
+Nowdays, Many people,Especially young people have no TV at their home,  They use smartphone or computer a lot.
+I like reading online comments and discussing with my friends  when I read news.
+
 ```
 
 
