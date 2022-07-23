@@ -187,13 +187,13 @@ My answer:
 I like to work with people who are serious. 
 There are some advantage of seriousness.
 
-Firstly: They work carefully. They usually don't make mistakes. 
-The project will be easy to succeed.
+Firstly: They usually work carefully and don't make mistakes. 
+projects are more likely to succeed.
 
-Secondly: You can communicate effectively with them，
-This saves a lot of time. Time is money.
+Secondly: You can communicate effectively with them，they often give you clear key points.
+This saves a lot of time. and as we know, Time is money.
 
-Thirdly: They often complete tasks on time, 
+Thirdly: They often complete tasks on time, we can meat the deadline in time.
 It is very important for the projects. 
 
 You should be serious at work, you can have a little humor in your life.
