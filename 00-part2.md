@@ -131,7 +131,7 @@ On the right side, next to the woman, a man in black suit is taking notes.
 My answer:
 
 ```
-The picture is taken in a house, there are 3 people in this picture. 
+The picture is taken in a house, there are a
 A girl in a black dress is lying on a chair and reading a book. 
 Next to her, a man in a red T-shirt is lying on another chair with a bottle of water in his hand. 
 Behind them,A man is walking in the room through the door.
@@ -145,8 +145,8 @@ My answer:
 
 ```
 The picture is taken in a chemistry Lab, 
-there are three people with white overalls/uniforms in this picture.
-In front of the picture, a man is standing near a table, 
+with three people in white uniforms.
+In the foreground, a man is standing near a table, 
 maybe he is preparing some chemicals for his research. 
 Behind him, A woman is opening a fridge to store chemicals. 
 Another girl is opening the door from outside.
