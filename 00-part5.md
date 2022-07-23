@@ -167,9 +167,17 @@ you will lose direction in life.
 thirdly: You will spend more time earning money and 
 you will have less time to enjoy life.
 
-so, we are happy, not because of money.
+we are happy, not because of money.
 Think about the past. When I was young, I had no money but I was very happy, 
 I had many classmates, many friends, many time, no troubles.
+
+so, friendship make people happy, but money can't buy real friendship.
+
+sometimes, too much money make people unhappy, you will lose direction in life, 
+
+and you must spend much time to earning money , have less time to enjoying life.
+
+now
  (We don't live for money. Money is not everything.)
 ```
 
