@@ -156,29 +156,21 @@ So, I think the success of a project requires risks.
 My answer:
 
 ```
-No, I don't think so.  Money doesn't mean happiness
+No, I don't think so.
 
-firstly: For example, friendship can make people happy,
-but money can't buy real friendship.
-
-secondly: Sometimes, too much money makes you unhappy,
-you will lose direction in life.
-
-thirdly: You will spend more time earning money and 
-you will have less time to enjoy life.
 
 we are happy, not because of money.
 Think about the past. When I was young, I had no money but I was very happy, 
 I had many classmates, many friends, many time, no troubles.
 
-so, friendship make people happy, but money can't buy real friendship.
-
-sometimes, too much money make people unhappy, you will lose direction in life, 
+so,we can see, for example, friendship make people happy, but money can't buy real friendship.
+ 
 
 and you must spend much time to earning money , have less time to enjoying life.
+in china, many software engineer work more than 12 hours a day to keep a high salary
+the more money they earn,the less happy they are.
 
-now
- (We don't live for money. Money is not everything.)
+therefore , money doesn't means happiness.
 ```
 
 
