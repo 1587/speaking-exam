@@ -20,7 +20,7 @@ My answer1:
 
 ```
 This picture is taken on the street with 6 people. 
-On the left, a lady in red with short hair is talking with a man in black, 
+On the left, a lady in red with short hair is talking with a man in black suit, 
 They stood by the roadside.
 In the middle, an old man in white is walking on the street. 
 On the right, a gentle man and a young lady are sitting around a table and talking. 
