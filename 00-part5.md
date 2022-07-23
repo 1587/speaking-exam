@@ -115,17 +115,20 @@ So, I think companies should do a lot to build a good reputation.
 My answer:
 
 ```
-Yes, I think the success of a project requires risks.
-firstly: Opportunities always come with risks, 
-and if we don't take any risks, we don't have any opportunity to success. 
 
-secondly: Risk means challenge, I like challenge, challenge makes the team stronger.
-we can 
 
-thirdly:  I've led a lot of projects, every project has risks,
-you need to resolve them and you'll have great success.
 
-So don't be afraid of the risks.
+
+Yes, I think the success of a project requires risk. 
+
+Opportunity is always accompanied by risk, 
+if we don't take any risk, we won't have any chance of success.
+and risk also means challenge, challenge makes the team stronger.
+
+I have led many projects, every project has risks, you need to solve them, you will achieve great success. 
+for example ,Microsoft,Apple,Google,these great companies have taken many big risks and achieved great success.
+
+So don't be afraid to take risks.
 
 ```
 
