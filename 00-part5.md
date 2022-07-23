@@ -115,10 +115,6 @@ So, I think companies should do a lot to build a good reputation.
 My answer:
 
 ```
-
-
-
-
 Yes, I think the success of a project requires risk. 
 
 Opportunity is always accompanied by risk, 
@@ -156,16 +152,11 @@ So, I think the success of a project requires risks.
 My answer:
 
 ```
-No, I don't think so.
-
-
-we are happy, not because of money.
+No, I don't think so, we are happy, not because of money.
 Think about the past. When I was young, I had no money but I was very happy, 
 I had many classmates, many friends, many time, no troubles.
-
 so,we can see, for example, friendship make people happy, 
 but money can't buy real friendship.
- 
 
 and to have more money, 
 you must spend much time makeing money, have less time enjoying life.
