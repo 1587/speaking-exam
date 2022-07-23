@@ -313,6 +313,24 @@ education background and related work experience ,which one more important and w
 My answer:
 
 ```
+it seems to me that it is more important to hire a employee
+with a lot of relevant work experience.
+
+that's because experience is important than education in many fields, 
+i think education just gives you general knowledge about certain things,
+but work experience means you know how to manage the specific things in your industry.
+
+for example,if you are in the position of dealing with customer complains,
+you can't learn through a textbook. 
+but when you get practical experience handing real complaints, 
+then you learn how to deal with customers more efficiently.
+
+that's why i think relevant work experience is more essential when hiring employees.
+
+```
+My answer:
+
+```
 I think work experience is more important than education background. 
 I have following reasons:
 firstly, if someone has a good education background, it means he did a good job on the exam. 
