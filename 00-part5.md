@@ -237,7 +237,7 @@ Uh..
 i can taste famous dishes of these cities.
 such as hot-pot in sichuan, oil noodles in shanxi, barbecue in heilongjiang.
 
-Uh..  nowdays, software projecta are too big, 
+Uh..  nowdays, software projects are too big, 
 We need a lot of people from different cities to work together.
 so, I can work with different colleagues in different cities, 
 Learn different knowledge and skills from them.
