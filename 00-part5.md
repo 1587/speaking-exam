@@ -128,20 +128,6 @@ So don't be afraid to take risks.
 
 ```
 
-My answer:
-
-```
-Yes, I think the success of a project requires risks. I have following reasons: 
-Firstly, if we want to succeed, we need to try new methods. 
-But when we try new things, we need to take risks. 
-For example, when I was developing a new program, I wanted to try a new way,
-but I was afraid that my boss wouldn’t like it. 
-However, I took the risk and tried. In the end, I made a great success. 
-Secondly, taking more risks will make the team stronger. 
-Because of risks, team members will be stronger and more resilient. 
-A stronger team has more chance of winning. 
-So, I think the success of a project requires risks.
-```
 
 
 
@@ -262,16 +248,20 @@ My answer:
 ``` 
 I like to exercise alone, there are some advantages.
 
-Firstly: I can listen to my favorite music when I exercise alone, music makes me feel good.
-i can do exercise efficiency.
+Firstly: I can listen to my favorite music when I exercise alone,
+music makes me feel good, i can do exercise efficiency.
 
-Secondly: I can do exercise when I am free, I just need to arrange my own time. 
+Uh.. 
+
+Secondly: I just need to arrange my own time. 
 I don't need to consider other people's time. 
+I can do exercise when I am free, 
 
+Uh.. 
 Thirdly: It's cheaper to exercise alone than in a group, 
-We don't need to rent a sports venus. such as basketball gym or football field.
+We don't need to rent a playground. such as football field.
 
-So, alone is better than group.
+So, exercise alone is better than in a group.
 ```
 
 
@@ -300,7 +290,7 @@ You'll be better than your classmates.
 Thirdly:  With the gap year, we can learn a new language or experience a new culture.
 
 At last, you can earn money through gap year, 
-then you can buy more equipment or online classes to improve your learning.
+then you can buy learning equipment that allows you to study more efficiently..
 
 So, I think a gap year is a better way to improve themselves.
 ```
@@ -319,10 +309,9 @@ education background and related work experience ,which one more important and w
 My answer:
 
 ```
-it seems to me that it is more important to hire a employee
-with a lot of relevant work experience.
+it seems to me that it is more important to hire a employee with a lot of relevant work experience.
 
-that's because experience is important than education in many fields, 
+That's because in many fields, experience is more important than education,
 i think education just gives you general knowledge about certain things,
 but work experience means you know how to manage the specific things in your industry.
 
@@ -334,36 +323,6 @@ then you learn how to deal with customers more efficiently.
 that's why i think relevant work experience is more essential when hiring employees.
 
 ```
-My answer:
-
-```
-I think work experience is more important than education background. 
-I have following reasons:
-firstly, if someone has a good education background, it means he did a good job on the exam. 
-But maybe he is not good at this job.  
-However, if someone has a work experience, then he knows how to do this job.
-Secondly, there are many good workers who didn’t graduate from college, but doing a good job. 
-Not everyone can go to college, but anyone can work hard to become a good employee.   
-Lastly, there are some important skills that you can’t learn at school. 
-For example, communication, teamwork and so on. But they can be learned at work place. 
-So, I think work experience is more important than education background. 
-```
-
-```
-Story telling:
-I think work experience is more important than education background.  
-I have following reasons:
-1.	You can’t learn some skills at school, for example communication and team work.
-When I was at school, I was not a very sociable person. I didn’t want to talk to others. 
-When I started working, I realized communication and team work is very important.
-So, you learn those important skills when you are working.
-2.	People from lower education background can become a great person. 
-For example, Bill gates didn’t graduate from school, but he build up a great company like Microsoft. 
-So education background is not so important, but how you work is important. 
-so, I think work experience is more important than education background.
-
-```
-
 
 ### 8.5	part5（11）(60)
 作为一个团队的leader 高效沟通是不是最重要的？为什么/为什么不？举证或者举例
