@@ -233,11 +233,10 @@ Tour guide can save our time, we will have more time to enjoy the tour.
 My answer:
 
 ```
-(Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, entertainment, and sport, as well as quirky or unusual events.)
+I am interested in sport news. Because I love sports , I watch sport news everyday. 
 
-I am interested in sports news. Because I love sports , I watch sport news everyday. 
-
-Yes , I’d like to get online news alert, because  If there is any news, they will send me alert msg at once. it is very convenient.  
+Yes , I’d like to get online news alert, 
+because  If there is any news, they will send me alert msg at once. it is very convenient.  
 
 I think watching news on TV is not good. 
 Because watching news On TV is  not convenient, 
@@ -246,8 +245,8 @@ can't send comments about the news,
 can't watching news in anytime and anywhere.
 
 Uh..
-Nowdays, Many people,Especially young people have no TV at their home,  They use smartphone or computer a lot.
-I like reading online comments and discussing with my friends  when I read news.
+Nowdays, Many people,Especially young people have no TV at their home, 
+They use smartphone or computer a lot.
 
 ```
 
@@ -344,8 +343,10 @@ Many people leave/liːv/ their hometown for many reasons, such as work,study or 
 I left my hometown for the education, there is no university in my hometown.
 
 People who have always lived in their hometown will easy to succeed.
-they live with their families, relatives and old friends, who will help them when they meet difficulties in life.
-and they don't need to rent or buy a house,  It costs/kɒsts/ very little to live. they will have more money to improve their self.
+they live with their families, relatives and old friends, 
+who will help them when they meet difficulties in life.
+and they don't need to rent or buy a house,  It costs/kɒsts/ very little to live.
+they will have more money to improve their self.
 such as study new skills.
 ```
 
