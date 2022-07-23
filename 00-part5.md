@@ -15,7 +15,7 @@ the quality of the country's education will be improved.
 
 i have some reasons as follows:
 
-firstly: students will have more money to buy study equipment,
+firstly: students will have more money to buy learning equipment,
 such as ipad, computer or smartphone. 
 they will study efficiently.
 
@@ -28,7 +28,7 @@ no matter his family is poor or rich.
 The more people go to college,
 the stronger the country will be and it's education will develop fast.
 
-All the above are my views/opinions.
+All the above are my opinions.
 ```
 
 ### 10.5	part5（11）(60)
