@@ -209,13 +209,14 @@ My answer:
 Yes, Of course, disagreements need to be resolved.
 
 The disagreement mean thatsome information is  still  unclear,
-Not to resolve disagreements will slow down the progress of the project. 
-we can’t meet the deadline, which means the project will fail.
+Not to resolve it, will slow down the progress of the project. 
+we may not meet the deadline, which means the project will fail.
 
-I have led many projects, every successfull project has disagreements , i just resolved them as quickly  as possible. 
+I have led many projects, every successfull project has disagreement, 
+i just resolved them as quickly as possible. 
 
 Project members must have the same goals. cooperation is the key to success.
-We can resolve any disagreements through communication
+We can resolve any disagreement through communication.
 
 These are the reasons why disagreements must be resolved.
 ```
@@ -229,20 +230,23 @@ My answer:
 
 ```
 I think there are some advantages as follows.
+I can travel and live in many different cities, 
+and experience different cultures. 
 
-Firstly: I can travel and live in many different cities, 
-I like travel to many places.
+Uh..  
+i can taste famous dishes of these cities.
+such as hot-pot in sichuan, oil noodles in shanxi, barbecue in heilongjiang.
 
-Secondly: I can work with different colleagues in different cities, 
-and study knowledge and skills from them.
+Uh..  nowdays, software projecta are too big, 
+We need a lot of people from different cities to work together.
+so, I can work with different colleagues in different cities, 
+Learn different knowledge and skills from them.
+I will be stronger, and get a high salary.
 
-Thirdly: nowdays, project is too big, 
-we need many people from many cities work together. 
+Uh...
 Above all is my views.
+
 ```
-
-
-
 
 
 
