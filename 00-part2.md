@@ -68,22 +68,24 @@ My answer:
 
 ```
 The picture is taken inside a building near the staircase.
-There are seven people in this picture. 
+
 In the middle, two men are walking up the staircase, 
-a lady and a man are picking up papers on the staircase. 
+behind them,
+a lady and a man are picking up papers on the bottom of the staircase. 
 On the right, a man and a woman are standing and talking.
 On the left, a man is walking and making a call.
-I think they are busy.
+I think they are busy with work. 
 ```
 
 ![image](https://user-images.githubusercontent.com/2299635/170911697-ff0cc890-86b8-42b8-9bf9-cdac0d58dad8.png)
 
 ```
-The picture is taken in a laboratory/ˈlæbrətɔːri/ , there are 4 people in this picture. 
-All of them are wearing white uniforms
-On the left, a man and a woman are sitting at a table and reading  books;
+The picture is taken in a laboratory/ˈlæbrətɔːri/ , with 4 people 
+ in white uniforms.
+On the left, a man and a woman are sitting at a table and reading some books;
 In the middle, a woman is opening the fridge and taking out a sample.
 On the right, there is woman is observing something through the microscope on the platform.
+i can see some lab tools in the background. 
 ```
 
 
