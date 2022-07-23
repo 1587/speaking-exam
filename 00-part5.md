@@ -197,6 +197,23 @@ Thirdly: They often complete tasks on time, we can meat the deadline in time.
 It is very important for the projects. 
 
 You should be serious at work, you can have a little humor in your life.
+
+
+
+I like to work with serious people. 
+There are some advantages to being serious. 
+First, they usually work hard and make no mistakes. P
+rojects are more likely to succeed. 
+
+Second: you can communicate effectively with them and 
+ethy will usually give you clear points. 
+This saves a lot of time. As we know, time is money.
+
+Third: They often complete tasks on time, and we can meet deadlines on time. 
+This is very important to the project. 
+
+You should take work seriously and you can have a sense of humor in life.
+
 ```
 
 
