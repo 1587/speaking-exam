@@ -52,8 +52,9 @@ My answer:
 ```
 The picture is taken outside  beside a beach, 
 In the middle, there is a small path with some chairs.
-a woman in white with long hair is walking on the path, two people are sitting on a chair.
-On the left, some people are relaxing on the beach, and a green flag is flying in the air.
+a woman in white with long hair is walking on the path.
+On the left, some people are relaxing on the beach,
+and a green flag is flying in the air.
 In the background I can see some sea birds in the sky , some trees,and a building. 
 it is a good place for people to have a good time.
 ```
