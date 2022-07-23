@@ -166,8 +166,8 @@ I had many classmates, many friends, many time, no troubles.
 so,we can see, for example, friendship make people happy, but money can't buy real friendship.
  
 
-and you must spend much time to earning money , have less time to enjoying life.
-in china, many software engineer work more than 12 hours a day to keep a high salary
+and to have more money, you must spend much time makeing money , have less time  enjoying life.
+in china, many software engineer work more than 12 hours a day to maintain a high salary
 the more money they earn,the less happy they are.
 
 therefore , money doesn't means happiness.
