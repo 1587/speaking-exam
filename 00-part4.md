@@ -221,7 +221,7 @@ please keep that in mind.
 ### 4.4	part4（8~10）(15+15+30) 题目是听的
 1. 会议什么时候举行，on Mondy  1月17日；地点是**Hall；
 2. xxx是6点开始吗？不是，5：30分；
-2. 对geogre bryant（布莱恩特）感兴趣：有两场 report，1 在6：15 ,2在…
+2. 对geogre[dʒɔːdʒ] bryant/ˈbraɪənt/（布莱恩特）感兴趣：有两场 report，1 在6：15 ,2在…
 
 My answer:
 
