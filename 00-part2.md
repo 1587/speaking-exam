@@ -97,11 +97,12 @@ i can see some lab tools in the background.
 My answer:
 
 ```
-The picture is taken on a yacht/ship, there are four people on the deck. 
+The picture is taken on a yacht/ship, with four people on the deck. 
 Two men are sitting in the chairs, one of them is playing mobile phone, 
 the other one in white shirt is sorting out his collar.
 Behind them, two people are standing and talking.
 In the background, I can see mountains and trees on the shore.
+
 ```
 
 图2：
@@ -110,7 +111,7 @@ In the background, I can see mountains and trees on the shore.
 My answer:
 
 ```
-The picture is taken in the office, there are 3 people in this picture. 
+The picture is taken in the office with 3 people.
 On the left side, a man in white suit is sitting at a table,
 there is a computer on his table.
 A woman in red suit with long hair is handing documents to him.
