@@ -163,11 +163,14 @@ we are happy, not because of money.
 Think about the past. When I was young, I had no money but I was very happy, 
 I had many classmates, many friends, many time, no troubles.
 
-so,we can see, for example, friendship make people happy, but money can't buy real friendship.
+so,we can see, for example, friendship make people happy, 
+but money can't buy real friendship.
  
 
-and to have more money, you must spend much time makeing money , have less time  enjoying life.
-in china, many software engineer work more than 12 hours a day to maintain a high salary
+and to have more money, 
+you must spend much time makeing money, have less time enjoying life.
+in china, many software engineer work more than 12 hours a day
+to maintain a high salary
 the more money they earn,the less happy they are.
 
 therefore , money doesn't means happiness.
