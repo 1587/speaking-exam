@@ -131,11 +131,12 @@ On the right side, next to the woman, a man in black suit is taking notes.
 My answer:
 
 ```
-The picture is taken in a house, there are a
-A girl in a black dress is lying on a chair and reading a book. 
+The picture is taken in a house.
+A lady in black dress is lying on a chair and reading a book. 
 Next to her, a man in a red T-shirt is lying on another chair with a bottle of water in his hand. 
-Behind them,A man is walking in the room through the door.
+Behind them,A man is coming into the room through the door.
 and there is a motorbike on the left.
+overall, it seemed like a lazy afteroon.
 ```
 
 图2：化学实验室里面有三个人，全部穿着白色工作服。在镜头前，是一个男生挨着桌子站着，好像在准备实验材料。背后可以看到一个女生正在打开冰箱，好像要存放化学物品。另外一个女生正在从外面开门进来
