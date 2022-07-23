@@ -88,26 +88,6 @@ What do you prefer? good supervisor? Good colleague? Or something else?
 My answer:
 
 ```
-
-It is fifteen minutes’ walk from my home to my office. I don't need to drive to work
-
-I prefer to go to work later. 
-Because I want to enjoy a good breakfast with my family 
-and work out for a while in the morning. / I like to sleep more.
-
-I prefer to go to work early.
-Because I like to see the morning sun when I go to work and enjoy the fresh air.
-
-I prefer good supervisor. 
-Because first of all, I can learn many things from him. 
-For example, working skills, communication skills and leadership and so on. 
-Secondly, a good supervisor will make good decisions.
-Good decisions will improve our work efficiency. 
-I have a very good supervisor, he is wise and experience, 
-we achieved great success because of his good decisions. 
-```
-
-```
 About 1000 meters, so I don't need to drive. 
 I like to go to work early. I need more time to learn some new knowledge.
 Good colleagues of course,
@@ -255,11 +235,15 @@ My answer:
 ```
 (Common topics for news reports include war, government, politics, education, health, the environment, economy, business, fashion, entertainment, and sport, as well as quirky or unusual events.)
 
-1.	I am interested in sports news. Because I love sports and I want to know what is happening. 
-2.	I’d like to get online news alert, because it is very convenient. If there is any news, they will send me alert immediately. I don’t have to search for it.  
-3.	I think watching news on TV is not good. 
-Because firstly, you don’t have TV everywhere, but you have your phone all the time. watching news with your phone is more convenient than watching on TV.
-Secondly, you can’t search for specific news on TV. besides TV news are limited. 
+I am interested in sports news. Because I love sports , I watch sport news everyday. 
+
+Yes , I’d like to get online news alert, because  If there is any news, they will send me alert msg at once. it is very convenient.  
+
+I think watching news on TV is not good. 
+Because,watching news On TV is  not convenient, we can't search for interesting new from TV and can't send comments about the news, 
+Uh..
+Nowdays, Many people have no TV in their home,  They use smartphone or computer a lot.
+
 So I don’t think watching news on TV is a good option. 
 ```
 
