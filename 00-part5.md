@@ -208,13 +208,13 @@ My answer:
 ```
 Yes, Of course, disagreements need to be resolved.
 
-Firstly: The disagreements mean that there is still some information unclear,
-which could be a project risk.
-
-Secondly: Not to resolve disagreements will slow down the progress of the project. 
+The disagreement mean thatsome information is  still  unclear,
+Not to resolve disagreements will slow down the progress of the project. 
 we can’t meet the deadline, which means the project will fail.
 
-Thirdly: Project members must have the same goals. cooperation is the key to success.
+I have led many projects, every successfull project has disagreements , i just resolved them as quickly  as possible. 
+
+Project members must have the same goals. cooperation is the key to success.
 We can resolve any disagreements through communication
 
 These are the reasons why disagreements must be resolved.
