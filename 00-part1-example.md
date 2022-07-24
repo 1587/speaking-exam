@@ -23,7 +23,12 @@ Call us now at 354-9082 to make a reservation.
 
 
 
+
+
+
+
 ```
+![image](https://user-images.githubusercontent.com/2299635/180642165-7eab13e8-0598-4347-9b8b-17c8e01e9a0a.png)
 
 
 
@@ -50,7 +55,47 @@ and receive a three-month trial membership,absolutely free!
 
 
 
+
+
+
+
+```
+![image](https://user-images.githubusercontent.com/2299635/180642108-2c9dd8b8-948a-4317-aadf-02df15b3d63d.png)
+
+
+
+
+
+## 案例3 MP3_2
+
+```
+Attention,passengers. Welcome aboard Comfort Airlines flight [9-0-9] bound
+for Washington,D.C.
+I' m Angela Connelly, your head flight attendant. 
+I want you to know that our state-of-the-art aircraft is designed with your comfort in mind.
+If you require a pillow , blanket, or any other items, please let one of our flight attendants know 
+by pressing the button located above your seat.
+Thank you for flying Comfort Airlines, and enjoy the flight.
 ```
 
 
-![Uploading image.png…]()
+
+```
+答案如下
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+![image](https://user-images.githubusercontent.com/2299635/180642085-9b13e099-0f13-4008-9597-db39cc4cc13c.png)
