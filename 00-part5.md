@@ -13,17 +13,17 @@ My answer:
 if the government pay the cost of university courses for all students,
 the quality of the country's education will be improved.
 
-i have some reasons as follows:
+i have some reasons below:
 
-firstly: students will have more money to buy learning equipment,
+first: students will have more money to buy learning equipment,
 such as ipad, computer or smartphone. 
 they will study efficiently.
 
-secondly: students will focus on their study,
+second: students will focus on their study,
 they don't worry about the money and don't spend much time on part-time job.
 they will have more time to learn knowledge.
 
-thirdly/ˈθɜːrdli/: It gives everyone a chance to go to college, 
+third: It gives everyone a chance to go to college, 
 no matter his family is poor or rich.
 The more people go to college,
 the stronger the country will be and it's education will develop fast.
@@ -38,20 +38,22 @@ All the above are my opinions.
 My answer:
 ``` 
 I think buy a house will  reduce the quality of my life.
-I have some reasons as follows:
-Firstly, in china, the Housing price is too high, buy a house will cost too much money. 
+I have some reasons below:
+
+First, in china, the Housing price is too high, buy a house will cost too much money. 
 (I will have no enough money for education, travel, medical care, and take care of my parents. )
 I will be a mortgage/ˈmɔːɡɪdʒ/ slave.
 
-Secondly, if I change my office to a place far from the house.
+Second, if I change my office to a place far from the house.
 I will spend more time on commute, (Especially when I move to another city.)
 it's not convenient.
 
-(thirdly, I need to maintain the house every year, I also have to pay building taxes/ˈbɪldɪŋ ˈtæksɪz/;
+(third, I need to maintain the house every year, I also have to pay building taxes/ˈbɪldɪŋ ˈtæksɪz/;
 it's a waste of money and time.)
 
-finally, if the neighbors/'nebəz/ are not good, i can't replace them. 
+final, if the neighbors/'nebəz/ are not good, i can't replace them. 
 so I think, renting a house is a good choice.
+
 all the above are my opinions.
 ```
 
@@ -62,21 +64,21 @@ all the above are my opinions.
 My answer:
 
 ```
-I don't think so. There are some reasons as follows.
+I don't think so. There are some reasons below.
 
-Firstly: The most important thing for your career is the job that's right for you, 
+First: The most important thing for your career is the job that's right for you, 
 not the first job, maybe the second one, the third one.
 
-Secondly: When I was an interviewer, I did not care about the interviewee's first job,
+Second: When I was an interviewer, I did not care about the interviewee's first job,
 I just care about their last job and their Work experience.
 
-Thirdly: People often change their jobs nowadays. If you don't like you first job, 
+Third: People often change their jobs nowadays. If you don't like you first job, 
 you should change it as soon as possible. (it is nothing.)
 
 (For example, When I graduated from college. My first job wasn't very good. 
 I just switched jobs, and now I'm doing really well.)
 
-For the above reasons, I think the first job is not that important.
+That‘s why I think the first job is not that important.
 ```
 
 
