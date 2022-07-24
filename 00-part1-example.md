@@ -99,3 +99,46 @@ Thank you for flying Comfort Airlines, and enjoy the flight.
 ```
 
 ![image](https://user-images.githubusercontent.com/2299635/180642085-9b13e099-0f13-4008-9597-db39cc4cc13c.png)
+
+
+
+## 案例4 MP3_2
+
+```
+Rock Radio is proud to present an hour-long interview with Collin Taylor,
+world-famous singer and songwriter.
+The interview will be broadcast live on Rock Radio,98.7,on March 18th at 7 P.M.
+We'll discuss the music industry/, Mr. Taylor's early career7, and his latest album.  
+After the interview, Mr. Taylor will be answering questions from listeners who call in.
+You won't want to miss this one. 7 P.M.,March 18th, on Rock Radio.
+```
+
+
+
+```
+答案如下
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+![image](https://user-images.githubusercontent.com/2299635/180642265-f3ca33fd-6549-4803-9ea8-ba3f47d9b355.png)
+
