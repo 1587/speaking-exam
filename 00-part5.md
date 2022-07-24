@@ -83,21 +83,21 @@ For the above reasons, I think the first job is not that important.
 
 
 
-### 13.5	part5（11）(60)
+### 13.5	part5（11）(60) 定稿
 当你获得一个公司的offer时，你是否同意需要考虑这个公司的reputation
 
 ``` 
 I think we need to think about the reputation of the company.
+There are some advantages below. 
 
-Firstly: If a company has a good reputation, 
+First: If a company has a good reputation, 
 it will have more business opportunities. Opportunity means money. 
-(the company could provide a very good slary for the staff.)
+(the company could provide a very good slary for their employees.)
+the employees will grow in the long run. 
+then, The company will develop very well. Become bigger and bigger.
 
-Secondly: (If a company has a good reputation,) the employees will grow in the long run. 
-then, company will develop very well. Become bigger and bigger.
-
-Thirdly: If a company has a bad reputation, its employees won't be loyal to it. 
-(they will leave the company one by one.) Sooner or later it will go bankrupt.
+Second: If a company has a bad reputation, The employees won't be loyal to it. 
+(they will leave the company one by one.) Sooner or later The company will go bankrupt.
 
 So, I think companies should do a lot to build a good reputation.
 
@@ -109,7 +109,7 @@ So, I think companies should do a lot to build a good reputation.
 
 
 
-### 15.5	part5（11）(60)
+### 15.5	part5（11）(60) 需修改
 成功是否需要冒险
 
 My answer:
@@ -124,7 +124,7 @@ and risk also means challenge, challenge makes the team stronger.
 I have led many projects, every project has risks, you need to solve them, you will achieve great success. 
 for example ,Microsoft,Apple,Google,these great companies have taken many big risks and achieved great success.
 
-So don't be afraid to take risks.
+So That's why I think the success of a project requires risk.
 
 ```
 
@@ -132,7 +132,7 @@ So don't be afraid to take risks.
 
 
 
-### 16.5	part5（11）(60)
+### 16.5	part5（11）(60) 定稿
 有钱就会快乐吗？请给出理由。
 
 My answer:
@@ -158,27 +158,28 @@ therefore , money doesn't means happiness.
 
 
 
-### 17.5	part5（11）(60)
+### 17.5	part5（11）(60) 定稿
 你更愿意跟哪种人工作：比较幽默 humourless 的人，还是比较严肃 seriousness 的人
 
 My answer:
 
 ```
-
-
 I like to work with serious people. 
-There are some advantages of serious people. 
-First, they usually work hard and make no mistakes. 
+There are some advantages below. 
+
+First, they usually work carefully and make no mistakes. 
 Projects are more likely to succeed. 
 
-Second: you can communicate effectively with them and 
-they will usually give you clear points. 
+Second: you can communicate efficiently with them and 
+they will usually give you key points. 
 This saves a lot of time. As we know, time is money.
 
-Third: They often complete tasks on time, and we can meet deadlines on time. 
-This is very important to the project. 
+Third: They often finish their tasks on time, and we can meet the deadlines on time. 
+This is very important to our project. 
 
 so we should be serious at work, and we can have a little humor in our life.
+
+That’s Why I like to work with serious people. 
 
 ```
 
@@ -186,7 +187,7 @@ so we should be serious at work, and we can have a little humor in our life.
 
 
 
-### 18.5	part5（11）(60)
+### 18.5	part5（11）(60) 需修改
 如果两个人在项目中出现分歧是要解决或是忽略？
 
 My answer:
@@ -194,9 +195,9 @@ My answer:
 ```
 Yes, Of course, disagreements need to be resolved.
 
-The disagreement mean thatsome information is  still  unclear,
+The disagreement means that, some information is  still  unclear,
 Not to resolve it, will slow down the progress of the project. 
-we may not meet the deadline, which means the project will fail.
+we may not meet the deadline,  the project will fail.
 
 I have led many projects, every successfull project has disagreement, 
 i just resolved them as quickly as possible. 
@@ -204,7 +205,7 @@ i just resolved them as quickly as possible.
 Project members must have the same goals. cooperation is the key to success.
 We can resolve any disagreement through communication.
 
-These are the reasons why disagreements must be resolved.
+That's  why I think disagreements must be resolved.
 ```
 
 
@@ -215,12 +216,13 @@ These are the reasons why disagreements must be resolved.
 My answer:
 
 ```
-I think there are some advantages as follows.
-I can travel and live in many different cities, 
+I think there are some advantages below.
+
+first：I can travel and live in many different cities, 
 and experience different cultures. 
 
 Uh..  
-i can taste famous dishes of these cities.
+i can eat famous dishes of these cities.
 such as hot-pot in sichuan, oil noodles in shanxi, barbecue in heilongjiang.
 
 Uh..  nowdays, software projects are too big, 
@@ -232,36 +234,39 @@ Learn different knowledge and skills from them.
 I will be stronger, and get a high salary.
 
 Uh...
-Above all is my views.
+Above all are my opinions.
 
 ```
 
 
 
 
-### 20.5	part5（11）(60)
+### 20.5	part5（11）(60) 定稿
 最后一题，是问你运动时喜欢一个人运动还是喜欢群体运动
 What are the advantages of exercising alone?
 
 My answer:
 
 ``` 
-I like to exercise alone, there are some advantages.
+I like to exercise alone, there are some advantages below.
 
-Firstly: I can listen to my favorite music when I exercise alone,
+First: I can listen to my favorite music when I exercise alone,
 music makes me feel good, i can do exercise efficiency.
 
 Uh.. 
-
-Secondly: I just need to arrange my own time. 
+Second: I just need to arrange my own time. 
 I don't need to consider other people's time. 
 I can do exercise when I am free, 
 
 Uh.. 
-Thirdly: It's cheaper to exercise alone than in a group, 
+Third: It's cheaper to exercise alone than in a group, 
 We don't need to rent a playground. such as football field.
 
-So, exercise alone is better than in a group.
+Uh..
+There are two fitness center in my company campus.
+I go there twice a week, and exercise alone is free.
+
+So, That's why I think exercise alone is better than in a group.
 ```
 
 
@@ -269,7 +274,7 @@ So, exercise alone is better than in a group.
 
 
 
-### 21.5	part5（11）(60)
+### 21.5	part5（11）(60) 定稿
 有兄弟认为：你认为高中生毕业后，在进入大学前 参加实习 有哪些好处
 也有认为是：如果高中毕业搞一年gap year，好处是什么
  
@@ -277,17 +282,17 @@ My answer:
 
 ``` 
 Yes, of cause.  student should have a gap year. 
-There are some advantages as follows.
+There are some advantages below.
 
-Firstly: You can get job experience in advance.
+First: You can get job experience in advance.
 then You will know clearly what you need to learn in college. 
 (You will focus on learning that knowledge)
 
-Secondly: You can learn things that you can't study in school. 
+Second: You can learn things that you can't study in school. 
 (You know more than your classmates. )
 You'll be better than your classmates.
 
-Thirdly:  With the gap year, we can learn a new language or experience a new culture.
+Third:  With the gap year, you can learn a new language or experience a new culture.
 
 At last, you can earn money through gap year, 
 then you can buy learning equipment that allows you to study more efficiently..
@@ -301,7 +306,7 @@ So, I think a gap year is a better way to improve themselves.
 
 
 
-### 22.5	part5（11）(60)
+### 22.5	part5（11）(60) 
 education background and related work experience ,which one more important and why
 你觉得对于一个新员工来说，是教育水平重要还是有相关经历重要（education or relevant work experience）
 描述一个你熟悉的工作，如果要招聘一个新人，是教育背景重要还是行业经验更重要，理由和例子。
@@ -309,46 +314,44 @@ education background and related work experience ,which one more important and w
 My answer:
 
 ```
-it seems to me that it is more important to hire a employee with a lot of relevant work experience.
+I think， have a lot of relevant work experience is more important when hire a employee.
 
 That's because in many fields, experience is more important than education,
-i think education just gives you general knowledge about certain things,
+I think education just gives you general knowledge about certain things,
 but work experience means you know how to manage the specific things in your industry.
 
 for example,if you are in the position of dealing with customer complains,
 you can't learn through a textbook. 
-but when you get practical experience handing real complaints, 
-then you learn how to deal with customers more efficiently.
+but when you get practical experience handing real complains, 
+then you learn how to deal with customer complains more efficiently.
 
-that's why i think relevant work experience is more essential when hiring employees.
+that's why i think relevant work experience is more important when hiring employees.
 
 ```
 
-### 8.5	part5（11）(60)
+### 8.5	part5（11）(60) 定稿同2
 作为一个团队的leader 高效沟通是不是最重要的？为什么/为什么不？举证或者举例
 
 ```
-yes ,i think good communication is the most important.
-I have some reasons as follows:
+Yes , I think communicate well is the most important. 
+there are some reasons as follows:
 
-Firstly, good communication enable us to express our views clearly, 
-(and share our true thoughts with our colleagues. )
-we can find out the root cause of the problem( through communication).
+First, colleague communicate well enable us to express our views clearly,
+and share our true thoughts with our colleagues. 
+we can find out the root cause of the problem through communication.
 
-Secondly, good communication enable us to think about other people's points of view, 
-we can find our misstakes, which could be a risk of our project.  
-(it is very important for our work. )
+Second, from communication we can get other people's opinions, 
+and find our misstakes of our tasks, which could be a risk of our project.  
 
-thirdly, good communication can make team members feel better, 
-which can makes our work efficiently. (and everyone will be happy.
-We don't blame each other, we don't fight.) Teams are more likely to succeed.
+Third, communicate well can make team members feel better, 
+which can makes our work efficiently. Team is more likely to succeed.
 
-The above reasons are why I think colleague communicate well is the most important.
+That's why I think  communicate well is the most important.
 ```
 
 
 
-### 6.5	part5（11）(60)
+### 6.5	part5（11）(60) 定稿
 现在的人和将来的人会比较健康，为什么？
 
 My answer:
@@ -356,55 +359,56 @@ My answer:
 ```
 According to my personal experience,
 I think people will be healthier in the future then they are now. 
-There are some reasons as follows:
+There are some reasons below:
 
-Firstly, Nowadays, People are paying more and more attention to their health.
-For example, my friends and  colleagues eat healthy foods, 
-do more exercises, such as running and playing footballs.
-most of them go to fitness center twice a week.
+First, Nowadays, People pay more and more attention to their health.
+For example, my friends and colleagues eat healthy food, 
+do more exercises/sports, such as running and playing football.
+most of them go to the fitness center twice a week.
 
-Secondly, medical technologies are improved.
-There are some new medical for more and more diseases /dɪˈziːzɪz/.
-many vaccines can keep us from getting sick.
+Second,  The Medical technology has been improved..
+There are  more and more new drugs for different diseases /dɪˈziːzɪz/.
+many vaccines can protect us from getting sick.
 
-Thirdly, People begin protecting the environment, 
+Third, People begin to protect the environment, 
 the environment of future will be better than now.
 
-To the reason above, I think people will be healthier in the future.
+That's why I think people will be healthier in the future.
+
+
 ```
 
 
 
 
-### 4.5	part5（11）(60)
+### 4.5	part5（11）(60) 定稿
 大题：如果你接到一个工作offer，你会和家里人family members 商量吗？ 和家人讨论的优点是什么？
 
 My answer(需要重新梳理):
 
 ```
-If I have a new offer, I will discuss with my family members, 
-There are some advantages as follows:
+If I have a new job offer, I will discuss with my family members, 
+There are some advantages below:
 
-Firstly: My parents have 20 years of working experience, 
-they can help me recognize the disadvantages of my new job.
-and  help me make the right choice.
+First: My parents have 20 years of work experience, 
+they can help me recognize the disadvantages of the new job.
+and help me make the right choice.
 
-Secondly: Change a jobs is a big deal for a family. 
-I must make good communications with them, they will feel better, 
+Second: Change a job is a big deal for a family. 
+I must make good communication with them, they will feel better, 
 we must respect each other.
 
-Thirdly: With family member's support we will work efficiently.
-New job may need to move to another city, or go abroad, or work overtime,
-we may spend less time with the family, and so on. 
+Third: With family member's support we will work efficiently.
+New job may need to move to another city, or go abroad, or work overtime,and so on. 
 we need their support.
 
-So I think we must discuss with my family members when I have a new offer.
+So I think we must discuss with my family members when I have a new job offer.
 ```
 
 
 
 
-### 2.5 part5（11）(60)
+### 2.5 part5（11）(60) 定稿
 你认为在就职一份新工作时   work hard willingness 还是 colleague communicate well更重要？-努力工作的意识和跟人相处、协作能力哪个更重要
 
 My answer1:
@@ -413,18 +417,17 @@ My answer1:
 I think colleague communicate well is the most important. 
 there are some reasons as follows:
 
-Firstly, good communication enable us to express our views clearly,
+First, colleague communicate well enable us to express our views clearly,
 and share our true thoughts with our colleagues. 
 we can find out the root cause of the problem through communication.
 
-Secondly, good communication enable us to Think about other people's opinions, 
-we can find our misstakes, which could be a risk of our project failture.  
-it is very important for our work. 
+Second, from communicate we can get other people's opinions, 
+and find our misstakes of our tasks, which could be a risk of our project.  
 
-Finally, good communication can make team members feel better, 
-which can makes our work efficiently. Teams are more likely to succeed.
+Third, communicate well can make team members feel better, 
+which can makes our work efficiently. Team is more likely to succeed.
 
-The above reasons are why I think colleague communicate well is the most important.
+That's why I think colleague communicate well is the most important.
 ```
 
 
