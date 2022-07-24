@@ -142,3 +142,41 @@ You won't want to miss this one. 7 P.M.,March 18th, on Rock Radio.
 ```
 ![image](https://user-images.githubusercontent.com/2299635/180642265-f3ca33fd-6549-4803-9ea8-ba3f47d9b355.png)
 
+
+
+
+## 案例5 MP3_2
+
+```
+Hello.Thank you for calling Larson's Computer Repair Center.
+We are currently closed.Our opening hours are from 9 A.M. to 5 P.M. every day except on national holidays.
+If you have an urgent inquiry about our services, please leave your name, number and a short message after the beep. 
+One of our customer representatives will get back to you promptly in the morning.
+For all other queries,please call back during business hours or check our website at www.larsonrepairs.com
+Thank you.
+```
+
+```
+答案如下
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+![image](https://user-images.githubusercontent.com/2299635/180642404-b455373e-4d63-4113-a195-2511c70d71ab.png)
