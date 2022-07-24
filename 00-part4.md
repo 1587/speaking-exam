@@ -383,3 +383,31 @@ example2:
 
 ![image](https://user-images.githubusercontent.com/2299635/180630374-c48635b1-6622-4950-a348-a474694c96b8.png)
 
+
+
+example3
+
+```
+
+```
+![image](https://user-images.githubusercontent.com/2299635/180630435-e50c6075-2ab9-4278-92fb-04a5bb42cf3c.png)
+![image](https://user-images.githubusercontent.com/2299635/180630447-7919066d-0366-4059-bb93-a149a1cbdf58.png)
+
+7. ![image](https://user-images.githubusercontent.com/2299635/180630453-03046815-1c58-4610-a0ba-2b75ab6b7fd2.png)
+8.![image](https://user-images.githubusercontent.com/2299635/180630461-9fb7597b-0452-42f9-b0f3-2b13e291bc0f.png)
+9. ![image](https://user-images.githubusercontent.com/2299635/180630469-406c84ac-1654-4c73-a2d9-96102f43b6e8.png)
+
+
+```
+
+
+
+
+
+
+```
+
+
+
+![image](https://user-images.githubusercontent.com/2299635/180630478-636500d3-45e2-46b8-b79e-b5a0e8055dac.png)
+
