@@ -180,3 +180,45 @@ Thank you.
 ```
 
 ![image](https://user-images.githubusercontent.com/2299635/180642404-b455373e-4d63-4113-a195-2511c70d71ab.png)
+
+
+## 案例6 mini test MP3_7
+
+```
+The Eagleton Hotel is proud to announce the completion of its new Convention
+Center. With advanced audio-visual equipment, dining facilities, and plenty of
+space, it's the perfect location for any corporate event. To reserve the Eagleton
+Hotel Convention Center, simply call one of our friendly customer service agents
+at 1-800-555-0035. You can also arrange a tour of the facilities with the center
+manager,Lisa Cambell.Call today!
+```
+
+```
+Welcome to the Alto Motors factory tour. My name is Jimmy Saunders, and I'll
+be showing you around the facility today. On the tour, you'll learn all about how
+our award-winning automobiles are manufactured. We'll begin here in the design
+department, where skilled technicians come up with all the design specifications
+for our vehicles. I'll lead you through the department, and then we'll actually have
+the opportunity to speak with one of the technicians that works here.
+```
+
+## 案例7 mini test MP3_8
+
+``
+Attention, passengers.We'll be landing in Los Angeles in about 20 minutes.
+Please put all bags in the overhead compartments, under the seat in front of
+you, or give them to a flight attendant for safe storage. I'll be coming around to
+take any trash or other items you no longer need. If you need information on a
+connecting flight, please see our agent at the gate in Los Angeles. On behalf of
+myself and the rest of the crew, thank you for flying Tyson Air, and have a great
+day.
+``
+
+``
+We here at WXLY radio station apologize for the interruption to the program Dana
+White's News Hour.We seem to be having a problem with the transmitter at our
+local broadcast station. Our repair technicians are already on the job, and I'm
+sure they'll have the problem fixed in no time. As soon as they do, we'll continue
+with more of your favorite news programming on Dana White's News Hour. Please
+stay with us.
+``
