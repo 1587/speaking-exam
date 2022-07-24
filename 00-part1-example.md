@@ -204,7 +204,7 @@ the opportunity to speak with one of the technicians that works here.
 
 ## 案例7 mini test MP3_8
 
-``
+```
 Attention, passengers.We'll be landing in Los Angeles in about 20 minutes.
 Please put all bags in the overhead compartments, under the seat in front of
 you, or give them to a flight attendant for safe storage. I'll be coming around to
@@ -212,13 +212,13 @@ take any trash or other items you no longer need. If you need information on a
 connecting flight, please see our agent at the gate in Los Angeles. On behalf of
 myself and the rest of the crew, thank you for flying Tyson Air, and have a great
 day.
-``
+```
 
-``
+```
 We here at WXLY radio station apologize for the interruption to the program Dana
 White's News Hour.We seem to be having a problem with the transmitter at our
 local broadcast station. Our repair technicians are already on the job, and I'm
 sure they'll have the problem fixed in no time. As soon as they do, we'll continue
 with more of your favorite news programming on Dana White's News Hour. Please
 stay with us.
-``
+```
