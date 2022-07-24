@@ -329,18 +329,16 @@ Second, you can help to search volunteers for the day of Caterer
 ## example1:
 
 ![image](https://user-images.githubusercontent.com/2299635/180629938-fcd541cc-aba3-4613-b424-c8e9c3662273.png)
-![image](https://user-images.githubusercontent.com/2299635/180630191-b05e29d4-6d56-4bd9-b262-f8b6b5cd54aa.png)
 ![image](https://user-images.githubusercontent.com/2299635/180630535-9f0f7a6c-b70e-4985-a545-8dc5bb800312.png)
 
 ```
-7. where is the event being held this year and what time does it start?
 
-
-9. I heard Ruth Miller is making the opening speech this year. is this correct?
-
-
-11. My students will have to leave the festival after lunch to participate in another class. 
-   what parts of the afternoon program are they likely to miss?
+   
+   
+   
+   
+   
+   
    
    
    
@@ -368,13 +366,15 @@ Second, you can help to search volunteers for the day of Caterer
 
 ```
 
-```
-7. ![image](https://user-images.githubusercontent.com/2299635/180630345-d6db0ea9-7a00-4dd5-be6b-edbaa4cf9dd7.png)
-8. ![image](https://user-images.githubusercontent.com/2299635/180630354-d4f3e181-ee87-4b0c-88bd-b27515970d13.png)
-9. ![image](https://user-images.githubusercontent.com/2299635/180630359-4e70d2ca-4340-4d8c-90e3-b747020b8bed.png)
 
 
-```
+
+
+
+
+
+
+
 
 
 
@@ -396,12 +396,11 @@ Second, you can help to search volunteers for the day of Caterer
 ![image](https://user-images.githubusercontent.com/2299635/180630435-e50c6075-2ab9-4278-92fb-04a5bb42cf3c.png)
 ![image](https://user-images.githubusercontent.com/2299635/180630447-7919066d-0366-4059-bb93-a149a1cbdf58.png)
 
-7. ![image](https://user-images.githubusercontent.com/2299635/180630453-03046815-1c58-4610-a0ba-2b75ab6b7fd2.png)
-8.![image](https://user-images.githubusercontent.com/2299635/180630461-9fb7597b-0452-42f9-b0f3-2b13e291bc0f.png)
-9. ![image](https://user-images.githubusercontent.com/2299635/180630469-406c84ac-1654-4c73-a2d9-96102f43b6e8.png)
-
-
 ```
+
+
+
+
 
 
 
