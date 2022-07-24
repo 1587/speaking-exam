@@ -322,3 +322,24 @@ Q10:I remember that it will take senior citizen's ball, can I still help where?
 A10：First, you can help to sent out the invitation on Monday
 Second, you can help to search volunteers for the day of Caterer
 ```
+
+
+
+
+example1:
+
+![image](https://user-images.githubusercontent.com/2299635/180629938-fcd541cc-aba3-4613-b424-c8e9c3662273.png)
+
+
+7. where is the event being held this year and what time does it start?
+
+
+9. I heard Ruth Miller is making the opening speech this year. is this correct?
+
+
+11. My students will have to leave the festival after lunch to participate in another class. 
+   what parts of the afternoon program are they likely to miss?
+   
+   
+   ![image](https://user-images.githubusercontent.com/2299635/180630106-3f477adc-6485-404c-b250-e0ec72682640.png)
+
