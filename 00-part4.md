@@ -526,4 +526,11 @@ Second, you can help to search volunteers for the day of Caterer
 ![image](https://user-images.githubusercontent.com/2299635/180630700-eac89ba4-e6d8-44bd-ab2f-99f42c0ef86b.png)
 ![image](https://user-images.githubusercontent.com/2299635/180630770-4efde4c2-3ccf-40f0-a26d-d8ff5da1e88b.png)
 
-
+```
+beginner's swimming is in june
+soccer skills is in july
+track and filed is in august
+they are all from 10 am to 1 pm on mondays and wednesdays.
+each course costs 30 dollars,
+and current health records are required.
+```
