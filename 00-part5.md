@@ -112,21 +112,21 @@ So, I think companies should do a lot to build a good reputation.
 
 
 ### 15.5	part5（11）(60) 需修改
-成功是否需要冒险
+成功(professional success)是否需要冒险
 
 My answer:
 
 ```
-Yes, I think the success of a project requires risk. 
+Yes, I think professional success requires risk. 
 
 Opportunity is always accompanied by risk, 
 if we don't take any risk, we won't have any chance of success.
 and risk also means challenge, challenge makes the team stronger.
 
-I have led many projects, every project has risks, you need to solve them, you will achieve great success. 
+I have led many projects, every project has risks, you need to resolve them, you will achieve great success. 
 for example ,Microsoft,Apple,Google,these great companies have taken many big risks and achieved great success.
 
-So That's why I think the success of a project requires risk.
+So That's why I think the professional success requires risk.
 
 ```
 
