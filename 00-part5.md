@@ -114,6 +114,9 @@ So, I think companies should do a lot to build a good reputation.
 ### 15.5	part5（11）(60) 需修改
 成功(professional success)是否需要冒险
 
+```
+Some people believe that success in life comes from taking risks or chances. Others believe that success results from careful planning. In your opinion, what does success come from? Use specific reasons and examples to support your answer.
+```
 My answer:
 
 ```
