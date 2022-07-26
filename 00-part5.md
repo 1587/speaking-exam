@@ -111,7 +111,7 @@ So, I think companies should do a lot to build a good reputation.
 
 
 
-### 15.5	part5（11）(60) 需修改
+### 15.5	part5（11）(60) 定稿
 成功(professional success)是否需要冒险
 
 ```
@@ -122,12 +122,17 @@ My answer:
 ```
 Yes, I think professional success requires risk. 
 
-Opportunity is always accompanied by risk, 
-if we don't take any risk, we won't have any chance of success.
-and risk also means challenge, challenge makes the team stronger.
+Opportunity is always come wit risk, 
+if we don't take any risk, we have no chance of success.
 
-I have led many projects, every project has risks, you need to resolve them, you will achieve great success. 
-for example ,Microsoft,Apple,Google,these great companies have taken many big risks and achieved great success.
+and risk also means challenge, challenge makes the team stronger which will make it easier for us to succeed.
+
+I have led many projects, every project has risks, you need to resolve them. 
+for example, in our company, we discuss risks through weekly meeting 
+to Make sure everyone is think about how to resolve the project risks,
+and end up our projects are all successful.
+
+Think about Microsoft,Apple,Google, these great companies have taken many big risks and achieved great success.
 
 So That's why I think the professional success requires risk.
 
@@ -192,7 +197,7 @@ That’s Why I like to work with serious people.
 
 
 
-### 18.5	part5（11）(60) 需修改
+### 18.5	part5（11）(60) 定稿
 如果两个人在项目中出现分歧是要解决或是忽略？
 
 My answer:
@@ -204,11 +209,14 @@ The disagreement means that, some information is  still  unclear,
 Not to resolve it, will slow down the progress of the project. 
 we may not meet the deadline,  the project will fail.
 
+Project members must have the same goals. cooperation is the key to success.
+We can resolve any disagreement through communication.
+
 I have led many projects, every successfull project has disagreement, 
 i just resolved them as quickly as possible. 
 
-Project members must have the same goals. cooperation is the key to success.
-We can resolve any disagreement through communication.
+for example, in our company, we discuss disagreements through weekly meeting.
+Make sure everyone is on the same page, our projects are all successful.
 
 That's  why I think disagreements must be resolved.
 ```
