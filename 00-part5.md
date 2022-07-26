@@ -1,5 +1,5 @@
 
-### 11.5	part5（11）(60)
+### 11.5	part5（11）(60) 定稿
 政府为所有学生承担大学课程费用的好处，举例支撑你的观点：
 The advantages of pay the cost of university course for all students, pls give some examples to support it.
 提供免费大学教育的优点包括：
@@ -31,7 +31,7 @@ the stronger the country will be and it's education will develop fast.
 All the above are my opinions.
 ```
 
-### 10.5	part5（11）(60)
+### 10.5	part5（11）(60)定稿
 问自己有一套房子或者公寓与租房的相比缺点是什么
 买房子对比租房子的缺点，并描述认为是缺点的理由。
 
@@ -58,7 +58,7 @@ all the above are my opinions.
 ```
 
 
-### 12.5	part5（11）(60) 
+### 12.5	part5（11）(60) 定稿
 有些人觉得人毕业后的第一份工作对他或她的后续职业有很大影响，你认可还是不认可，为什么？
 
 My answer:
@@ -223,7 +223,7 @@ That's  why I think disagreements must be resolved.
 
 
 
-### 19.5	part5（11）(60)
+### 19.5	part5（11）(60)定稿
 请说明一下在一个公司的多处不同城市工作的好处
 
 My answer:
@@ -247,6 +247,8 @@ Learn different knowledge and skills from them.
 I will be stronger, and get a high salary.
 
 Uh...
+My company has many branchs in different citis, I had traval many citis , such as beijing/shanghai/shenzhen/xian.
+I met many new friends. that's very helpful for me.
 Above all are my opinions.
 
 ```
@@ -320,7 +322,7 @@ So, I think a gap year is a better way to improve themselves.
 
 
 
-### 22.5	part5（11）(60) 
+### 22.5	part5（11）(60) 定稿
 education background and related work experience ,which one more important and why
 你觉得对于一个新员工来说，是教育水平重要还是有相关经历重要（education or relevant work experience）
 描述一个你熟悉的工作，如果要招聘一个新人，是教育背景重要还是行业经验更重要，理由和例子。
@@ -337,7 +339,7 @@ but work experience means you know how to manage the specific things in your ind
 for example,if you are in the position of dealing with customer complains,
 you can't learn through a textbook. 
 but when you get practical experience handing real complains, 
-then you learn how to deal with customer complains more efficiently.
+then you will learn how to deal with customer complains more efficiently.
 
 that's why i think relevant work experience is more important when hiring employees.
 
