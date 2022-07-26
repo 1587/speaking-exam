@@ -306,6 +306,7 @@ Second: You can learn things that you can't study in school.
 You'll be better than your classmates.
 
 Third:  With the gap year, you can learn a new language or experience a new culture.
+and meet some new friends.
 
 At last, you can earn money through gap year, 
 then you can buy learning equipment that allows you to study more efficiently..
