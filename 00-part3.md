@@ -12,9 +12,15 @@ I like the Chinese musician[mjuːˈzɪʃən] LangLang, he palys classical music 
 Usually, I choose music from internet. like youtube  /ˈjuːtuːb/ , apple music.
 i can see other people' comments about the music.
 
+
+
+
 I like to listen to music by my iphone when i am free.
-Because I am very busy with work and I don't have much time to go to the music center.
-It is very convenient by iphone, I can listen to music anywhere. on the bus, on the subway.
+
+Because It is very convenient by iphone, 
+I am very busy with work and I don't have much time to go to the music center.
+I can listen to music anywhere by phone. 
+
 and Watch music performance on the website is cheaper than the music center, 
 I only need to pay litte money for it.
 ```
@@ -36,7 +42,13 @@ usually, bus tickets are very cheap,( and I don't have to worry about where to p
 Taking public transport will protect the environment and Reduce the risk of traffic jams.
 (taking a bus is safer than driving. There are a lot of car accidents every year.)
 ```
-
+口述版本
+```
+yes i will, there are some advantages as below.
+first ,it is very convenient, there are many bus stations around my neighborhood, i can take a bus go around anywhere of my city.
+second, bus tickets are very cheap, half a dollor each, i can save much money.
+third, taking public transport will protect the environment.
+```
 
 ### 12.3	part3（5~7）(15+15+30)
 1、	你用这个手机多长时间，用的频率
