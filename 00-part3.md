@@ -100,17 +100,21 @@ What do you prefer? good supervisor? Good colleague? Or something else?
 My answer:
 
 ```
-About 1000 meters, so I don't need to drive. 
-I like to go to work early. I need more time to learn some new knowledge.
-Good colleagues of course,
-Firstly: I can learn knowledge from them, that would improve myself.
-Secondly: We can help each other and we will work more efficiently.
-Thirdly: if we have good colleagues, we will feel happier when we are working.
+my office is far from my home About 1000 meters, so I don't need to drive. 
+
+I prefer to go to work earlier.
+because I need more time to learn some new knowledge.
+
+i prefer work with good colleges. there are some advantages as below.
+First: I can learn knowledge and work skills from them. than i will work efficiently.
+Second: We can help each other and when i meet difficulties, they can help me,
+they often have more work experience.
+
 ```
 
 
 
-### 16.3	part3（5~7）(15+15+30)
+### 16.3	part3（5~7）(15+15+30) 
 1. 怎么判断纪念品的质量？
 2. 你所住的地方最受欢迎的纪念品是什么，为什么？
 3. 你会在网上购买吗，为什么（你会在网上买纪念品吗？）
