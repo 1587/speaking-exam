@@ -34,7 +34,8 @@ I only need to pay litte money for it.
 ```
 The last time I taken a bus is last week. I went to the supermark with my wife.
 
-I will take the bus if The bus can reach My destination. I like public transportion, It is very convenient.
+I will take the bus if The bus can reach My destination. 
+I like public transportion, It is very convenient.
 
 Yes ,I will. 
 There are many bus stations around my neighborhood, I can take a bus go around anywhere of my city.
@@ -45,7 +46,8 @@ Taking public transport will protect the environment and Reduce the risk of traf
 口述版本
 ```
 yes i will, there are some advantages as below.
-first ,it is very convenient, there are many bus stations around my neighborhood, i can take a bus go around anywhere of my city.
+first ,it is very convenient, there are many bus stations around my neighborhood, 
+i can take a bus go around anywhere of my city.
 second, bus tickets are very cheap, half a dollor each, i can save much money.
 third, taking public transport will protect the environment.
 ```
