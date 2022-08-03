@@ -38,7 +38,7 @@ I will take the bus if The bus can reach My destination.
 I like public transportion, It is very convenient.
 
 Yes ,I will. 
-There are many bus stations around my neighborhood, I can take a bus go around anywhere of my city.
+because There are many bus stations around my neighborhood, I can take a bus go around anywhere of my city.
 usually, bus tickets are very cheap,( and I don't have to worry about where to park.)
 Taking public transport will protect the environment and Reduce the risk of traffic jams.
 (taking a bus is safer than driving. There are a lot of car accidents every year.)
