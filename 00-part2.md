@@ -424,6 +424,7 @@ We can also see some trees in the distance.
 在一个仓库里面，两个人，很多货物，很多架子，两台车。左边一个带着蓝色安全帽的黑人女人正在推一个小车（小车上有一个纸盒和两个塑料箱），右边一个带着蓝色安全帽的男人正在操作叉车,后面是货架，有很多货物在上面，天花板上有灯。
 
 ![image](https://user-images.githubusercontent.com/2299635/171656097-704a6998-3590-4ac2-bc40-b7b4741001ab.png)
+![image](https://user-images.githubusercontent.com/2299635/183237464-9230aa32-dd79-4150-91b3-9f4120d3ae22.png)
 
 My answer:
 
@@ -462,6 +463,7 @@ and there are many goods on the shelves
 两人-1女1男，三辆car，一辆自行车。女的蹲地上做着什么（开锁吧），白色衬衣男正准备打开汽车门。路的另外一边有两辆车，还有很多树
 
 ![image](https://user-images.githubusercontent.com/2299635/171654890-ca978991-b859-4328-87f8-2705526ebd75.png)
+![image](https://user-images.githubusercontent.com/2299635/183237441-8135e375-31c0-496d-9e5d-a116a17cfbc0.png)
 
 My answer:
 
