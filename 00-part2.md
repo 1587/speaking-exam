@@ -6,38 +6,18 @@
 画面右侧，一男一女两个年轻人从在一张小圆桌旁边聊天；
 背景建筑物前面，有一座白色雕塑（是否博物馆，可以看时间，用suppose或者guess比较好）
 
-key words
-
-```
-an old man is walking on the street
-a lady in red with short hair
-stood by the roadside
-sitting around a table
-a sculpture[ˈskʌlptʃə] before it
-```
 
 My answer1:
 
 ```
 This picture is taken on the street with 6 people. 
-On the left, a lady in red with short hair is talking with a man in black suit, 
-They stood by the roadside.
-In the middle, an old man in white is walking on the street. 
+On the left, a woman and a man are standing by the roadside and talking.
+In the middle, a man is walking on the street. 
 On the right, a gentle man and a young lady are sitting around a table and talking. 
-In the background, there is a building, 
+In the background, there is a building, maybe it is a muesum,
 I can see a sculpture[ˈskʌlptʃə] before it.
 ```
 
-My answer2:
-
-```
-This picture is taken on the street, there are 6 people in this picture. 
-On the left side, a woman with short hair and a man in black are standing and talking. 
-In the middle of picture, an old man in white is walking on the street. 
-On the right, a gentleman and a lady are sitting around a table and talking. 
-In the background, there is a building, maybe it is a museum. 
-And I can see a sculpture[ˈskʌlptʃə] before it.
-```
 
 图二
 近景：一条路，两边有椅子，中间有女士走过来（忘了几个，穿白衣）；
@@ -50,12 +30,16 @@ And I can see a sculpture[ˈskʌlptʃə] before it.
 My answer:
 
 ```
-The picture is taken outside  beside a beach, 
-In the middle, there is a small path with some chairs.
-a woman in white with long hair is walking on the path.
+The picture is taken outside on a beach.
+
+In the middle, there is a small road with some chairs.
+two people are walking  and a man is sitting on the chair.
+
 On the left, some people are relaxing on the beach,
-and a green flag is flying in the air.
+i can see a green flag is flying in the air.
+
 In the background I can see some sea birds in the sky , some trees,and a building. 
+
 it is a good place for people to have a good time.
 ```
 
@@ -69,25 +53,29 @@ My answer:
 ```
 The picture is taken inside a building near the staircase.
 
-In the middle, two men are walking up the staircase, 
-behind them,
-a lady and a man are picking up papers on the bottom of the staircase. 
-On the right, a man and a woman are standing and talking.
 On the left, a man is walking and making a call.
+
+In the middle, two people are walking up the staircase, 
+behind them, a lady and a man are picking up papers on the staircase. 
+
+On the right, a man and a woman are standing and talking.
+
 I think they are busy with work. 
 ```
 
 ![image](https://user-images.githubusercontent.com/2299635/170911697-ff0cc890-86b8-42b8-9bf9-cdac0d58dad8.png)
 
 ```
-The picture is taken in a laboratory/ˈlæbrətɔːri/ , with 4 people 
- in white uniforms.
+The picture is taken in a laboratory/ˈlæbrətɔːri/ , with 4 people in white uniforms.
+
 On the left, a man and a woman are sitting at a table and reading some books;
+
 In the middle, a woman is opening the fridge and taking out a sample.
+
 On the right, there is woman is observing something through the microscope on the platform.
+
 i can see some lab tools in the background. 
 ```
-
 
 
 ### 12.2	part2（3 ~ 4）(30+30) 6~8个句子
@@ -97,10 +85,13 @@ i can see some lab tools in the background.
 My answer:
 
 ```
-The picture is taken on a yacht/ship, with four people on the deck. 
-Two men are sitting in the chairs, one of them is playing mobile phone, 
-the other one in white shirt is sorting out his collar.
+The picture is taken on a ship, with four people on the deck. 
+
+Two men are sitting in the chairs, one of them is playing smart phone, 
+the other one is sorting out his clothing.
+
 Behind them, two people are standing and talking.
+
 In the background, I can see mountains and trees on the shore.
 
 ```
@@ -118,11 +109,6 @@ A woman in red suit with long hair is handing documents to him.
 On the right side, next to the woman, a man in black suit is taking notes.
 ```
 
-
-
-
-
-
 ### 13.2	part2（3 ~ 4）(30+30) 6~8个句子
 图1：
 一个穿黑色裙的女生躺在椅子上看书，挨着他的是一个穿红色T恤的男人躺在椅子上，手里端着一瓶水。背后可以看到一个人，站着门的中间。左侧可以看到一辆摩托车。
@@ -132,10 +118,14 @@ My answer:
 
 ```
 The picture is taken in a house.
+
 A lady in black dress is lying on a chair and reading a book. 
-Next to her, a man in a red T-shirt is lying on another chair with a bottle of water in his hand. 
+Next to her, a man in red T-shirt is lying on another chair. 
+
 Behind them,A man is coming into the room through the door.
+
 and there is a motorbike on the left.
+
 overall, it seemed like a lazy afteroon.
 ```
 
@@ -147,23 +137,15 @@ My answer:
 ```
 The picture is taken in a chemistry Lab, 
 with three people in white uniforms.
-In the foreground, a man is standing near a table, 
-maybe he is preparing some chemicals for his research. 
-Behind him, A woman is opening a fridge to store chemicals. 
-Another girl is opening the door from outside.
+
+In the foreground, a man is standing near the table 
+and preparing something for his research. 
+
+Behind him, A woman is opening the fridge. 
+Another woman is opening the door from outside.
+
 we can see a microscope on the platform. and many other Laboratory equipment.
 ```
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### 15.2	part2（3 ~ 4）(30+30) 6~8个句子
@@ -172,11 +154,15 @@ we can see a microscope on the platform. and many other Laboratory equipment.
 My answer:
 
 ```
-The picture is taken on the street, there are 5 people in this picture.
-In the middle of the picture, three people in riding suits are standing near their bicycle, 
+The picture is taken on the street.
+
+On the left, a man in black is walking. 
+
+In the middle, three people in riding suits are standing near their bicycles, 
 they are all wearing safety helmets.
-On the left side, a man in black is walking. 
-On the right side, a man in red is sitting in the chair. 
+
+On the right, a man in red is sitting in a chair. 
+
 ```
 
 两个人在办公室，2个人，旁边有复印件和打印机，女人正在问男人，男人穿着正装
@@ -184,15 +170,13 @@ On the right side, a man in red is sitting in the chair.
 My answer:
 
 ```
-The picture is taken in the office, there are 2 people in this picture.
-On the left side, a woman in red with long hair is standing near the copiers.
-a man in black suit is talking with her.
+The picture is taken in the office with 2 people
+
+On the left, a woman in red with long hair is standing near the copiers.
+and a man in black suit is talking with her.
+
 On the background, we also can see many desks and plants.
 ```
-
-
-
-
 
 ### 16.2	part2（3 ~ 4）(30+30) 6~8个句子
 餐厅：三个人（前台和帮厨）； 前台点菜的地方，有收银，有食物的餐盘、空餐盘；<3>左边站了一个长卷头发穿黑色裙子的女士，中间是一个穿着白色衣服的女士拿着餐盘，女士的左边是一排像食堂打菜的柜子（里面有菜）。
@@ -202,12 +186,15 @@ or 一个餐馆中，左边站了一个长卷头发穿黑色裙子的女士，�
 My answer:
 
 ```
-The picture is taken in a restaurant/cafeteria. There are 4 people in this picture.
-On the left side, a woman in black dress (with long hair) is choosing food.
-she is standing near the cashier.
-In the middle , A woman in white is holding a plate. 
-On the right side,We can also see many food display cabinets. 
-two men in black is standing in front of the cabinets.
+The picture is taken in a cafeteria with 4 people.
+
+On the left, a woman is standing near the cashier and choosing food.
+
+In the middle, another woman in white is holding a plate. 
+
+On the right, two people are standing and talking.
+behind them, i can see many food display cabinets. 
+
 ```
 
 6个人，都是女的，5个穿白大褂(医生那种)，第六个人坐在后面，穿黑衣服； 右侧两个女的在交谈，中间两个女的也在交谈，中间靠后一个女的在看书； 左下角女的穿黑衣服，在做事，后面有个仪器台子，上面堆满仪器
@@ -217,16 +204,12 @@ My answer:
 
 ```
 The picture is taken in a chemistry lab. There are 6 people in this picture.
-On the right side, two women are looking at a book and talking. 
-One is standing and one is sitting.
+On the right, two women are looking at a book and talking. One is standing and one is sitting.
 In the middle, two women are talking about something, and another woman is reading a book.
 On the left side, a woman in black is doing something
 we also can see many Lab tools in the background.
 (They are all busy.)
 ```
-
-
-
 
 ### 17.2	part2（3 ~ 4）(30+30) 6~8个句子
 图1：室内等候厅，左边4个大妈并排坐在一张黑色长凳上，再看前面的黑色电视屏，他们前面有2个小男孩，一个坐在长凳上看那个电视屏，
@@ -236,10 +219,12 @@ My answer:
 
 ```
 The picture is taken in a Hotel Lobby. 
-On the left side , Four women are sitting side by side on a black bench and watching TV.
-if front of them , a boy is sitting on a bench and watching TV, 
-another  boy is lying on the bench.
-In the background, Three hotel attendants are standing in a circle near the front desk and talking.
+On the left side , Four women and are sitting side by side on a bench and watching TV.
+
+in front of them , are playing and watching tv
+
+In the background, Three hotel staffs are standing and talking.
+
 we also can see an animal sculpture beside the TV.
 ```
 
@@ -249,17 +234,16 @@ we also can see an animal sculpture beside the TV.
 My answer:
 
 ```
-The picture is taken outside,
-On the left, an old woman with a glass cup is walking to the coffeehouse.
-On the right, two women is sitting around a table under a big sunshade, 
-they are eating some snacks [snæk] or foods.
+The picture is taken outside.
+
+On the left, an old woman is walking on the street.
+
+On the right, two women are sitting around a table and eating some foods under a big sunshade,.
+
 In the background , this is a white house maybe a coffeehouse.
+
 we can see many grass on the ground.
 ```
-
-
-
-
 
 
 ### 18.2	part2（3 ~ 4）(30+30) 6~8个句子
@@ -268,10 +252,14 @@ we can see many grass on the ground.
 My answer:
 
 ```
-The picture is taken in the public square, there are a lot of people in this picture.
-On the left side, an old man in black is riding a bicycle, he wearing a hat.
-On the right side, a man with a hat in his hand is walking.
+The picture is taken in the public square with many people.
+
+On the left, an old man in black is riding a bicycle, he wearing a hat.
+
+On the right, a man with a hat in his hand is walking.
+
 in the background, there are many trees and a tower.
+
 It is a sunny day.
 ```
 
@@ -280,15 +268,15 @@ It is a sunny day.
 My answer:
 
 ```
-The picture is taken in the public park near a lake, there are 5 people in this picture.
-On the right side, two men are riding a boat on the lake.
-On the left side, five men in black are standing on the ground, they are looking at the boat.
-in the background, there are many trees and some lion sculptures[ˈskʌlptʃə]/statues[ˈstætʃuː]
+The picture is taken in the public park near a lake with many people.
+
+On the right side, two people are riding a boat on the lake.
+On the left side, five people are standing on the ground, they are looking at the boat.
+
+in the background, there are many trees and some lion sculptures[ˈskʌlptʃə]
+
 It is a sunny day and the park is beautiful.
 ```
-
-
-
 
 
 ### 19.2	part2（3 ~ 4）(30+30) 6~8个句子
@@ -298,11 +286,12 @@ My answer:
 
 ```
 The picture is taken on the street, 
-On the left side, two people  are sitting on a bench. 
-the man is makeing a call and the woman is playing a mobile phone, 
-and another woman with a bag is walking on the road.
-There is a row of trees on the left side of the road.
-and a white car is parking at the end of the road.
+
+On the left, two people are sitting on a bench. 
+one is makeing a call and one is playing a smartphone.
+On the right, a woman with a bag is walking on a road with many trees.
+
+in the background, i can see a white car.
 ```
 
 图片2：在建筑物的内部，左边是个杂货店(Grocery store)，门口一个男的做在椅子上，旁边两个男的正站在那里谈话，中间和右边有一些人在逛，背景是个服装店，里面有两个人在看服装
@@ -312,14 +301,14 @@ and a white car is parking at the end of the road.
 My answer:
 
 ```
-The picture is taken inside,
-On the left side, there is a Grocery store, a man is sitting in a chair at the door , 
-two men are standing and talking beside him.
-in the middle, some people are walking and hangout
-in the background , two people are looking at clothes in a clothing store.
+The picture is taken in front of a Grocery /ˈɡroʊsəri/ store. 
+many people are walking past the store.
+
+a man is sitting in a chair at the door, it seems that he is the shopkeeper.
+besides him, two people are shaking their hands.
+
+i can also see many goods are hanging in front of the shop.
 ```
-
-
 
 
 ### 20.2	part2（3 ~ 4）(30+30) 6~8个句子
@@ -330,10 +319,14 @@ My answer:
 
 ```
 The picture is taken in a school, there are many people in this picture. 
+
 most of them are wearing school uniforms and black bags
-On the right side, two boys are standing near the road sign and talking. 
+
+On the right, two boys are standing near the road sign and talking. 
 one of them is pointing somewhere.
-In the middle of the picture, a girl is looking at the teaching building. 
+
+In the middle, a girl is looking at the teaching building. 
+
 In the background, there are many buildings,green grass and people.
 ```
 
@@ -344,9 +337,13 @@ My answer:
 
 ```
 The picture is taken on a beach by the sea, there are many people in this picture. 
+
 some of them are standing on the beach and looking into the distance/to the sea.
+
 some of them is sitting on the sands/chairs, and many people are swimming in the sea,
-we also can see many sun umbrellas.
+
+we also can see many sunshade.
+
 I think they're all enjoying their leisure time.
 ```
 
@@ -358,9 +355,9 @@ I think they're all enjoying their leisure time.
 
 ```
 The picture is taken in a shop, there are two people in this picture.
-On the left side, a man with red earphone is sitting at the table, 
+On the left, a man with red headset is sitting at the table, 
 and a laptop is on the table.
-On the right side, a woman in black is sitting at another table, 
+On the right, a woman in black is sitting at another table, 
 She is looking for/rummaging  something in her black bag.
 ```
 
@@ -368,8 +365,8 @@ She is looking for/rummaging  something in her black bag.
 一个小礼堂很多人正在庆祝或者颁奖，右边台子上 一个女士 正在给 另一个女士颁奖，左边台下坐着很多人，他们在鼓掌。
 ``` 
 The picture is taken in a hall, there are many people in this picture.
-On the right side, a woman on the stage is giving an award to another woman.
-On the left side, many people are sitting under the stage and applauding for them.
+On the right, a woman on the stage is giving an award to another woman.
+On the left, many people are sitting under the stage and applauding for them.
 I think they are very happy.
 ```
 
@@ -383,10 +380,14 @@ My answer:
 ```
 The picture is taken in a park with Mountains and lake. 
 on the left , three people are sitting on a boat.
+
 In the middle, a man is Rowing back the boat.
+
 on the right, a man with blue T-shirt is Boarding a boat. 
 another man is Rowing out a boat.
+
 In the backgrond , there are many trees.
+
 I think it is a beautiful place for people to take a rest.
 ```
 
@@ -397,13 +398,12 @@ I think it is a beautiful place for people to take a rest.
 My answer:
 
 ```
-The picture is taken in a chemistry lab. There are 4 people in this picture.
-On the right side, a man and a woman are observing something through the microscopes on the platform
-In the middle a woman is opening the door of fridge and taking out a sample
-In the left side a woman is getting water.
+The picture is taken in a chemistry lab with 4 people.
+On the right, a man and a woman are observing something through the microscopes on the platform
+In the middle, a woman is opening the door of fridge and taking out a sample
+In the left, a woman is getting water.
 we can see another microscope  on the platform. and many other Laboratory equipment.
 ```
-
 
 
 ### 6.2	part2（3 ~ 4）(30+30) 6~8个句子
@@ -418,9 +418,11 @@ My answer:
 
 ```
 The picture is taken in a clothing store. There three people in this picture.
-On the left side, a woman with a blue T-shirt is trying on clothes. 
+
+On the left, a woman with a blue T-shirt is trying on clothes. 
 Another woman is looking at her. There is a man behind them. 
-On the right side, we can see a pair of metal [ˈmetəl] artworks,
+
+On the right, we can see a pair of metal [ˈmetəl] artworks,
 and there are many goods on the shelves
 ```
 
@@ -441,22 +443,24 @@ In the background, we can see some other cars and many trees.
 ```
 
 
-
-
-
-
 ### 4.2	part2（3 ~ 4）(30+30) 6~8个句子
  第三题：一张公园的照片，路上一个穿黑色裙子（连衣裙）的女（短发，背影）在走路，其他人在路边长条椅上坐着，最近的椅子上，一人在看报，一人在看手机。路边右侧是公园的绿草地，草地上有大树。远处背景有很多人。
 
 My answer:
 
 ```
-The picture is taken in a park, many people in this picture,
-in the middle, a girl is walking on the road, some people are sitting on the bench beside the road, 
+The picture is taken in a park with many people,
+
+in the middle, a lady in black dress is walking on the road, 
+
+some people are sitting on the bench beside the road, 
 one is reading the newspaper and one is playing mobile phone.
+
 On the right there are many big trees,
-in the background, many people are playing.
-the environment is beautiful.
+
+in the background, i can see many people.
+
+i think it is a good place for people to have a rest.
 ```
 
 第四题：一张草地农场照，绿色隔离网分成了两部分。左下半部分是三个人，两女一男。左上的女的站着，手里拿着相机，中间女的长发站着，右肩上背着红色的包。右边男的蹲着地上，隔着隔离网喂鸡。整个农场都是绿色草地，远处有房子。
@@ -465,15 +469,13 @@ My answer:
 
 ```
 The picture is taken in a farm,  there are three people in this picture
+
 on the right, A little boy is squatting down to feed the chickens.
 On the left, a woman is looking at the boy. (maybe his mother)
 Another girl is taking photos for them by a smartphone.
 In the background, I can see more chickens and some buildings.
 (I think it is a beautiful place for people to take a rest.)
 ```
-
-
-
 
 ### 2.2 part2（3 ~ 4）(30+30) 6~8个句子
 
@@ -484,9 +486,10 @@ My answer:
 ```
 The picture is taken in a restaurant, there are many people in this picture. 
 Most of them are eating food and talking. 
+
 In the middle, there are 3 people sitting around a table. 
 One is eating chips. The other 2 are looking at a menu and ordering food. 
-(One of them is carrying a cup of water.)
+
 I think the restaurant business is quite good. and the food is tasty.
 ```
 
@@ -495,14 +498,12 @@ I think the restaurant business is quite good. and the food is tasty.
 My answer:
 
 ```
-The picture is taken in warehouse. There are three people in this picture. 
-On the left side, there are two women changing clothes. 
+The picture is taken in warehouse with 3 people. 
+
+On the left, there are two women changing clothes. 
 One of them with long hair is wearning a brown dress, other one is wearing a white sweater. 
-One the right side, a fat man with blue shirt is walking in the distance. 
+
+One the right, a fat man with blue shirt is walking in the distance. 
+
 we can see many goods on shelves.
 ```
-
-
-
-
-
