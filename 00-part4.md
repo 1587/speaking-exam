@@ -172,26 +172,6 @@ Please keep that in mind.
 ```
 
 
-### 8.4	part4（8~10）(15+15+30) 题目是听的
-一个museum 博物馆会员日Wenesday October 14
-会员日在什么时间什么地方举行？
-（简单，就看标题念吧）
-我朋友也想去，免费吗？
-关于Tour的event有哪些？具体呢？
-
-```
-Hello sir, The Museum Membership Day will be held on Wenesday October the 14 th at XX XX. 
-please keep that in mind.
-
-No. I am sorry, Non-member guests should pay 25 dollars for the vist/ticket. 
-please keep that in mind.
-
-According for the infomation there are Two events about tour. 
-One is at xx:xx named xxxx  given by xxxx . 
-Another is. at xx:xx named xxxx  given by xxxx. 
-Please remember that.
-```
-
 
 
 ### 6.4	part4（8~10）(15+15+30) 题目是听的
