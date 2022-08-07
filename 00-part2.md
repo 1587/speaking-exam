@@ -430,7 +430,6 @@ and there are many goods on the shelves
 两人-1女1男，三辆car，一辆自行车。女的蹲地上做着什么（开锁吧），白色衬衣男正准备打开汽车门。路的另外一边有两辆车，还有很多树
 
 ![image](https://user-images.githubusercontent.com/2299635/171654890-ca978991-b859-4328-87f8-2705526ebd75.png)
-![image](https://user-images.githubusercontent.com/2299635/183237441-8135e375-31c0-496d-9e5d-a116a17cfbc0.png)
 
 My answer:
 
