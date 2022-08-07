@@ -246,28 +246,6 @@ They use smartphone or computer a lot.
 ```
 
 
-### 8.3	part3（5~7）(15+15+30)
-问题一：多久去一次健身房？和谁一起去？
-问题二：你比较喜欢什么时候去健身房？为什么 ）
-问题三：什么最影响你选择健身房？离家/公司近 器材质量  很多健身课的.
-
-```
-
-I usually go to the gym with my friend Jack ,and we go there twice a week.
-(The last time we went to the gym is yesterday.)
-
-I usually go there after dinner. 
-Because I am busy with my work, I have free time only after dinner.
-at that time, there are few people in the gym, i can use many equipment.
-
-I prefer with lots of fitness classes.
-because I am still a newbie/ˈnjuːbi/ about fitness,
-so I need to study how to use the equipment,how to exercise in the right way, 
-the coach will teach me, and point out my mistakes. the wrong way to work out is bad for our health.
-and I can study and discuss fitness experience with the fitness classmates.
-```
-
-
 ### 6.3	part3（5~7）(15+15+30)
 1.	家乡呆了多长时间？ Where you lived before？How long did you lived there？
 2.	你现在呆的地方你最喜欢什么？Do you like to live in current place？Why？
