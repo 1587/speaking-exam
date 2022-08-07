@@ -405,41 +405,6 @@ we can see another microscope  on the platform. and many other Laboratory equipm
 ```
 
 
-### 8.2	part2（3 ~ 4）(30+30) 6~8个句子
- 
-露天音乐演唱会，很多人 很多乐器。台下很多观众坐在凳子上听演唱会，（晴天太阳-有阳光），表演台上XX个音乐家正在表演。（有不少细节-比如后面有个老人的身影 远处有绿色可以判断有很多树，可以遇到了自己加。）
-
-![image](https://user-images.githubusercontent.com/2299635/171656077-c77dd060-ade0-4334-80e5-2276ab1031f2.png)
-
-My answer:
-
-```
-The picture is taken in a musical performance.
-In the front, the audience is sitting in chairs and watching the performance.
-In the background，many musicians/mju'zɪʃənz/ are playing with musical Instruments on the stage. 
-It is a sunny day. I can see the sunshine.
-We can also see some trees in the distance.
-```
-
-在一个仓库里面，两个人，很多货物，很多架子，两台车。左边一个带着蓝色安全帽的黑人女人正在推一个小车（小车上有一个纸盒和两个塑料箱），右边一个带着蓝色安全帽的男人正在操作叉车,后面是货架，有很多货物在上面，天花板上有灯。
-
-![image](https://user-images.githubusercontent.com/2299635/171656097-704a6998-3590-4ac2-bc40-b7b4741001ab.png)
-![image](https://user-images.githubusercontent.com/2299635/183237464-9230aa32-dd79-4150-91b3-9f4120d3ae22.png)
-
-My answer:
-
-```
-The picture is taken in a warehouse. there are two workers with uniform and helmet in this picture. 
-On the left, a woman is pushing a small cart filed with three boxes. 
-On the right, a man is checking status of the forklift/ˈfɔːklɪft/ truck（叉车）)
-In the background, there are many goods on the shelves. 
-I can see two lights on the ceiling.
-I Think they are very busy.
-```
-
-
-
-
 
 ### 6.2	part2（3 ~ 4）(30+30) 6~8个句子
 
