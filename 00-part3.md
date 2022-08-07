@@ -12,9 +12,6 @@ I like the Chinese musician[mjuːˈzɪʃən] LangLang, he palys classical music 
 Usually, I choose music from internet. like youtube  /ˈjuːtuːb/ , apple music.
 i can see other people' comments about the music.
 
-
-
-
 I like to listen to music by my iphone when i am free.
 
 Because It is very convenient by iphone, 
@@ -89,11 +86,6 @@ I will use phone instead.
 ```
 
 
-
-
-
-
-
 ### 15.3	part3（5~7）(15+15+30) 
 1. 工作的地方离家多远，是否需要开车   How far is your office from home?
 2. 你喜欢上班早一点，还是晚一点？  Do you prefer to go to work earlier or later？
@@ -115,7 +107,6 @@ they often have more work experience.
 ```
 
 
-
 ### 16.3	part3（5~7）(15+15+30) 
 1. 怎么判断纪念品的质量？
 2. 你所住的地方最受欢迎的纪念品是什么，为什么？
@@ -132,7 +123,6 @@ Firstly: buy things online is cheaper than offline.
 Secondly: I can search more information about it(the souvenir).
 Thirdly: I can check the reviews of other customers.
 ```
-
 
 
 ### 17.3	part3（5~7）(15+15+30)
@@ -152,8 +142,6 @@ Yes of course. We should prepare many kinds of food.
 Because we invated a lot of people to the party, different people like different food.
 We need to prepare sweet food, vegetable food, meat food, fish food, and so on.
 ```
-
-
 
 ### 18.3	part3（5~7）(15+15+30)
 1. 你的房子多久了，是公寓或是House？
@@ -175,8 +163,6 @@ and I must take good care of my flowers and plants. I don't trust other people.
 ```
 
 
-
-
 ### 19.3	part3（5~7）(15+15+30)
 1. 你的爱好hobby是什么，有多久了
 2. 你有足够时间去做自己的爱好吗？Why
@@ -194,9 +180,6 @@ I think Fitness can build a good figure which make us look beautiful.
 Fitness can improve our health then We wouldn't get sick.
 Fitness makes us more energetic, Make our work more efficient.
 ```
-
-
-
 
 ### 20.3	part3（5~7）(15+15+30)
 1. 你是经常在家做饭还是在外面吃，为什么
@@ -217,9 +200,6 @@ The food are very delicious. You really need to taste it.
 ```
 
 
-
-
-
 ### 21.3	part3（5~7）(15+15+30)
 1.	你最近一次观光旅游是什么时候，所在城市是哪儿
 2.	选择自由行还是跟团游
@@ -235,9 +215,6 @@ I can get professional knowledge about the tour,
 and study many skills from the tour guide.
 Tour guide can save our time, we will have more time to enjoy the tour.
 ```
-
-
-
 
 
 ### 22.3	part3（5~7）(15+15+30)
@@ -320,7 +297,6 @@ and I don't have to worry about losing my current job. I can find another one ea
 ```
 
 
-
 ### 4.3	part3（5~7）(15+15+30)
 1. 你上次买电脑是什么时候，为什么买？
 2. 你觉得电脑在线上卖的多还是线下卖的多？
@@ -345,7 +321,6 @@ so I think quality is the most important thing of computer
 ```
 
 
-
 ### 2.3 part3（5~7）(15+15+30)
 1. 什么时候离开hometown去城市的？你在hometown待了多长的时间
 2. 很多人离开家乡的原因是什么
@@ -367,8 +342,6 @@ and they don't need to rent or buy a house,  It costs/kɒsts/ very little to liv
 they will have more money to improve their self.
 such as study new skills.
 ```
-
-
 
 
 
