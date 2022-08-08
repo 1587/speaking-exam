@@ -37,22 +37,18 @@ All the above are my opinions.
 
 My answer:
 ``` 
-I think buy a house will  reduce the quality of my life.
+I think buy a house will reduce the quality of my life.
 I have some reasons below:
 
 First, in china, the Housing price is too high, buy a house will cost too much money. 
-(I will have no enough money for education, travel, medical care, and take care of my parents. )
-I will be a mortgage/ˈmɔːɡɪdʒ/ slave.
+I will have no enough money for education, travel, and take care of my parents. 
+(I will be a mortgage/ˈmɔːɡɪdʒ/ slave.)
 
 Second, if I change my office to a place far from the house.
-I will spend more time on commute, (Especially when I move to another city.)
-it's not convenient.
+I will spend more time on commute.
 
-(third, I need to maintain the house every year, I also have to pay building taxes/ˈbɪldɪŋ ˈtæksɪz/;
-it's a waste of money and time.)
-
-final, if the neighbors/'nebəz/ are not good, i can't replace them. 
-so I think, renting a house is a good choice.
+third, if the neighbors/'nebəz/ are not good, i can't replace them. 
+and I need to maintain the house every year, I also have to pay building taxes/ˈbɪldɪŋ ˈtæksɪz/
 
 all the above are my opinions.
 ```
@@ -82,9 +78,6 @@ That‘s why I think the first job is not that important.
 ```
 
 
-
-
-
 ### 13.5	part5（11）(60) 定稿
 当你获得一个公司的offer时，你是否同意需要考虑这个公司的reputation
 
@@ -104,11 +97,6 @@ Second: If a company has a bad reputation, The employees won't be loyal to it.
 So, I think companies should do a lot to build a good reputation.
 
 ```
-
-
-
-
-
 
 
 ### 15.5	part5（11）(60) 定稿
@@ -135,9 +123,6 @@ So That's why I think the professional success requires risk.
 ```
 
 
-
-
-
 ### 16.5	part5（11）(60) 定稿
 有钱就会快乐吗？请给出理由。
 
@@ -153,14 +138,11 @@ but money can't buy real friendship.
 and to have more money, 
 you must spend much time makeing money, have less time enjoying life.
 in china, many software engineer work more than 12 hours a day
-to maintain a high salary
+to maintain a high salary,
 the more money they earn,the less happy they are.
 
 therefore , money doesn't means happiness.
 ```
-
-
-
 
 
 
@@ -188,8 +170,6 @@ so we should be serious at work, and we can have a little humor in our life.
 That’s Why I like to work with serious people. 
 
 ```
-
-
 
 
 
@@ -250,8 +230,6 @@ Above all are my opinions.
 ```
 
 
-
-
 ### 20.5	part5（11）(60) 定稿
 最后一题，是问你运动时喜欢一个人运动还是喜欢群体运动
 What are the advantages of exercising alone?
@@ -282,9 +260,6 @@ So, That's why I think exercise alone is better than in a group.
 
 
 
-
-
-
 ### 21.5	part5（11）(60) 定稿
 有兄弟认为：你认为高中生毕业后，在进入大学前 参加实习 有哪些好处
 也有认为是：如果高中毕业搞一年gap year，好处是什么
@@ -311,10 +286,6 @@ then you can buy learning equipment that allows you to study more efficiently..
 
 So, I think a gap year is a better way to improve themselves.
 ```
-
-
-
-
 
 
 
@@ -386,11 +357,7 @@ Third, People begin to protect the environment,
 the environment of future will be better than now.
 
 That's why I think people will be healthier in the future.
-
-
 ```
-
-
 
 
 ### 4.5	part5（11）(60) 定稿
@@ -418,8 +385,6 @@ So I think we must discuss with my family members when I have a new job offer.
 ```
 
 
-
-
 ### 2.5 part5（11）(60) 定稿
 你认为在就职一份新工作时   work hard willingness 还是 colleague communicate well更重要？-努力工作的意识和跟人相处、协作能力哪个更重要
 
@@ -441,41 +406,3 @@ which can makes our work efficiently. Team is more likely to succeed.
 
 That's why I think colleague communicate well is the most important.
 ```
-
-
-
-
-
-
-
-
-
-
-## 23.	其他真题中遇到的题
-
-
-### 23.3	Part5 （60）多出去交流，还是坐办公室
-好像是问喜欢坐办公室的工作，还是喜欢出去多和客户交流的工作
-
-喜欢和人进行沟通，可以感受不同的人，带给我不一样的感觉，和每个人在交流的过程中，真的会明白很多不同的事情的，同一件商品，不同的人会有不一样的感觉，怎么让顾客说出她真实的想法，我个人感觉很重要。了解客户的真实想法
-According my personal experience, 
-I like the job of communicating with customer. 
-Because of the following reasons.
-Firstly, I will get the good idea by communicate with customer,
-then I can adjust my working methods as soon as possible.
-Secondly，we will become good friends after communication, 
-It'll bring us closer together. It is benefit for my job.
-The last one, it will improve my social ability through communication.
-To the reason above, I like the job of communicating with customer.
-
-### 23.4	Part5 （60）新员工培养哪个重要
-新员工培养，自己独立上手，还是 老员工帮忙辅导
-
-I think the best way for training new employees is to teach them how to work independently.
-There are three reasons.
-Firstly, working independently will make them learn work skills quickly
-and have a good comprehension of their job responsibility. 
-Secondly, working independently is also a necessary ability,
-actually we can't expect to rely on others’ help for everything. 
-And finally, working independently will help them to build a resilient ability against work pressure. 
-Therefore, it’s important to teach new employees how to work independently.
