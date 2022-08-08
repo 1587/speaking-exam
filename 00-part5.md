@@ -122,20 +122,16 @@ My answer:
 ```
 Yes, I think professional success requires risk. 
 
-Opportunity is always come wit risk, 
-if we don't take any risk, we have no chance of success.
+Opportunity is always come wite risk, if we don't take any risk, we have no chance of success.
 
-and risk also means challenge, challenge makes the team stronger which will make it easier for us to succeed.
+risk also means challenge, challenge makes the team stronger which will make it easier for us to succeed.
 
-I have led many projects, every project has risks, you need to resolve them. 
-for example, in our company, we discuss risks through weekly meeting 
-to Make sure everyone is think about how to resolve the project risks,
-and end up our projects are all successful.
+I have led many projects, every project has risks, we need to resolve them. 
+for example, in our company, we discuss how to resolve risks through weekly meeting.
 
-Think about Microsoft,Apple,Google, these great companies have taken many big risks and achieved great success.
+Think about the great companies,such as Microsoft,Apple,Google, they all have taken many big risks and achieved great success.
 
 So That's why I think the professional success requires risk.
-
 ```
 
 
