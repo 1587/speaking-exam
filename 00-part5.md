@@ -131,13 +131,14 @@ My answer:
 ```
 No, I don't think so, we are happy, not because of money.
 Think about the past. When I was young, I had no money but I was very happy, 
-I had many classmates, many friends, many time, no troubles.
+I had many classmates, many friends, (many time), no troubles.
 so,we can see, for example, friendship make people happy, 
 but money can't buy real friendship.
 
-and to have more money, 
-you must spend much time makeing money, have less time enjoying life.
-in china, many software engineer work more than 12 hours a day
+(and to have more money, 
+you must spend much time makeing money, have less time enjoying life.)
+
+in china, many software engineers work more than 12 hours a day
 to maintain a high salary,
 the more money they earn,the less happy they are.
 
@@ -160,15 +161,14 @@ Projects are more likely to succeed.
 
 Second: you can communicate efficiently with them and 
 they will usually give you key points. 
-This saves a lot of time. As we know, time is money.
+(This saves a lot of time. As we know, time is money.)
 
 Third: They often finish their tasks on time, and we can meet the deadlines on time. 
-This is very important to our project. 
+(This is very important to our project. )
 
 so we should be serious at work, and we can have a little humor in our life.
 
 That’s Why I like to work with serious people. 
-
 ```
 
 
@@ -181,18 +181,19 @@ My answer:
 ```
 Yes, Of course, disagreements need to be resolved.
 
-The disagreement means that, some information is  still  unclear,
+The disagreements means that, some information is  still  unclear,
 Not to resolve it, will slow down the progress of the project. 
-we may not meet the deadline,  the project will fail.
+(we may not meet the deadline,  the project will fail.）
 
 Project members must have the same goals. cooperation is the key to success.
-We can resolve any disagreement through communication.
+We can resolve any disagreements through communication.
+for example, in our company, we discuss disagreements through weekly meeting.
 
-I have led many projects, every successfull project has disagreement, 
+
+I have led many projects, every successfull project has disagreements, 
 i just resolved them as quickly as possible. 
 
-for example, in our company, we discuss disagreements through weekly meeting.
-Make sure everyone is on the same page, our projects are all successful.
+(Make sure everyone is on the same page, our projects are all successful.)
 
 That's  why I think disagreements must be resolved.
 ```
