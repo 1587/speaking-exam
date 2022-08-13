@@ -95,7 +95,7 @@ Third: I feel happy when I am working.
 My answer:
 
 ```
-We judge its quality by sales data/volume and customer reviews.
+I judge its quality by sales data/volume and customer reviews.
 
 It's silk. Because our silk is so beautiful that people like to buy it as a gift.
 
