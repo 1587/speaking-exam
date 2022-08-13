@@ -16,7 +16,7 @@ the quality of the country's education will be improved.
 i have some reasons below:
 
 first: students will have more money to buy learning equipment,
-such as ipad, computer or smartphone. 
+such as ipad, computer and smartphone. 
 they will study efficiently.
 
 second: students will focus on their study,
@@ -42,15 +42,16 @@ I have some reasons below:
 
 First, in china, the Housing price is too high, buy a house will cost too much money. 
 I will have no enough money for education, travel, and take care of my parents. 
-(I will be a mortgage/ˈmɔːɡɪdʒ/ slave.)
+I will be a mortgage/ˈmɔːɡɪdʒ/ slave.
 
-Second, if I change my office to a place far from the house.
-I will spend more time on commute.
+Second, if I my new job far from the house. I will spend more time on commute.
+It is inconvenient.
 
-third, if the neighbors/'nebəz/ are not good, i can't replace them. 
-and I need to maintain the house every year, I also have to pay building taxes/ˈbɪldɪŋ ˈtæksɪz/
+third, I need to maintain the house every year, 
+I also have to pay building taxes/ˈbɪldɪŋ ˈtæksɪz/
+so renting a house is a good choice.
 
-all the above are my opinions.
+that is all.
 ```
 
 
@@ -87,15 +88,16 @@ There are some advantages below.
 
 First: If a company has a good reputation, 
 it will have more business opportunities. Opportunity means money. 
-(the company could provide a very good slary for their employees.)
-the employees will grow in the long run. 
-then, The company will develop very well. Become bigger and bigger.
+the company could provide good slary for the employees.
 
 Second: If a company has a bad reputation, The employees won't be loyal to it. 
-(they will leave the company one by one.) Sooner or later The company will go bankrupt.
+they will leave the company one by one. Sooner or later The company will go bankrupt.
+
+for examble, My company has a very good reputation, I have work for it about 10 years.
 
 So, I think companies should do a lot to build a good reputation.
 
+That is all
 ```
 
 
@@ -153,22 +155,19 @@ therefore , money doesn't means happiness.
 My answer:
 
 ```
-I like to work with serious people. 
-There are some advantages below. 
+I like to work with serious people. There are some advantages below. 
 
 First, they usually work carefully and make no mistakes. 
 Projects are more likely to succeed. 
 
 Second: you can communicate efficiently with them and 
 they will usually give you key points. 
-(This saves a lot of time. As we know, time is money.)
 
 Third: They often finish their tasks on time, and we can meet the deadlines on time. 
-(This is very important to our project. )
 
 so we should be serious at work, and we can have a little humor in our life.
 
-That’s Why I like to work with serious people. 
+That’s all. 
 ```
 
 
@@ -183,19 +182,15 @@ Yes, Of course, disagreements need to be resolved.
 
 The disagreements means that, some information is  still  unclear,
 Not to resolve it, will slow down the progress of the project. 
-(we may not meet the deadline,  the project will fail.）
 
 Project members must have the same goals. cooperation is the key to success.
 We can resolve any disagreements through communication.
 for example, in our company, we discuss disagreements through weekly meeting.
 
+I have led many projects, every successfull project had disagreements, 
+I just resolved them as soon as possible. and All projects were successful.
 
-I have led many projects, every successfull project has disagreements, 
-i just resolved them as quickly as possible. 
-
-(Make sure everyone is on the same page, our projects are all successful.)
-
-That's  why I think disagreements must be resolved.
+That's  all.
 ```
 
 
@@ -273,19 +268,17 @@ There are some advantages below.
 
 First: You can get job experience in advance.
 then You will know clearly what you need to learn in college. 
-(You will focus on learning that knowledge)
 
 Second: You can learn things that you can't study in school. 
-(You know more than your classmates. )
 You'll be better than your classmates.
 
 Third:  With the gap year, you can learn a new language or experience a new culture.
 and meet some new friends.
 
-At last, you can earn money through gap year, 
+and you can earn money through gap year, 
 then you can buy learning equipment that allows you to study more efficiently..
 
-So, I think a gap year is a better way to improve themselves.
+That is all.
 ```
 
 
