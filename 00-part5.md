@@ -208,7 +208,7 @@ My answer:
 ```
 I think there are some advantages below.
 
-first：I can travel and live in many different cities, 
+first：I can travel and live in many cities, 
 and experience different cultures. 
 
 Uh..  
@@ -221,11 +221,11 @@ We need a lot of people from different cities to work together.
 Un.. 
 so, I can work with different colleagues in different cities, 
 Learn different knowledge and skills from them.
-I will be stronger, and get a high salary.
+
 
 Uh...
-My company has many branchs in different citis, I had traval many citis , such as beijing/shanghai/shenzhen/xian.
-I met many new friends. that's very helpful for me.
+
+we can meet many new friends. that's very helpful for us.
 Above all are my opinions.
 
 ```
