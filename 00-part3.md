@@ -8,12 +8,11 @@ My answer:
 ```
 I like the Chinese musician[mjuːˈzɪʃən] LangLang, his music style is classical.
 
-Usually, I choose music from internet, like youtube  /ˈjuːtuːb/ , apple music.
+Usually, I choose music from internet, like youtube/ˈjuːtuːb/ , apple music.
 It is very popular.
 
-I like to listen to music by my iphone when i am free.
-Because It is very convenient by iphone, 
-I am very busy with work and I have no time to go to the music hall.
+I like to listen to music by my iphone.Because It is very convenient, 
+I am busy with work and I have no time to go to the music hall.
 and Watch music performance online is cheaper than offline.
 ```
 
@@ -80,13 +79,12 @@ My answer:
 ```
 my office is far from my home About 1000 meters, so I don't need to drive. 
 
-I prefer to go to work earlier.
-because I need more time to learn some new knowledge.
+I prefer to go to work earlier. because I need more time to learn new knowledge.
 
-i prefer work with good colleges. there are some advantages as below.
-First: I can learn knowledge and work skills from them. than i will work efficiently.
-Second: We can help each other and when i meet difficulties, they can help me,
-they often have more work experience.
+I prefer work with good colleague. there are some advantages below.
+First: I can learn knowledge and work skills from them. 
+Second: they will help me when I meet difficulties, I will work efficiently.
+Third: I feel happy whean I am working.
 
 ```
 
@@ -103,9 +101,9 @@ We judge its quality by sales data/volume and customer reviews
 It is silk. Because our silk is very beautiful that people like to buy it as a gift.
 
 Yes, I will buy them over the internet. 
-Firstly: buy things online is cheaper than offline.
+Firstly: Shopping online is cheaper than offline.
 Secondly: I can search more information about it(the souvenir).
-Thirdly: I can check the reviews of other customers.
+Thirdly: I can check customer review.
 ```
 
 
@@ -122,7 +120,7 @@ It is my wife's birthday party last week. we were very happy.
 usually, I buy birthday gift online. shopping online is cheaper than offline.
 
 Yes of course. We should prepare many kinds of food.
-Because we invated a lot of people, different people like different food.
+Because we invated a lot of friends, different people like different foods.
 We need to prepare deserts /dɪˈzɜːts/, vegetables, meat.
 ```
 
@@ -134,7 +132,7 @@ We need to prepare deserts /dɪˈzɜːts/, vegetables, meat.
 My answer:
 
 ```
-It is about 10 years old. it is a house. I love the big house.
+my house is about 10 years old. it is a house. I like big house.
 
 I want to improve the garden of my house. It is too small,
 I like flowers.
