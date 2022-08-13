@@ -16,9 +16,9 @@ the quality of the country's education will be improved.
 I have some reasons below:
 
 first: students will have more money to buy learning equipment,
-such as ipads, computers and smartphones. That makes them study efficiently.
+such as ipads, computers and smartphones That makes them study efficiently.
 
-second: students don't spend much time on part-time job. 
+second: students don't nedd to spend much time on part-time job. 
 so that they can focus on their study,
 
 third: It gives everyone a chance to go to the college, 
