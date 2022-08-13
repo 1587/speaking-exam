@@ -232,15 +232,14 @@ My answer:
 I like to exercise alone, there are some advantages below.
 
 First: I can listen to my favorite music when I exercise alone,
-music makes me feel good, I can do exercise efficiently.
+music makes me feel good and I can do exercise efficiently.
 
-Uh.. 
-Second: I just need to arrange my own time. 
-I don't need to consider other people's time. 
+Second: I don't have to to consider other people's time. 
+I just arrange my own time. 
 
 Uh.. 
 Third: It's cheaper to exercise alone than in a group, 
-We don't need to rent a playground. such as football field.
+We don't need to rent a playground. such as the football field.
 
 That's all.
 ```
@@ -254,20 +253,19 @@ That's all.
 My answer:
 
 ``` 
-Yes, of cause.  student should have a gap year. 
+Yes, of cause.  students should have a gap year. 
 There are some advantages below.
 
-First: You can get job experience in advance.
+First: You can get the job experience in advance.
 then You will know clearly what you need to learn in college. 
 
 Second: You can learn things that you can't study in school. 
 You'll be better than your classmates.
 
-Third:  With the gap year, you can learn a new language or experience a new culture.
-and meet some new friends.
+Third:  With the gap year, you can learn a new language or experience a new culture to meet some new friends.
 
 and you can earn money through gap year, 
-then you can buy learning equipment that allows you to study more efficiently..
+so that you can buy learning equipment that allows you to study more efficiently..
 
 That is all.
 ```
@@ -324,15 +322,14 @@ I think people will be healthier in the future then they are now.
 There are some reasons below:
 
 First, Nowadays, People pay more and more attention to their health.
-For example, my friends and colleagues eat healthy food, 
-do more exercises.
+For example, my friends and colleagues often eat healthy food, do exercises.
 
 Second, The Medical technology has been improved..
 There are more and more new drugs for many diseases /dɪˈziːzɪz/.
 many vaccines can protect us from getting sick.
 
 Third, People begin to protect the environment, 
-the environment of future will be better than now.
+so the future of the environment will be better than now.
 
 That's all.
 ```
@@ -350,10 +347,11 @@ There are some advantages below:
 First: My parents have 20 years of work experience, 
 they can help me recognize the disadvantages of the new job.
 
-Second: Change a job is a big deal for a family. 
-I must make good communication with them, we must respect each other.
+Second: Changing a job is a big deal for a family. 
+I must make a good communication with them, we must respect each other.
 
-Third: With family member's support we will work efficiently.
+Third: under family member's support we can work efficiently.
+New jobs may need to move to another city, go abroad work overtime , and so on.
 
 That's all.
 ```
@@ -365,17 +363,17 @@ That's all.
 My answer1:
 
 ```
-I think colleague communicate well is the most important. 
+I think communicating well is the most important. 
 there are some reasons as follows:
 
-First, colleague communicate well enable us to express our views clearly,
-we can find out the root cause of the problem.
+First, communicating well enables us to express our views clearly,
+we can find out the root reasons of the problem.
 
-Second, from communicate we can get other people's opinions[əˈpɪnjəns], 
-and find our misstakes of our tasks.
+Second, we can get other people's opinions[əˈpɪnjəns] from communication  
+and find our mistakes of our tasks.
 
-Third, communicate well can make team members feel better, 
-which can makes our work efficiently.
+Third, communicating well can make team members feel better, 
+which can makes us work efficiently.
 
 That's all
 ```
