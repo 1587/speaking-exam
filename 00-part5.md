@@ -150,7 +150,7 @@ My answer:
 I like to work with serious people. There are some advantages below. 
 
 First, they usually work carefully and make no mistakes. 
-that makes projects to succeed easily. 
+
 
 Second: you can communicate with them efficiently and 
 they will usually give you some key points. 
@@ -182,7 +182,7 @@ for example, in our company, we discuss disagreements through weekly meeting.
 I have led many projects, every successfull project had disagreements, 
 I just resolved them as soon as possible. and All projects were successful.
 
-That's  all.
+That's all.
 ```
 
 
