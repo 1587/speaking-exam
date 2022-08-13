@@ -288,7 +288,23 @@ education background and related work experience ,which one more important and w
 你觉得对于一个新员工来说，是教育水平重要还是有相关经历重要（education or relevant work experience）
 描述一个你熟悉的工作，如果要招聘一个新人，是教育背景重要还是行业经验更重要，理由和例子。
 
-My answer:
+My answer1:
+
+```
+I think have a lot of relevant work experience is more important when hiring employees.
+
+That's because in many fields, experience is more important than education,
+I think education just gives you general knowledge about certain things,
+but work experience means you know how to do the specific things in your industry.
+
+for example,if you are in the position of dealing with customer complains,
+you can't learn through a textbook. you must get practical experience by handing real complains.
+
+that's all.
+
+```
+
+My answer2:
 
 ```
 I think， have a lot of relevant work experience is more important when hire a employee.
