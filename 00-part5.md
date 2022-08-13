@@ -211,16 +211,13 @@ such as hot-pot in sichuan, oil noodles in shanxi, barbecue in heilongjiang.
 
 Uh..  nowdays, software projects are too big, 
 We need a lot of people from different cities to work together.
-
-Un.. 
-so, I can work with different colleagues in different cities, 
-Learn different knowledge and skills from them.
+I Learn different knowledge and skills from them.
 
 
 Uh...
-
 we can meet many new friends. that's very helpful for us.
-Above all are my opinions.
+
+That's all
 
 ```
 
@@ -235,22 +232,17 @@ My answer:
 I like to exercise alone, there are some advantages below.
 
 First: I can listen to my favorite music when I exercise alone,
-music makes me feel good, i can do exercise efficiency.
+music makes me feel good, I can do exercise efficiently.
 
 Uh.. 
 Second: I just need to arrange my own time. 
 I don't need to consider other people's time. 
-I can do exercise when I am free, 
 
 Uh.. 
 Third: It's cheaper to exercise alone than in a group, 
 We don't need to rent a playground. such as football field.
 
-Uh..
-There are two fitness center in my company campus.
-I go there twice a week, and exercise alone is free.
-
-So, That's why I think exercise alone is better than in a group.
+That's all.
 ```
 
 
@@ -300,7 +292,6 @@ for example,if you are in the position of dealing with customer complains,
 you can't learn through a textbook. you must get practical experience by handing real complains.
 
 that's all.
-
 ```
 
 My answer2:
@@ -319,26 +310,6 @@ then you will learn how to deal with customer complains more efficiently.
 
 that's why i think relevant work experience is more important when hiring employees.
 
-```
-
-### 8.5	part5（11）(60) 定稿同2
-作为一个团队的leader 高效沟通是不是最重要的？为什么/为什么不？举证或者举例
-
-```
-Yes , I think communicate well is the most important. 
-there are some reasons as follows:
-
-First, colleague communicate well enable us to express our views clearly,
-and share our true thoughts with our colleagues. 
-we can find out the root cause of the problem through communication.
-
-Second, from communication we can get other people's opinions, 
-and find our misstakes of our tasks, which could be a risk of our project.  
-
-Third, communicate well can make team members feel better, 
-which can makes our work efficiently. Team is more likely to succeed.
-
-That's why I think  communicate well is the most important.
 ```
 
 
