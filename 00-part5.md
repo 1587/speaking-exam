@@ -16,8 +16,7 @@ the quality of the country's education will be improved.
 i have some reasons below:
 
 first: students will have more money to buy learning equipment,
-such as ipad, computer and smartphone. 
-they will study efficiently.
+such as ipad, computer and smartphone. they will study efficiently.
 
 second: students will focus on their study,
 they don't worry about the money and don't spend much time on part-time job.
@@ -70,12 +69,12 @@ Second: When I was an interviewer, I did not care about the interviewee's first 
 I just care about their last job and their Work experience.
 
 Third: People often change their jobs nowadays. If you don't like you first job, 
-you should change it as soon as possible. (it is nothing.)
+you should change it as soon as possible. 
 
 (For example, When I graduated from college. My first job wasn't very good. 
 I just switched jobs, and now I'm doing really well.)
 
-That‘s why I think the first job is not that important.
+That's all.
 ```
 
 
