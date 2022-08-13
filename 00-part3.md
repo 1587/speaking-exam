@@ -154,12 +154,12 @@ I must take good care of my flowers and plants. I don't trust other people.
 My answer:
 
 ```
-My hobby is fitness, I've been working out for 3 years now.
+My hobby is reading, I've been reading about 10 years.
 
 No, I don't have enough time to do it. I'm busy with work. 
 
-I can usually work out on weekends. 
-I think Fitness can build a good figure which make us look beautiful.
+I usually reading on weekends. 
+I can learn more usefull knoledge out can build a good figure which make us look beautiful.
 Fitness can improve our health then We wouldn't get sick.
 Fitness makes us more energetic, Make our work more efficient.
 ```
