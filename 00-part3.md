@@ -156,10 +156,11 @@ My hobby is reading, I've been reading about 10 years.
 
 No, I don't have enough time to do it. I'm busy with work. 
 
-I usually reading on weekends. 
-I can learn more usefull knoledge out can build a good figure which make us look beautiful.
-Fitness can improve our health then We wouldn't get sick.
-Fitness makes us more energetic, Make our work more efficient.
+
+reading books can help us learn more usefull skills, we will work efficiently.
+I usually read in the book store on weekends. and I have met many new friends by reading.
+we often reading together and discuss the books.
+but I buy books online, because shopping online is cheaper than offline.
 ```
 
 ### 20.3	part3（5~7）(15+15+30)
@@ -170,14 +171,14 @@ Fitness makes us more energetic, Make our work more efficient.
 My answer:
 
 ```
-I often eat at home, Because I like cooking. and Eating at home is healthier.
+I often eat at home, Because I like cooking.
 
-The evening of Weekends, of course. You must reserve the restaurant in advance.
-(because People often shopping and dining out on the weekends.)
+The evening of Weekends, of course. we need to book in advance.
+because there are many people dining out.
 
-Yes, I recommend 海底捞 Hot Pot, 
-They provide a take-out service for the hot pot and many kinds of food, 
-The food are very delicious. You really need to taste it.
+Yes, I recommend 海底捞 Hot Pot, and They provide a take-out service
+they also provide many delicious dishes, 
+Their service is great and the price is very cheap.
 ```
 
 
@@ -186,8 +187,7 @@ The food are very delicious. You really need to taste it.
 2.	选择自由行还是跟团游
 3.	如果去观光旅游，你认为哪个更重要。① 地点 ② 美食 ③ 专业导游
 ``` 
-Let me think. My last tour was in Nanjing, China last year. 
-It is a very beautiful city.
+My last tour was in Nanjing last year. It is a very beautiful city.
 
 I choose group tour, because it is cheaper and I can talk about the tour with the group.
 
@@ -214,16 +214,10 @@ I am interested in sport news. Because I love sports , I watch sport news everyd
 Yes , I’d like to get online news alert, 
 because  If there is any news, they will send me alert msg at once. it is very convenient.  
 
-I think watching news on TV is not good. 
-Because watching news On TV is  not convenient, 
-we can't search for interesting new from TV 
-can't send comments about the news,
-can't watching news in anytime and anywhere.
-
-Uh..
-Nowdays, Many people,Especially young people have no TV at their home, 
+I think watching news on TV is not good. Because It is inconvenient, 
+Nowdays, young people usually have no TV at their home, 
 They use smartphone or computer a lot.
-
+and we can't search for interesting news and send reiews by TV.
 ```
 
 
@@ -235,24 +229,15 @@ They use smartphone or computer a lot.
 My answer:
 
 ```
-My hometown is a village in Anhui Province of China.
-I lived there for 20 years until I went to the college. 
+My hometown is BeiJing. I had lived there for 20 years. 
 
-I live in Nanjing now, I like it ,
-because, it's public transportation is very convenient, it has a lot of bus stations and subway stations.
+I live in Nanjing now, Nanjing's public transportation is very convenient.
 It also have many museums. 
 
 
 If I moved to another place, convenience/kənˈviːniəns/ of life is the most important.
-The place must near the subway station. 
-that will save a lot of time and money on transportation/commuting.
-It’s better to have some supermarkets and hospitals cinemas around the new place. 
-that will improve the quality of my life.
-
-If I moved to another city, job chance is the most important.
-The city must provide many good job position.
-If there are many big companys in this city, i can change a good job, and get a high slary.
-and I don't have to worry about losing my current job. I can find another one easily.
+The place must near the subway station. that will save a lot of time and money on Commuting.
+It’s better to have some supermarkets and hospitals around the new place. 
 ```
 
 
@@ -264,19 +249,15 @@ and I don't have to worry about losing my current job. I can find another one ea
 My answer:
 
 ```
-I bought my computer over internet  last month, because the old one is broken, 
-my son need a computer to do some online learning. so I must buy a new one.
+I bought my computer last month, because the old one was broken.
 
-I think computers are more sold online, because the price is cheaper online
-and I can easily get more information and customer comments about the computer.
-
-
+I think computers are sold more online, because shooping online is cheaper than offline.
 
 I think the most important thing is the quality.
-i am a software engineer, if the computer often broken，I can’t work efficiently, 
-and all my important information is store in the computer, such as my family photos , my musics and films.
-i can't lose them.
-so I think quality is the most important thing of computer
+If the computer often broken, I can’t work efficiently, 
+and most important information is store in the computer, such as my family photos, musics and films.
+I can't lose them.
+that is all.
 ```
 
 
@@ -288,38 +269,13 @@ so I think quality is the most important thing of computer
 My answer:
 
 ```
-I lived in my hometown for 20 years (when I was born in a small village in Anhui Province). 
-I left my hometown about ten years ago when I need to go to college.
+I lived in my hometown for 20 years. I left my hometown about ten years ago (when I need to go to college).
 
-Many people leave/liːv/ their hometown for many reasons, such as work,study or business. 
+Many people leave/liːv/ their hometown for many reasons, such as work, education and business. 
 I left my hometown for the education, there is no university in my hometown.
 
 People who have always lived in their hometown will easy to succeed.
 they live with their families, relatives and old friends, 
-who will help them when they meet difficulties in life.
-and they don't need to rent or buy a house,  It costs/kɒsts/ very little to live.
-they will have more money to improve their self.
-such as study new skills.
+who will help them when they meet difficulties.
+and they don't need to rent or buy a house, they will have more money to improve themself.
 ```
-
-
-
-## 23.	其他真题中遇到的题
-### 23.1	Part3 问题答（15+15+30）
-第1个问题：经常骑自行车吗；
-Yes, I ride the bicycle to arrive the office every day.
-It can exercise my body. It makes my body healthier
-第2个问题：去买东西是骑自行车还是别的？（简单所以没记全）
-There is a distance between metro station and my office. 
-So, I ride shared bicycle every day. It’s convenient and saves time.
-I ride my bicycle when I buy a small amount of stuff. 
-But If I go to the supermarket to buy a lot of things, I will drive my car.
-你那里有没有自行车俱乐部，你有没有参加啥的（待确认）
-There is a bicycle club in our company. They have a ride almost every weekend. 
-But I didn't join this club, because I need to take care of my kids on the weekend.
-
-### 23.2	Part3 问答题
-如果你自己可以规划上班时间，你希望的上班开始和结束时间是什么时候？
-If I can decide on my work time, I wish to begin my job from 8:30 am to 6 pm. 
-I'll have time to send my son to his school. 
-Take on the responsibility of being a father
