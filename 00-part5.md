@@ -13,21 +13,19 @@ My answer:
 if the government pay the cost of university courses for all students,
 the quality of the country's education will be improved.
 
-i have some reasons below:
+I have some reasons below:
 
 first: students will have more money to buy learning equipment,
-such as ipad, computer and smartphone. they will study efficiently.
+such as ipads, computers and smartphones. That makes them study efficiently.
 
-second: students will focus on their study,
-they don't worry about the money and don't spend much time on part-time job.
-they will have more time to learn knowledge.
+second: students don't spend much time on part-time job. 
+so that they can focus on their study,
 
-third: It gives everyone a chance to go to college, 
-no matter his family is poor or rich.
-The more people go to college,
-the stronger the country will be and it's education will develop fast.
+third: It gives everyone a chance to go to the college, 
+The more people go to the college,
+the stronger the country will be.
 
-All the above are my opinions.
+That's all.
 ```
 
 ### 10.5	part5（11）(60)定稿
@@ -36,19 +34,18 @@ All the above are my opinions.
 
 My answer:
 ``` 
-I think buy a house will reduce the quality of my life.
+I think buying a house will reduce the quality of my life.
 I have some reasons below:
 
-First, in china, the Housing price is too high, buy a house will cost too much money. 
-I will have no enough money for education, travel, and take care of my parents. 
+First, in china, the Housing price is too high, that buying a house will cost too much money. 
+I don't have enough money for education, travel, or take care of my parents. 
 I will be a mortgage/ˈmɔːɡɪdʒ/ slave.
 
-Second, if I my new job far from the house. I will spend more time on commute.
+Second, if my new job is far from the house. I will spend more time on commute.
 It is inconvenient.
 
 third, I need to maintain the house every year, 
-I also have to pay building taxes/ˈbɪldɪŋ ˈtæksɪz/
-so renting a house is a good choice.
+and I also have to pay building taxes/ˈbɪldɪŋ ˈtæksɪz/
 
 that is all.
 ```
