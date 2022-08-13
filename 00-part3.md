@@ -6,20 +6,15 @@
 My answer:
 
 ```
-I like the Chinese musician[mjuːˈzɪʃən] LangLang, he palys classical music on the piano,  
-(his music is mild, sound very comfortable.	)
+I like the Chinese musician[mjuːˈzɪʃən] LangLang, his music style is classical.
 
-Usually, I choose music from internet. like youtube  /ˈjuːtuːb/ , apple music.
-i can see other people' comments about the music.
+Usually, I choose music from internet, like youtube  /ˈjuːtuːb/ , apple music.
+It is very popular.
 
 I like to listen to music by my iphone when i am free.
-
 Because It is very convenient by iphone, 
-I am very busy with work and I don't have much time to go to the music center.
-I can listen to music anywhere by phone. 
-
-and Watch music performance on the website is cheaper than the music center, 
-I only need to pay litte money for it.
+I am very busy with work and I have no time to go to the music hall.
+and Watch music performance online is cheaper than offline.
 ```
 
 ### 10.3	part3（5~7）(15+15+30)
@@ -29,24 +24,15 @@ I only need to pay litte money for it.
 3.你会选择公共汽车出行吗？为什么会or不会？
 
 ```
-The last time I taken a bus is last week. I went to the supermark with my wife.
+I took a bus to supermarket with my wife last week.
 
 I will take the bus if The bus can reach My destination. 
-I like public transportion, It is very convenient.
+because it is very convenient.
 
 Yes ,I will. 
-because There are many bus stations around my neighborhood, I can take a bus go around anywhere of my city.
-usually, bus tickets are very cheap,( and I don't have to worry about where to park.)
-Taking public transport will protect the environment and Reduce the risk of traffic jams.
-(taking a bus is safer than driving. There are a lot of car accidents every year.)
-```
-口述版本
-```
-yes i will, there are some advantages as below.
-first ,it is very convenient, there are many bus stations around my neighborhood, 
-i can take a bus go around anywhere of my city.
-second, bus tickets are very cheap, half a dollor each, i can save much money.
-third, taking public transport will protect the environment.
+because There are many bus stations around my home, I can take a bus go to anywhere.
+usually, bus tickets are very cheap, I can save[seɪv] much money.
+Also, Taking bus will protect the environment and Reduce the risk of traffic jams.
 ```
 
 ### 12.3	part3（5~7）(15+15+30)
@@ -57,14 +43,12 @@ third, taking public transport will protect the environment.
 My answer:
 
 ```
-I've been using it for two years now, I use my phone many times a day.
+I've been using it for two years now, I use my phone about twenty times a day.
 
 Yes, I will buy a new one.
 Because I've been using my current smartphone for a long time. It is too slow.
-The latest/ˈleɪtɪst/ phone will have a good performance, 
-I can play the latest mobile games. 
-The latest phone will have more functions and bigger storage,
-I can store more photos, videos, and songs.
+The latest/ˈleɪtɪst/ phone will have a good performance,
+and have bigger storage, I can store more photos, videos.
 ```
 
 
@@ -133,14 +117,13 @@ Thirdly: I can check the reviews of other customers.
 My answer:
 
 ```
-Last month, the birthday party is held for my son. His fourth birthday.
+It is my wife's birthday party last week. we were very happy.
 
-I usually buy birthday gifts online. I can see more information about the gifts.
-(and compare the price between different online stores.)
+usually, I buy birthday gift online. shopping online is cheaper than offline.
 
 Yes of course. We should prepare many kinds of food.
-Because we invated a lot of people to the party, different people like different food.
-We need to prepare sweet food, vegetable food, meat food, fish food, and so on.
+Because we invated a lot of people, different people like different food.
+We need to prepare deserts /dɪˈzɜːts/, vegetables, meat.
 ```
 
 ### 18.3	part3（5~7）(15+15+30)
@@ -154,12 +137,12 @@ My answer:
 It is about 10 years old. it is a house. I love the big house.
 
 I want to improve the garden of my house. It is too small,
-I like growing flowers and plants.
+I like flowers.
 
 I will do it myself. 
-Because I can learn more skills by doing so.
-besides, I have bought a lot of tools and I need to use them.
-and I must take good care of my flowers and plants. I don't trust other people.
+Because I can learn skills,
+I bought a lot of tools and I need to use them.
+I must take good care of my flowers and plants. I don't trust other people.
 ```
 
 
