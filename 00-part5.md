@@ -62,17 +62,14 @@ My answer:
 ```
 I don't think so. There are some reasons below.
 
-First: The most important thing for your career is the job that's right for you, 
+First: The most important thing for your career is the job that's suitable for you, 
 not the first job, maybe the second one, the third one.
 
 Second: When I was an interviewer, I did not care about the interviewee's first job,
-I just care about their last job and their Work experience.
+because I just care about their last job and their Work experience.
 
-Third: People often change their jobs nowadays. If you don't like you first job, 
+Third: People often change their jobs nowadays. If your don't like you first job, 
 you should change it as soon as possible. 
-
-(For example, When I graduated from college. My first job wasn't very good. 
-I just switched jobs, and now I'm doing really well.)
 
 That's all.
 ```
@@ -102,25 +99,26 @@ That is all
 
 ### 15.5	part5（11）(60) 定稿
 成功(professional success)是否需要冒险
+```
+Some people believe that success in life comes from taking risks or chances. 
+Others believe that success results from careful planning. In your opinion, 
+what does success come from? Use specific reasons and examples to support your answer.
+```
 
-```
-Some people believe that success in life comes from taking risks or chances. Others believe that success results from careful planning. In your opinion, what does success come from? Use specific reasons and examples to support your answer.
-```
 My answer:
 
 ```
 Yes, I think professional success requires risk. 
 
-Opportunity is always come wite risk, if we don't take any risk, we have no chance of success.
+The Opportunity is always come with risk, if we don't take any risk, we have no chance of success.
 
-risk also means challenge, challenge makes the team stronger which will make it easier for us to succeed.
+risk also means challenge, and challenge makes the team stronger which will make it easier for us to succeed.
 
-I have led many projects, every project has risks, we need to resolve them. 
+I have led many projects, and every project has risks, so we need to solve them. 
 for example, in our company, we discuss how to resolve risks through weekly meeting.
+some great companies,such as Microsoft,Apple,Google, have taken many big risks and achieved great success.
 
-Think about the great companies,such as Microsoft,Apple,Google, they all have taken many big risks and achieved great success.
-
-So That's why I think the professional success requires risk.
+That's all.
 ```
 
 
@@ -130,20 +128,18 @@ So That's why I think the professional success requires risk.
 My answer:
 
 ```
-No, I don't think so, we are happy, not because of money.
+No, I don't think having money makes me happy.
 Think about the past. When I was young, I had no money but I was very happy, 
-I had many classmates, many friends, (many time), no troubles.
-so,we can see, for example, friendship make people happy, 
-but money can't buy real friendship.
+I had many classmates, many friends, (many time), and i have no troubles.
+so,we can see, The friendship makes people happy, 
+but money can't buy real friendships.
 
-(and to have more money, 
-you must spend much time makeing money, have less time enjoying life.)
-
-in china, many software engineers work more than 12 hours a day
+In china, many software engineers work more than 12 hours a day
 to maintain a high salary,
 the more money they earn,the less happy they are.
 
-therefore , money doesn't means happiness.
+so, money doesn't means happiness.
+that's all.
 ```
 
 
@@ -157,12 +153,12 @@ My answer:
 I like to work with serious people. There are some advantages below. 
 
 First, they usually work carefully and make no mistakes. 
-Projects are more likely to succeed. 
+that makes projects to succeed easily. 
 
-Second: you can communicate efficiently with them and 
-they will usually give you key points. 
+Second: you can communicate with them efficiently and 
+they will usually give you some key points. 
 
-Third: They often finish their tasks on time, and we can meet the deadlines on time. 
+Third: They often finish their tasks and meet the deadlines on time. 
 
 so we should be serious at work, and we can have a little humor in our life.
 
@@ -177,12 +173,12 @@ That’s all.
 My answer:
 
 ```
-Yes, Of course, disagreements need to be resolved.
+Yes, Of course, disagreements need to be solved.
 
 The disagreements means that, some information is  still  unclear,
 Not to resolve it, will slow down the progress of the project. 
 
-Project members must have the same goals. cooperation is the key to success.
+Project members must have the same goals and cooperation is the key to success.
 We can resolve any disagreements through communication.
 for example, in our company, we discuss disagreements through weekly meeting.
 
@@ -202,23 +198,16 @@ My answer:
 ```
 I think there are some advantages below.
 
-first：I can travel and live in many cities, 
-and experience different cultures. 
+first：I can experience different cultures. 
+I can eat lots of famous food of these cities.
+such as hot-pot in sichuan, oil noodles in shanxi and barbecue in heilongjiang.
 
-Uh..  
-i can eat famous dishes of these cities.
-such as hot-pot in sichuan, oil noodles in shanxi, barbecue in heilongjiang.
-
-Uh..  nowdays, software projects are too big, 
+and nowdays, software projects are too big, 
 We need a lot of people from different cities to work together.
-I Learn different knowledge and skills from them.
+and I can learn different knowledge and skills from them.
 
-
-Uh...
-we can meet many new friends. that's very helpful for us.
-
+Also, we can meet many new friends. that's very helpful for us.
 That's all
-
 ```
 
 
