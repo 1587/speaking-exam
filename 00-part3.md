@@ -8,12 +8,12 @@ My answer:
 ```
 I like the Chinese musician[mjuːˈzɪʃən] LangLang, his music style is classical.
 
-Usually, I choose music from internet, like youtube/ˈjuːtuːb/ , apple music.
-It is very popular.
+Usually, I choose music online, such as youtube/ˈjuːtuːb/ and apple music.
+It's very popular.
 
-I like to listen to music by my iphone.Because It is very convenient, 
+I like to listen to music by Iphone. Because It's very convenient, 
 I am busy with work and I have no time to go to the music hall.
-and Watch music performance online is cheaper than offline.
+and Watching music performance online is cheaper than offline.
 ```
 
 ### 10.3	part3（5~7）(15+15+30)
@@ -29,8 +29,8 @@ I will take the bus if The bus can reach My destination.
 because it is very convenient.
 
 Yes ,I will. 
-because There are many bus stations around my home, I can take a bus go to anywhere.
-usually, bus tickets are very cheap, I can save[seɪv] much money.
+because There are many bus stations around my home, I can take a bus to go to anywhere.
+usually, the price of bus tickets is very cheap, I can save[seɪv] much money.
 Also, Taking bus will protect the environment and Reduce the risk of traffic jams.
 ```
 
@@ -46,8 +46,8 @@ I've been using it for two years now, I use my phone about twenty times a day.
 
 Yes, I will buy a new one.
 Because I've been using my current smartphone for a long time. It is too slow.
-The latest/ˈleɪtɪst/ phone will have a good performance,
-and have bigger storage, I can store more photos, videos.
+The latest/ˈleɪtɪst/ phone will have new functions,
+and have bigger storage, so that I can store more photos, videos.
 ```
 
 
@@ -59,13 +59,11 @@ and have bigger storage, I can store more photos, videos.
 My answer:
 
 ``` 
-I gave a call to my coworkers yesterday, we were busy with work, 
-we talked about the business contract.
+I gave a call to my colleagues about the business contract yesterday, we were busy with work.
+I use the email about twenty times a day , becasue I often contact with my colleagues by the email.
 
-Many times a day, because I use email to contact with my coworkers and our customers.
-
-I always use email first, but when I need to discuss a lot of information with my coworkers, 
-I will use phone instead.
+I always use email first,  Because It's very convenient, 
+but when I need to discuss a lot of information with my colleagues, I use phone instead.
 ```
 
 
@@ -81,10 +79,10 @@ my office is far from my home About 1000 meters, so I don't need to drive.
 
 I prefer to go to work earlier. because I need more time to learn new knowledge.
 
-I prefer work with good colleague. there are some advantages below.
+I prefer to work with good colleagues. there are some advantages below.
 First: I can learn knowledge and work skills from them. 
-Second: they will help me when I meet difficulties, I will work efficiently.
-Third: I feel happy whean I am working.
+Second: they will help me when I meet difficulties, so that I can work efficiently.
+Third: I feel happy when I am working.
 
 ```
 
@@ -97,13 +95,14 @@ Third: I feel happy whean I am working.
 My answer:
 
 ```
-We judge its quality by sales data/volume and customer reviews
-It is silk. Because our silk is very beautiful that people like to buy it as a gift.
+We judge its quality by sales data/volume and customer reviews.
 
-Yes, I will buy them over the internet. 
-Firstly: Shopping online is cheaper than offline.
-Secondly: I can search more information about it(the souvenir).
-Thirdly: I can check customer review.
+It's silk. Because our silk is so beautiful that people like to buy it as a gift.
+
+Yes, I will buy them online. 
+Shopping online is cheaper than offline.
+and I can search more information about them.
+I also can check customer reviews.
 ```
 
 
@@ -115,13 +114,13 @@ Thirdly: I can check customer review.
 My answer:
 
 ```
-It is my wife's birthday party last week. we were very happy.
+It was my wife's birthday party last week. we were very happy.
 
-usually, I buy birthday gift online. shopping online is cheaper than offline.
+usually, I buy the birthday gift online. shopping online is cheaper than offline.
 
 Yes of course. We should prepare many kinds of food.
-Because we invated a lot of friends, different people like different foods.
-We need to prepare deserts /dɪˈzɜːts/, vegetables, meat.
+Because we invited a lot of friends adn different people like different foods.
+We need to prepare deserts /dɪˈzɜːts/, vegetables and meat.
 ```
 
 ### 18.3	part3（5~7）(15+15+30)
@@ -132,10 +131,9 @@ We need to prepare deserts /dɪˈzɜːts/, vegetables, meat.
 My answer:
 
 ```
-my house is about 10 years old. it is a house. I like big house.
+my house is about 10 years old and it is a house.  Because I like big house.
 
-I want to improve the garden of my house. It is too small,
-I like flowers.
+I want to improve the garden of my house, because I like flowers, but the garden is to small.
 
 I will do it myself. 
 Because I can learn skills,
@@ -152,15 +150,15 @@ I must take good care of my flowers and plants. I don't trust other people.
 My answer:
 
 ```
-My hobby is reading, I've been reading about 10 years.
+My hobby is reading, I've been reading for 10 years.
 
 No, I don't have enough time to do it. I'm busy with work. 
 
 
 reading books can help us learn more usefull skills, we will work efficiently.
 I usually read in the book store on weekends. and I have met many new friends by reading.
-we often reading together and discuss the books.
-but I buy books online, because shopping online is cheaper than offline.
+we often read together and discuss the books.
+but I often buy books online, because shopping online is cheaper than offline.
 ```
 
 ### 20.3	part3（5~7）(15+15+30)
@@ -173,11 +171,10 @@ My answer:
 ```
 I often eat at home, Because I like cooking.
 
-The evening of Weekends, of course. we need to book in advance.
-because there are many people dining out.
+Many people dining out at evening and we need to book in advance.
 
-Yes, I recommend 海底捞 Hot Pot, and They provide a take-out service
-they also provide many delicious dishes, 
+Yes, I recommend 海底捞 Hot Pot.
+They provide a take-out service, and they provide many delicious dishes.
 Their service is great and the price is very cheap.
 ```
 
@@ -189,12 +186,12 @@ Their service is great and the price is very cheap.
 ``` 
 My last tour was in Nanjing last year. It is a very beautiful city.
 
-I choose group tour, because it is cheaper and I can talk about the tour with the group.
+I choose group tour, because it is cheaper and I can talk about the travel with team members.
 
-If I go on a tour, tour guide is the most important. 
+If I go to a tour, The tour guide is the most important. 
 I can get professional knowledge about the tour, 
 and study many skills from the tour guide.
-Tour guide can save our time, we will have more time to enjoy the tour.
+A Tour guide can save our time, we will have more time to enjoy the tour.
 ```
 
 
@@ -216,7 +213,7 @@ because  If there is any news, they will send me alert msg at once. it is very c
 
 I think watching news on TV is not good. Because It is inconvenient, 
 Nowdays, young people usually have no TV at their home, 
-They use smartphone or computer a lot.
+They use smartphones or computers a lot.
 and we can't search for interesting news and send reiews by TV.
 ```
 
@@ -232,7 +229,7 @@ My answer:
 My hometown is BeiJing. I had lived there for 20 years. 
 
 I live in Nanjing now, Nanjing's public transportation is very convenient.
-It also have many museums. 
+It also has many museums. 
 
 
 If I moved to another place, convenience/kənˈviːniəns/ of life is the most important.
@@ -251,11 +248,11 @@ My answer:
 ```
 I bought my computer last month, because the old one was broken.
 
-I think computers are sold more online, because shooping online is cheaper than offline.
+I think computers are sold more online, because shopping online is cheaper than offline.
 
 I think the most important thing is the quality.
 If the computer often broken, I can’t work efficiently, 
-and most important information is store in the computer, such as my family photos, musics and films.
+and many important information is store in the computer, such as my family photos, musics and films.
 I can't lose them.
 that is all.
 ```
@@ -269,13 +266,13 @@ that is all.
 My answer:
 
 ```
-I lived in my hometown for 20 years. I left my hometown about ten years ago (when I need to go to college).
+I lived in my hometown for 20 years. I left my hometown about ten years ago (because I need to go to college).
 
 Many people leave/liːv/ their hometown for many reasons, such as work, education and business. 
 I left my hometown for the education, there is no university in my hometown.
 
-People who have always lived in their hometown will easy to succeed.
+People who has always lived in their hometown will easy to succeed.
 they live with their families, relatives and old friends, 
-who will help them when they meet difficulties.
-and they don't need to rent or buy a house, they will have more money to improve themself.
+who will help them to solve difficulties.
+and they don't need to rent or buy a house, this will make them have more money to improve themself.
 ```
