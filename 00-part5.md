@@ -349,23 +349,21 @@ That's why I think  communicate well is the most important.
 My answer:
 
 ```
-According to my personal experience,
 I think people will be healthier in the future then they are now. 
 There are some reasons below:
 
 First, Nowadays, People pay more and more attention to their health.
 For example, my friends and colleagues eat healthy food, 
-do more exercises/sports, such as running and playing football.
-most of them go to the fitness center twice a week.
+do more exercises.
 
-Second,  The Medical technology has been improved..
-There are  more and more new drugs for different diseases /dɪˈziːzɪz/.
+Second, The Medical technology has been improved..
+There are more and more new drugs for many diseases /dɪˈziːzɪz/.
 many vaccines can protect us from getting sick.
 
 Third, People begin to protect the environment, 
 the environment of future will be better than now.
 
-That's why I think people will be healthier in the future.
+That's all.
 ```
 
 
@@ -380,17 +378,13 @@ There are some advantages below:
 
 First: My parents have 20 years of work experience, 
 they can help me recognize the disadvantages of the new job.
-and help me make the right choice.
 
 Second: Change a job is a big deal for a family. 
-I must make good communication with them, they will feel better, 
-we must respect each other.
+I must make good communication with them, we must respect each other.
 
 Third: With family member's support we will work efficiently.
-New job may need to move to another city, or go abroad, or work overtime,and so on. 
-we need their support.
 
-So I think we must discuss with my family members when I have a new job offer.
+That's all.
 ```
 
 
@@ -404,14 +398,13 @@ I think colleague communicate well is the most important.
 there are some reasons as follows:
 
 First, colleague communicate well enable us to express our views clearly,
-and share our true thoughts with our colleagues. 
-we can find out the root cause of the problem through communication.
+we can find out the root cause of the problem.
 
-Second, from communicate we can get other people's opinions, 
-and find our misstakes of our tasks, which could be a risk of our project.  
+Second, from communicate we can get other people's opinions[əˈpɪnjəns], 
+and find our misstakes of our tasks.
 
 Third, communicate well can make team members feel better, 
-which can makes our work efficiently. Team is more likely to succeed.
+which can makes our work efficiently.
 
-That's why I think colleague communicate well is the most important.
+That's all
 ```
