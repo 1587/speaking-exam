@@ -383,7 +383,63 @@ In the background, we can see some other cars and many trees.
 ```
 
 
-### 4.2	part2（3 ~ 4）(30+30) 6~8个句子
+
+
+### 2.2 part2（3 ~ 4）(30+30) 6~8个句子
+
+人很多的饭店，或坐着吃东西，或在交流。近景是三个人，一个人在吃薯条，另外两人在看菜单点餐，点餐的两个人中，其中一个男生拿着水
+
+My answer:
+
+```
+The picture is taken in a restaurant with many people. 
+Most of them are eating food and talking. 
+
+In the middle, there are 3 people sitting around a table. 
+One is eating chips. The other 2 are looking at a menu and ordering food. 
+I think the restaurant business is quite good. and the food is tasty.
+```
+
+一个仓库里面，右边两个女的在衣柜那里准备换衣服，一个女（左边）的是长头发、棕色裙子，另一个女的（右边）是白毛衣。左边有一个穿着蓝色上衣的胖男人的背影，在往远处走，仓库里面很多货架货物. 
+
+My answer:
+
+```
+The picture is taken in warehouse with 3 people. 
+
+On the left, there are two women changing clothes. 
+One of them with long hair is wearing a brown dress, another one is wearing a white sweater. 
+One the right, a fat man with blue shirt is walking in the distance. 
+we can also see many goods on the shelves.
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 4.2	part2（3 ~ 4）(30+30) 6~8个句子 已考过
  第三题：一张公园的照片，路上一个穿黑色裙子（连衣裙）的女（短发，背影）在走路，其他人在路边长条椅上坐着，最近的椅子上，一人在看报，一人在看手机。路边右侧是公园的绿草地，草地上有大树。远处背景有很多人。
 
 My answer:
@@ -412,32 +468,4 @@ Another girl is taking photos for them.
 In the background, I can see more chickens and some buildings.
 
 (I think it is a beautiful place for people to take a rest.)
-```
-
-### 2.2 part2（3 ~ 4）(30+30) 6~8个句子
-
-人很多的饭店，或坐着吃东西，或在交流。近景是三个人，一个人在吃薯条，另外两人在看菜单点餐，点餐的两个人中，其中一个男生拿着水
-
-My answer:
-
-```
-The picture is taken in a restaurant with many people. 
-Most of them are eating food and talking. 
-
-In the middle, there are 3 people sitting around a table. 
-One is eating chips. The other 2 are looking at a menu and ordering food. 
-I think the restaurant business is quite good. and the food is tasty.
-```
-
-一个仓库里面，右边两个女的在衣柜那里准备换衣服，一个女（左边）的是长头发、棕色裙子，另一个女的（右边）是白毛衣。左边有一个穿着蓝色上衣的胖男人的背影，在往远处走，仓库里面很多货架货物. 
-
-My answer:
-
-```
-The picture is taken in warehouse with 3 people. 
-
-On the left, there are two women changing clothes. 
-One of them with long hair is wearing a brown dress, another one is wearing a white sweater. 
-One the right, a fat man with blue shirt is walking in the distance. 
-we can also see many goods on the shelves.
 ```
