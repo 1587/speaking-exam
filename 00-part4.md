@@ -197,6 +197,34 @@ please keep that in mind.
 
 
 
+### 2.4 part4（8~10）(15+15+30) 题目是听的
+会议 议程
+图表是在印度一个饭店有个数据库会议，问题：
+1,会议在哪一天什么时间举行，会议的日期，开始时间，
+2,地址是什么hotel， 对吗。
+3.关于安全的会议都有哪几场，图标中有2场，上午和下午都一场
+
+My answer:
+
+```
+Hello Sir, The XX Database Meeting will be held on May The 20th, 
+The meeting opens from 9:00 am to 5:00 pm (on Monday).
+
+No, I am sorry, I am afraid that XX Database Meeting will be Held in The Crown Hotel. 
+Please remember that.
+
+Yes, according to the information, there are 2 sessions about Database security. 
+First, there is session about XX security (from 10:00 am to 11:00 am) (Hosted by XXX). 
+Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (Hosted by XXX).
+Please keep that in mind.
+```
+
+
+
+
+
+
+
 
 ### 4.4	part4（8~10）(15+15+30) 题目是听的
 1. 会议什么时候举行，on Mondy  1月17日；地点是**Hall；
@@ -219,28 +247,6 @@ Please keep that in mind.
 ```
 
 
-
-### 2.4 part4（8~10）(15+15+30) 题目是听的
-会议 议程
-图表是在印度一个饭店有个数据库会议，问题：
-1,会议在哪一天什么时间举行，会议的日期，开始时间，
-2,地址是什么hotel， 对吗。
-3.关于安全的会议都有哪几场，图标中有2场，上午和下午都一场
-
-My answer:
-
-```
-Hello Sir, The XX Database Meeting will be held on May The 20th, 
-The meeting opens from 9:00 am to 5:00 pm (on Monday).
-
-No, I am sorry, I am afraid that XX Database Meeting will be Held in The Crown Hotel. 
-Please remember that.
-
-Yes, according to the information, there are 2 sessions about Database security. 
-First, there is session about XX security (from 10:00 am to 11:00 am) (Hosted by XXX). 
-Next, there is a session about YY security (from 3:00 pm to 4:00 pm).  (Hosted by XXX).
-Please keep that in mind.
-```
 
 
 
