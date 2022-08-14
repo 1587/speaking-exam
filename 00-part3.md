@@ -238,10 +238,11 @@ It’s better to have some supermarkets and hospitals around the new place.
 ```
 
 
-### 4.3	part3（5~7）(15+15+30)
+### 4.3	part3（5~7）(15+15+30)  已考过
 1. 你上次买电脑是什么时候，为什么买？
-2. 你觉得电脑在线上卖的多还是线下卖的多？
-3. 你觉得电脑最重要的是什么?
+2. 你觉得电脑最重要的是什么?
+3. 你觉得电脑在线上卖的多还是线下卖的多？
+
 
 My answer:
 
