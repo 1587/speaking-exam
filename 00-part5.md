@@ -12,18 +12,16 @@ My answer:
 ```
 if the government pay the cost of university courses for all students,
 the quality of the country's education will be improved.
-
 I have some reasons below:
 
 first: students will have more money to buy learning equipment,
-such as ipads, computers and smartphones That makes them study efficiently.
+such as ipads, computers and smartphones that makes them study efficiently.
 
 second: students don't nedd to spend much time on part-time job. 
 so that they can focus on their study,
 
 third: It gives everyone a chance to go to the college, 
-The more people go to the college,
-the stronger the country will be.
+The more people go to the college, the stronger the country will be.
 
 That's all.
 ```
@@ -39,12 +37,12 @@ I have some reasons below:
 
 First, in china, the Housing price is too high, that buying a house will cost too much money. 
 I don't have enough money for education, travel, or take care of my parents. 
-I will be a mortgage/ˈmɔːɡɪdʒ/ slave.
+I will be a mortgage /ˈmɔːɡɪdʒ/ slave /sleɪv/.
 
 Second, if my new job is far from the house. I will spend more time on commute.
-It is inconvenient.
+It is inconvenient/ˌɪnkənˈviːniənt/. 
 
-third, I need to maintain the house every year, 
+third, I need to maintain /meɪnˈteɪn/ the house every year, 
 and I also have to pay building taxes/ˈbɪldɪŋ ˈtæksɪz/
 
 that is all.
@@ -65,7 +63,7 @@ not the first job, maybe the second one, the third one.
 Second: When I was an interviewer, I did not care about the interviewee's first job,
 because I just care about their last job and their Work experience.
 
-Third: People often change their jobs nowadays. If your don't like you first job, 
+Third: People often /ˈɔːf(ə)n/ change their jobs nowadays /ˈnaʊədeɪz/. If your don't like you first job /dʒɒb/, 
 you should change it as soon as possible. 
 
 That's all.
@@ -73,22 +71,22 @@ That's all.
 
 
 ### 13.5	part5（11）(60) 定稿
-当你获得一个公司的offer时，你是否同意需要考虑这个公司的reputation
+当你获得一个公司的offer时，你是否同意需要考虑这个公司的 reputation /ˌrepjuˈteɪʃn/
 
 ``` 
 I think we need to think about the reputation of the company.
-There are some advantages below. 
+There are some reasons below. 
 
 First: If a company has a good reputation, 
-it will have more business opportunities. Opportunity means money. 
-the company could provide good slary for the employees.
+it will have more business opportunities /ˌɒpəˈtjuːnətiz/. Opportunity means money. 
+the company could provide good salary /ˈsæləri/ for the employees.
 
 Second: If a company has a bad reputation, The employees won't be loyal to it. 
 they will leave the company one by one. Sooner or later The company will go bankrupt.
 
-for examble, My company has a very good reputation, I have work for it about 10 years.
+for examble, My company /ˈkʌmpəni/ has a very /ˈveri/ good reputation, I have work for it about 10 years.
 
-So, I think companies should do a lot to build a good reputation.
+So, I think /θɪŋk/ companies should do a lot to build a good reputation.
 
 That is all
 ```
@@ -109,7 +107,7 @@ Yes, I think professional success requires risk.
 
 The Opportunity is always come with risk, if we don't take any risk, we have no chance of success.
 
-risk also means challenge, and challenge makes the team stronger which will make it easier for us to succeed.
+risk also means challenge, and challenge /ˈtʃælɪndʒ/ makes the team stronger which will make it easier for us to succeed.
 
 I have led many projects, and every project has risks, so we need to solve them. 
 for example, in our company, we discuss how to resolve risks through weekly meeting.
