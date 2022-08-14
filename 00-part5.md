@@ -69,6 +69,27 @@ you should change it as soon as possible.
 That's all.
 ```
 
+### 13.5	part5（11）(60) 已考过
+当你获得一个公司的offer时，你是否同意需要考虑这个公司的 reputation /ˌrepjuˈteɪʃn/
+
+``` 
+I think we need to think about the reputation of the company.
+There are some reasons below. 
+
+First: If a company has a good reputation, 
+it will have more business opportunities /ˌɒpəˈtjuːnətiz/. Opportunity means money. 
+the company could provide good salary /ˈsæləri/ for the employees.
+
+Second: If a company has a bad reputation, The employees won't be loyal to it. 
+they will leave the company one by one. Sooner or later The company will go bankrupt.
+
+for examble, My company /ˈkʌmpəni/ has a very /ˈveri/ good reputation, I have work for it about 10 years.
+
+So, I think /θɪŋk/ companies should do a lot to build a good reputation.
+
+That is all
+```
+
 
 ### 15.5	part5（11）(60) 定稿
 成功(professional success)是否需要冒险
@@ -297,27 +318,6 @@ That's all.
 ```
 
 
-### 4.5	part5（11）(60) 定稿
-大题：如果你接到一个工作offer，你会和家里人family members 商量吗？ 和家人讨论的优点是什么？
-
-My answer(需要重新梳理):
-
-```
-If I have a new job offer, I will discuss with my family members, 
-There are some advantages below:
-
-First: My parents have 20 years of work experience, 
-they can help me recognize the disadvantages of the new job.
-
-Second: Changing a job is a big deal for a family. 
-I must make a good communication with them, we must respect each other.
-
-Third: under family member's support we can work efficiently.
-New jobs may need to move to another city, go abroad work overtime , and so on.
-
-That's all.
-```
-
 
 ### 2.5 part5（11）(60) 定稿
 你认为在就职一份新工作时   work hard willingness 还是 colleague communicate well更重要？-努力工作的意识和跟人相处、协作能力哪个更重要
@@ -341,41 +341,23 @@ That's all
 ```
 
 
+### 4.5	part5（11）(60) 定稿
+大题：如果你接到一个工作offer，你会和家里人family members 商量吗？ 和家人讨论的优点是什么？
 
+My answer(需要重新梳理):
 
+```
+If I have a new job offer, I will discuss with my family members, 
+There are some advantages below:
 
+First: My parents have 20 years of work experience, 
+they can help me recognize the disadvantages of the new job.
 
+Second: Changing a job is a big deal for a family. 
+I must make a good communication with them, we must respect each other.
 
+Third: under family member's support we can work efficiently.
+New jobs may need to move to another city, go abroad work overtime , and so on.
 
-
-
-
-
-
-
-
-
-
-
-
-
-### 13.5	part5（11）(60) 已考过
-当你获得一个公司的offer时，你是否同意需要考虑这个公司的 reputation /ˌrepjuˈteɪʃn/
-
-``` 
-I think we need to think about the reputation of the company.
-There are some reasons below. 
-
-First: If a company has a good reputation, 
-it will have more business opportunities /ˌɒpəˈtjuːnətiz/. Opportunity means money. 
-the company could provide good salary /ˈsæləri/ for the employees.
-
-Second: If a company has a bad reputation, The employees won't be loyal to it. 
-they will leave the company one by one. Sooner or later The company will go bankrupt.
-
-for examble, My company /ˈkʌmpəni/ has a very /ˈveri/ good reputation, I have work for it about 10 years.
-
-So, I think /θɪŋk/ companies should do a lot to build a good reputation.
-
-That is all
+That's all.
 ```
