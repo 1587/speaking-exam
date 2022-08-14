@@ -238,6 +238,44 @@ It’s better to have some supermarkets and hospitals around the new place.
 ```
 
 
+
+### 2.3 part3（5~7）(15+15+30)
+1. 什么时候离开hometown去城市的？你在hometown待了多长的时间
+2. 很多人离开家乡的原因是什么
+3. 一生在家乡长大的人的优势是啥
+
+My answer:
+
+```
+I lived in my hometown for 20 years. I left my hometown about ten years ago (because I need to go to college).
+
+Many people leave/liːv/ their hometown for many reasons, such as work, education and business. 
+I left my hometown for the education, there is no university in my hometown.
+
+People who has always lived in their hometown will easy to succeed.
+they live with their families, relatives and old friends, 
+who will help them to solve difficulties.
+and they don't need to rent or buy a house, this will make them have more money to improve themself.
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 4.3	part3（5~7）(15+15+30)  已考过
 1. 你上次买电脑是什么时候，为什么买？
 2. 你觉得电脑最重要的是什么?
@@ -258,22 +296,3 @@ I can't lose them.
 that is all.
 ```
 
-
-### 2.3 part3（5~7）(15+15+30)
-1. 什么时候离开hometown去城市的？你在hometown待了多长的时间
-2. 很多人离开家乡的原因是什么
-3. 一生在家乡长大的人的优势是啥
-
-My answer:
-
-```
-I lived in my hometown for 20 years. I left my hometown about ten years ago (because I need to go to college).
-
-Many people leave/liːv/ their hometown for many reasons, such as work, education and business. 
-I left my hometown for the education, there is no university in my hometown.
-
-People who has always lived in their hometown will easy to succeed.
-they live with their families, relatives and old friends, 
-who will help them to solve difficulties.
-and they don't need to rent or buy a house, this will make them have more money to improve themself.
-```
